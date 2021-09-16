@@ -26,7 +26,6 @@ def make_query(after_cursor=None):
           commitCount
           description
           webUrl
-          approved
           state
           approvedBy {
             pageInfo {
@@ -79,9 +78,7 @@ def make_query(after_cursor=None):
 async def fecth_mergerequest(oauth_token):
     has_next_page = True
     after_cursor = None
-    count = 0
     header = [
-        "Approved",
         "Title",
         "CommitCount",
         "State",
@@ -105,17 +102,14 @@ async def fecth_mergerequest(oauth_token):
                 for reviewrs in merge_request["node"]["reviewers"]["edges"]:
                     reviews = reviewrs["node"]["name"]
 
-                # print(json.dumps(merge_request, indent=4))
                 row.append(
                     [
-                        merge_request["node"]["approved"],
                         merge_request["node"]["title"],
                         merge_request["node"]["commitCount"],
                         merge_request["node"]["state"],
                         reviews,
                     ]
                 )
-                count += 1
                 reviews = []
             has_next_page = json_data["data"]["project"]["mergeRequests"]["pageInfo"][
                 "hasNextPage"
@@ -123,9 +117,6 @@ async def fecth_mergerequest(oauth_token):
             after_cursor = json_data["data"]["project"]["mergeRequests"]["pageInfo"][
                 "endCursor"
             ]
-
-    print("all of them printed")
-    print("total count->", count)
 
     with open("MergeRequest.csv", "w", encoding="UTF8", newline="") as csv_file:
         writer = csv.writer(csv_file)

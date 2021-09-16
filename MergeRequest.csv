@@ -1,1127 +1,1127 @@
-Approved,Title,CommitCount,State,Reviews
-True,Deploy UAT: Sep 16,162,opened,[]
-True,fixes for trial subs,1,merged,[]
-True,Draft: Fix/workspace ordering,2,opened,Sundar Shahi
-True,refactor: added card details optimistic response after card added,1,merged,[]
-True,feat: implemented renew subs and force redirected on billing if cancelled,5,merged,[]
-True,Hotfix/sept 15,5,merged,[]
-True,Refactor/online offline v3,3,merged,Ritesh  Sainju
-True,"Resolve KS-2852 ""Task/hide unimplemented features/""",3,merged,[]
-True,WebSocket connection issue on workspace switch fixed,1,merged,Ritesh  Sainju
-True,refactor: added skeleton in number settings,1,merged,[]
-True,Refactor/notification auto recharge,3,merged,[]
-True,Refactor/billing and plan,2,merged,[]
-True,Develop,26,merged,[]
-True,update cache after mark as read in add contact,1,merged,[]
-True,Task/ui fixes 2/ks code,5,merged,[]
-True,Refactor/online offline v3,2,merged,Ritesh  Sainju
-True,fix: show error toast oncompleted,1,merged,[]
-True,Hotfix/support number purchase status,3,merged,[]
-True,Task/refactor recent conversation,9,merged,[]
-True,ui switch for voicemail transcription,1,merged,Abin Khatiwada
-True,Task/refactor data support,2,merged,Sundar Shahi
-True,hotfix for qa,3,merged,[]
-True,Fix/widget add contact,2,merged,Sundar Shahi
-True,Develop,14,merged,[]
-True,"Resolve KS-2811 ""Task/no data support ui/""",4,merged,[]
-True,Access token added on sending ping,1,merged,Ritesh  Sainju
-True,disable call button in topbar if call in progress,1,merged,[]
-True,Fix/contact table tags search,2,merged,[]
-True,fix double pagination IN SUPPORT,1,merged,[]
-True,Develop,30,merged,[]
-True,Refactor: Early returned without api call if detail unchanged in team detail update,1,merged,[]
-True,Refactor/online offline cache update,9,merged,Ritesh  Sainju
-True,Draft: Hotfixes/sept 9,2,closed,[]
-True,fix: fixes sep 9 2021,2,merged,[]
-True,"Resolve KS-2733 ""Feature/responsive members list 768/""",8,merged,Sundar Shahi
-True,Feature/remove pending number,3,merged,[]
-True,generate graphql schemas,1,merged,[]
-True,Develop,22,merged,[]
-True,Feature/permission update,4,merged,Ritesh  Sainju
-True,refactor: added filter by ticket number in search,1,merged,[]
-True,Fix/contact delete,3,merged,[]
-True,Draft: Refactor/online offline,1,closed,Ritesh  Sainju
-True,feat: add contact from widdget,1,merged,[]
-True,"Resolve KS-2771 ""Feature/members chat responsive ui/""",2,merged,Sundar Shahi
-True,Develop,6,merged,[]
-True,show team pic in sidebar,1,merged,Sundar Shahi
-True,"Resolve KS-2780 ""Task/top notification bar ui/""",5,merged,Sundar Shahi
-True,Fix/auto reply custom text,3,merged,Abin Khatiwada
-True,Develop,34,merged,[]
-True,notes validation fix,1,merged,[]
-True,Fix/validation errors,4,merged,[]
-True,Fixes/7 sep 2021,2,merged,[]
-True,Refactor/online offline,2,merged,Ritesh  Sainju
-True,Support/callerid,3,merged,[]
-True,Refactor/number purchase,2,merged,[]
-True,Fix/edit number name unique check,2,merged,[]
-True,Fixes/validation issues,4,merged,Sundar Shahi
-True,Hotfix/edit profile by member,2,merged,Ritesh  Sainju
-True,Fix/disconnect incomingcall on device destroy,2,merged,Sundar Shahi
-True,Develop,19,merged,[]
-True,Uat deployment Sept 6,160,merged,[]
-True,fixes sep 6 2021,1,merged,[]
-True,"Resolve KS-2347 ""Feature/caller id settings/""",4,merged,Sundar Shahi
-True,moved setup route,2,merged,[]
-True,ui fixes,1,merged,[]
-True,API call prevented if data is available locally,1,merged,Ritesh  Sainju
-True,fix error message,1,merged,[]
-True,Bugfix/custom recordings,2,merged,Ritesh  Sainju
-True,QA deployment Sep 3,13,merged,[]
-True,Task/responsive screens/ks code,7,merged,Sundar Shahi
-True,back to setting on not found,1,merged,[]
-True,Bugfix/pinned message search,2,merged,Ritesh  Sainju
-True,Develop,22,merged,[]
-True,"Resolve KS-2689 ""Bugfix/inviteemailcheck/""",2,merged,[]
-True,fix error message in purchase credit and userInvite accept,1,merged,[]
-True,support caller id UI,2,merged,[]
-True,"Resolve KS-1918 ""Feature/show active members/""",2,merged,Ritesh  Sainju
-True,Refactor/routes,2,merged,[]
-True,add confirmation modal in caller id settings,1,merged,Sundar Shahi
-True,Develop,5,merged,[]
-True,Bugfix/contact detail,2,merged,[]
-True,upgrade tooltip,1,merged,[]
-True,Develop,16,merged,[]
-True,Fix/sep 1 2021,2,merged,[]
-True,Bugfix/contact detail edit issues,2,merged,[]
-True,refactor: rounded total in agents and numbers price,1,merged,[]
-True,Task/responsive popups/ks code,2,merged,Sundar Shahi
-True,Task/random avatar based on hash,2,merged,[]
-True,fix contact edit,1,closed,[]
-True,LogScroller Implemented,5,merged,[]
-True,clear dnd value on cancle,1,merged,[]
-True,QA latest frontend deployment Aug 31,6,merged,[]
-True,refactor: added plan remaining days in restore workspace,1,merged,[]
-True,Develop,4,merged,[]
-True,fix validation on card number,1,merged,[]
-True,switch workspace while in call progres,1,merged,[]
-True,Develop,57,merged,[]
-True,"Resolve KS-2590 ""Task/field validatin/""",4,merged,Abin Khatiwada
-True,Bug fix on custom audio player,1,merged,Ritesh  Sainju
-True,Hotfix/update,2,merged,Ritesh  Sainju
-True,"Resolve KS-2590 ""Task/field validatin/""",2,merged,[]
-True,Feature/member to member chat,3,merged,Ritesh  Sainju
-True,"Resolve KS-2621 ""Task/caller id ui/""",3,merged,Sundar Shahi
-True,"Resolve KS-2590 ""Task/field validatin/""",5,merged,[]
-True,fix: unable to change workspace name,1,merged,[]
-True,prevent api call if value unchanged in contact edit,1,merged,[]
-True,date filter fixes,1,merged,[]
-True,tags filter check fixes and workspace restore fixes,1,merged,[]
-True,Feature/settings responsive/ks code,2,merged,Sundar Shahi
-True,Mvp deployment Aug 27,458,merged,[]
-True,Search refactored,1,merged,Ritesh  Sainju
-True,Form Validations,16,merged,[]
-True,Develop,29,merged,[]
-True,Hotfix/padding in settings,1,merged,Sundar Shahi
-True,ping triggered on user login,1,merged,Ritesh  Sainju
-True,changed fetch policy,1,merged,[]
-True,Fixes/27 aug 2021,3,merged,[]
-True,Feature/responsive/ks code,10,merged,Sundar Shahi
-True,Feature/member to member chat,3,merged,Ritesh  Sainju
-True,Feature/support enterprise plan,3,merged,[]
-True,uat deployment,63,merged,[]
-True,QA deployment 26th Aug 9:11,21,merged,[]
-True,Feature/support number port,2,merged,Ritesh  Sainju
-True,Develop,40,merged,[]
-True,fix: cursor moved to end while updateing number due to auto format,1,merged,[]
-True,Hotfixes/allworkspacemembers cache update,3,merged,Sundar Shahi
-True,tos and policy link,1,merged,[]
-True,added tooltip in information icon,1,merged,[]
-True,UAT deployment AUG 23,83,merged,[]
-True,Hotfixes/aug 23,3,merged,[]
-True,Feature/support dashboard,11,merged,[]
-True,Feature/member to member chat,6,merged,Ritesh  Sainju
-True,restrict call transfer to agents who are on call,3,merged,[]
-True,Hotfix/channels cache update issues,3,merged,[]
-True,Prompt to go online added,10,merged,Ritesh  Sainju
-True,Draft: Feature/promp to go online,0,closed,[]
-True,fixes undefined and null,1,merged,[]
-True,Develop,14,merged,[]
-True,Bottom scroll on message typing issue fixed,1,merged,Ritesh  Sainju
-True,"Resolve KS-2581 ""Bugfix/add contact fixes/""",2,merged,[]
-True,Hotfixes/20 aug 2021,3,merged,[]
-True,Develop,10,merged,[]
-True,support,7,merged,[]
-True,Feature/greetings,2,merged,Ritesh  Sainju
-True,Feature/greetings,2,closed,Ritesh  Sainju
-True,Task/update pin ui dropdown,4,merged,Abin Khatiwada
-True,"Resolve KS-2428 ""Feature/mark as read api integration/""",3,merged,[]
-True,Fix/duplicate workspaces profile query,2,merged,[]
-True,Develop,3,merged,[]
-True,Hotfix/number settings path,2,merged,Sundar Shahi
-True,Develop,52,merged,[]
-True,hide clear all btn in respective filters if filter is not selected,1,merged,[]
-True,"Resolve KS-2427 ""Task/ui mark done/""",2,merged,Sundar Shahi
-True,fix one device login,1,merged,Ritesh  Sainju
-True,Feature/unarchive conversation,7,merged,Sundar Shahi
-True,"Resolve KS-2486 ""Feature/responsive individual number/""",3,merged,Sundar Shahi
-True,auth context and plan details in workspace,1,merged,[]
-True,updated version 0.13.0,1,merged,[]
-True,Feature/greetings,3,merged,Ritesh  Sainju
-True,Refactor/contact context,3,merged,[]
-True,Uat deployment 17 aug 3:11,309,merged,[]
-True,Refactor/code cleanup gql,5,merged,[]
-True,Refactor/code cleanup gql,2,merged,Sundar Shahi
-True,"Resolve KS-1918 ""Feature/show active members/""",3,merged,[]
-True,fix un necessary query call,1,merged,[]
-True,Refactor/navhelper context,2,merged,[]
-True,Refactor/aug 17 2021,2,merged,[]
-True,Develop,17,merged,[]
-True,number setting context,1,merged,[]
-True,clean up code,1,merged,Sundar Shahi
-True,"Resolve KS-1918 ""Feature/show active members/""",6,merged,Ritesh  Sainju
-True,hide incomplete features related to audio device settings,1,merged,[]
-True,Task/number search trial,3,merged,Ritesh  Sainju
-True,Develop,37,merged,[]
-True,Hotfix/change twilio ttl,4,merged,[]
-True,"Resolve KS-2485 ""Feature/responsive number purchase/""",4,merged,Sundar Shahi
-True,Refactor/16 aug 2021,6,merged,[]
-True,Team members online/offline status updated real time,1,merged,Ritesh  Sainju
-True,Develop,37,closed,[]
-True,"Resolve KS-1918 ""Feature/show active members/""",3,merged,Ritesh  Sainju
-True,"Resolve KS-2484 ""Feature/responsive number list/""",3,merged,Sundar Shahi
-True,fix: omited typename from ivrOptions in save,1,merged,Abin Khatiwada
-True,port number,2,merged,Ritesh  Sainju
-True,Feature/forward call,2,merged,[]
-True,bottom loading removed,1,merged,Ritesh  Sainju
-True,Develop,44,merged,[]
-True,active receipt tab from email redirect link,1,merged,Ritesh  Sainju
-True,reset members list in numbers sharing select field,1,merged,Sundar Shahi
-True,Api change/auto reply,2,merged,Ritesh  Sainju
-True,chore: intercome identity for logged in user,2,merged,[]
-True,"refactor: code optimization,  cleanup and console error fixes",3,merged,Ritesh  Sainju
-True,Fixes/cache update issues,4,merged,Sundar Shahi
-True,"Resolve KS-2483 ""Task/responsive profile settings/""",2,merged,Sundar Shahi
-True,device setting,3,merged,[]
-True,Api change/auto reply,2,merged,Ritesh  Sainju
-True,"Resolve KS-1918 ""Feature/show active members/""",5,merged,Ritesh  Sainju
-True,Fixes/11 aug 2021,4,merged,Ritesh  Sainju
-True,fix div descendant of p issue,1,merged,Ritesh  Sainju
-True,rename animation,1,merged,Sundar Shahi
-True,Develop,6,merged,[]
-True,Hotfix/aug 11,2,merged,[]
-True,"Resolve KS-2459 ""Task/ui functionality ctcwidget/""",2,merged,Sundar Shahi
-True,Develop,42,merged,[]
-True,reject incoming call if call is inprogress,1,merged,[]
-True,"Resolve KS-2370 ""Task/ui click to call setup/""",12,merged,Sundar Shahi
-True,"Resolve KS-1918 ""Feature/show active members/""",2,merged,Ritesh  Sainju
-True,refactor: memoized  query data,1,merged,Abin Khatiwada
-True,"Resolve KS-1918 ""Feature/show active members/""",4,merged,Ritesh  Sainju
-True,Fixes/10 aug,2,merged,Tashi Lama
-True,Hotfix/console errors warnings,2,merged,[]
-True,Refactor/10 aug 2021,6,merged,Ritesh  Sainju
-True,handle token twilio token expiry,1,merged,[]
-True,add download link,1,merged,Sundar Shahi
-True,Develop,11,merged,[]
-True,"Resolve KS-2241 ""Task/responsive team contact list 768/""",5,merged,Sundar Shahi
-True,Hotfix/handle tagslist error,2,merged,Abin Khatiwada
-True,removed unused assets,1,merged,[]
-True,Develop,17,merged,[]
-True,check micriphone in phone widget for incoming calls,1,merged,Sundar Shahi
-True,Hotfix/device settings,2,merged,[]
-True,"Resolve KS-1918 ""Feature/show active members/""",8,merged,Ritesh  Sainju
-True,"update unseencount batch, change plan pop up",2,merged,Abin Khatiwada
-True,Develop,7,merged,[]
-True,track number porting event and send to intercom,1,merged,Ritesh  Sainju
-True,Feature/plans setup,2,merged,Sundar Shahi
-True,update version,1,merged,[]
-True,Develop,2,merged,[]
-True,fix default value issue,1,merged,[]
-True,Develop,45,merged,[]
-True,validate ivr Options,1,merged,[]
-True,Mutation name changed,1,merged,Ritesh  Sainju
-True,show loading on submit,1,merged,[]
-True,Feature/plans setup,8,merged,Ritesh  Sainju
-True,[HOTFIX]: fix transfer issue,4,merged,[]
-True,resolved issue for call transfer,3,merged,[]
-True,Feature/call recording transcription,5,merged,[]
-True,Develop,11,merged,[]
-True,disable audio settings if not supported,1,merged,Sundar Shahi
-True,Feature/ivr settings,23,merged,[]
-True,"Resolve KS-1918 ""Feature/show active members/""",3,merged,Ritesh  Sainju
-True,"Resolve KS-1918 ""Feature/show active members/""",4,merged,Sundar Shahi
-True,Develop,11,merged,[]
-True,Bug fixes/aug 3,2,merged,Abin Khatiwada
-True,Bug fixes/aug 3,2,merged,[]
-True,fix: boot intercom on each refresh,1,merged,Ritesh  Sainju
-True,"Resolve KS-2365 ""Task/ui ivr message tts/""",2,merged,Sundar Shahi
-True,Develop,3,merged,[]
-True,Bug fixes/aug 3,2,merged,Sundar Shahi
-True,Develop,36,merged,[]
-True,Latest mvp build,316,merged,[]
-True,Krispcall Client Uat Build,97,merged,[]
-True,integrate intercom,1,merged,Ritesh  Sainju
-True,disable call hold temporarily for deployment,1,merged,[]
-True,"Resolve KS-2211 ""Feature/notification settings/""",3,merged,Abin Khatiwada
-True,Feature/plans setup,11,merged,Ritesh  Sainju
-True,fix: number already exist error toast on add tag from widgget,1,merged,Ritesh  Sainju
-True,Develop,21,merged,[]
-True,"Resolve KS-2210 ""Feature/change audio device twilio/""",7,merged,[]
-True,"Resolve KS-2264 ""Bug/fix search highlight/""",3,merged,Sundar Shahi
-True,fix loading on add number,1,merged,Ritesh  Sainju
-True,Feature/greetings v2,4,merged,Ritesh  Sainju
-True,Quickfix/stripe unhandled error message,1,merged,Ritesh  Sainju
-True,Quickfix/status not updated after purchase,3,merged,Ritesh  Sainju
-True,"Resolve KS-2211 ""Feature/notification settings/""",7,merged,[]
-True,"Resolve KS-2333 ""Task/dropdown greetings tts/""",3,merged,Abin Khatiwada
-True,"Resolve KS-2322 ""Task/fix design greetings/""",2,merged,Abin Khatiwada
-True,Develop,33,merged,[]
-True,refactor memberNode schema,5,merged,Ritesh  Sainju
-True,hot fix member count,1,merged,Ritesh  Sainju
-True,Task/call hold endcall subscription,10,merged,[]
-True,Bugfix/chat scroll,2,merged,Ritesh  Sainju
-True,"Resolve KS-2242 ""Task/responsive error states/""",4,merged,Sundar Shahi
-True,Develop,38,merged,[]
-True,resolve console error for draggable widget component in strictmode,1,merged,Sundar Shahi
-True,Feature/greetings v2,5,merged,Ritesh  Sainju
-True,Refactor/number search,2,merged,Ritesh  Sainju
-True,Latest UAT build,153,merged,[]
-True,show audio input output devices in settings,1,merged,Sundar Shahi
-True,"Resolve KS-2209 ""Refactor/twilio migration v2.0/""",8,merged,[]
-True,Hot fix on upload modal,1,merged,Ritesh  Sainju
-True,Task/restrict member add if no card,3,merged,Ritesh  Sainju
-True,"Resolve KS-2240 ""Task/responsive contact team list 992/""",4,merged,Sundar Shahi
-True,Feature/greetings v2,7,merged,Ritesh  Sainju
-True,Fix/capitalize names,2,merged,Ritesh  Sainju
-True,Develop,5,merged,[]
-True,Hotfix/july 26,2,merged,Sundar Shahi
-True,fix number price in number table,1,merged,Ritesh  Sainju
-True,Develop,4,merged,[]
-True,quick fix,1,merged,Ritesh  Sainju
-True,changed contact id to contact number in payload for conversation search,1,merged,Abin Khatiwada
-True,Develop,3,merged,[]
-True,Hotfix/call hold,2,merged,[]
-True,Develop,2,merged,[]
-True,Develop,2,closed,[]
-True,resolved issue for multiple addContact api call for tags edit from call widget,1,merged,Sundar Shahi
-True,Develop,94,merged,[]
-True,Refactor/client contact call hold,2,merged,[]
-True,fixed issue for add tags from call widget,1,merged,[]
-True,change payload for add pinned. use phone instead of contact id,1,merged,Sundar Shahi
-True,Refactor/client contact call hold,4,merged,Sundar Shahi
-True,Draft: Develop,94,closed,[]
-True,fix for same bg and foreground color,1,merged,[]
-True,Refactor/client contact call hold,46,merged,[]
-True,Develop,23,closed,[]
-True,Hotfix/workaround for same foreground and background,2,merged,[]
-True,Hotfix/number delete not reflected on sidebar,2,merged,Ritesh  Sainju
-True,Config/translation files,3,merged,[]
-True,fix tag count,1,merged,Ritesh  Sainju
-True,update patch version,1,merged,[]
-True,"Resolve KS-1230 ""Feature/one device one login/""",11,merged,Ritesh  Sainju
-True,fix showing wrong toast in tts save change,1,merged,Ritesh  Sainju
-True,Fix/member not showint in team add dropdown,3,merged,Ritesh  Sainju
-True,"fix row event issue in contact,member tables",2,merged,Sundar Shahi
-True,"Draft: Resolve KS-1957 ""Task/create email templates/""",14,opened,Sundar Shahi
-True,Develop,2,merged,[]
-True,fix nav active highlight,1,merged,Sundar Shahi
-True,Develop,36,merged,[]
-True,Feature/greetings,11,merged,Ritesh  Sainju
-True,Task/call hold api integration,23,merged,[]
-True,Refactor/changes in allworkspace member schema,2,merged,Ritesh  Sainju
-True,UAT deployment,314,merged,[]
-True,no index,1,merged,[]
-True,no index,1,merged,[]
-True,Refactor/cleanup code and refactor login,9,merged,Ritesh  Sainju
-True,removed unused imports,1,merged,Ritesh  Sainju
-True,"Resolve KS-2132 ""Task/responsive ui team list/""",4,merged,Sundar Shahi
-True,"fix greetings design, disable autoreply select",1,merged,Abin Khatiwada
-True,Deploy,5,merged,[]
-True,Feature/greetings,2,merged,Sundar Shahi
-True,Update package.json version,1,merged,[]
-True,Develop,14,merged,[]
-True,fix duplication issue in reorder,1,merged,Ritesh  Sainju
-True,"Resolve KS-2131 ""Task/responsive ui contact list/""",6,merged,Sundar Shahi
-True,"Resolve KS-2085 ""Task/show selected dnd/""",2,merged,Sundar Shahi
-True,Fix/deleting member doesnot reflect in sidebar/ ks-2087,1,merged,Ritesh  Sainju
-True,Develop,4,merged,Pravesh Chapagain
-True,Hotfix/fetch channels from seprate query,3,merged,Ritesh  Sainju
-True,QA build latest,33,closed,[]
-True,Develop,33,closed,[]
-True,save channel order in DB,1,merged,Ritesh  Sainju
-True,"Resolve KS-2138 ""Fix/reconnect ws on workspace switch/""",2,merged,Sundar Shahi
-True,refine refactor card form,1,merged,Sundar Shahi
-True,Task/rearrange workspace api integration,4,merged,[]
-True,Develop,21,merged,Parzival
-True,Config/cache busting and webpack config,8,merged,Ritesh  Sainju
-True,validate field length,1,merged,[]
-True,Feature/auto reply,4,merged,Sundar Shahi
-True,"Resolve KS-2081 ""Task/new design greetings/""",4,merged,Abin Khatiwada
-True,Develop,23,merged,[]
-True,fix remove number from cart,1,merged,Ritesh  Sainju
-True,Feature/greetings upload,10,merged,Ritesh  Sainju
-True,Feature/greetings upload,7,closed,[]
-True,Task/design for invalid invitation,2,merged,Ritesh  Sainju
-True,"Resolve KS-2072 ""Task/implement drag n drop lib/""",6,merged,Ritesh  Sainju
-True,Develop,3,merged,[]
-True,"Resolve KS-2076 ""Task/show memberinfo memberchat topbar/""",2,merged,Abin Khatiwada
-True,Develop,2,merged,[]
-True,replace dummy data with real data in member chat topbar,1,merged,[]
-True,Hotfix/rename styles,1,closed,[]
-True,Develop-deploy-15-07-2021,61,merged,Pravesh Chapagain
-True,fix broken files,1,merged,[]
-True,add unique key in map,1,merged,Ritesh  Sainju
-True,removed unused component,1,merged,[]
-True,"Resolve KS-2068 ""Refactor/contact member detail/""",3,merged,Sundar Shahi
-True,"Resolve KS-2064 ""Refactor/conversation ui/""",4,merged,Ritesh  Sainju
-True,Hotfix/14 07 2021,2,merged,Ritesh  Sainju
-True,"Resolve KS-1833 ""Feature/number delete/""",5,merged,Sundar Shahi
-True,"update spacing, refine conversation ui",1,merged,Ritesh  Sainju
-True,"Resolve KS-2036 ""Task/member chat topbar update refactor/""",6,merged,Ritesh  Sainju
-True,fix: KS-2034,3,merged,Tashi Lama
-True,Fix/no permission data after tab change,4,merged,Ritesh  Sainju
-True,refactor number and user price fetching,3,merged,[]
-True,"Resolve KS-1962 ""Task/draggable ordering numbers/""",3,merged,Ritesh  Sainju
-True,add drag n drop to order workspace item,1,merged,Sundar Shahi
-True,"Resolve KS-1843 ""Feature/view profile pic/""",4,merged,Ritesh  Sainju
-True,Task/responsive ui callbox update/ks code,3,merged,Sundar Shahi
-True,Deploy latest,0,closed,[]
-True,Latest deploy,20,merged,[]
-True,Hotfix/callstatus navbar search,3,merged,Sundar Shahi
-True,Refactor/number purchase requirements,3,merged,Ritesh  Sainju
-True,"Resolve KS-1909 ""Bugfix/widget unclickable issue/""",2,merged,Ritesh  Sainju
-True,Feature/add card on register,5,merged,Sundar Shahi
-True,"Resolve KS-1881 ""Bug/fix voicemail duration/""",2,merged,Ritesh  Sainju
-True,Latest deploy,8,merged,[]
-True,Hotfix/memeber msg seen count reset,5,merged,[]
-True,Refactor/template,1,merged,[]
-True,Latest QA Build,22,merged,[]
-True,Task/download invoice,2,merged,Ritesh  Sainju
-True,"Resolve KS-1892 ""Task/api integration member chat seen/""",2,merged,[]
-True,show notfound image for search text in nav bar,1,merged,[]
-True,"Resolve KS-295 ""Feature/navigation search/""",7,merged,Abin Khatiwada
-True,make call filter menu clickable for smaller resolution,1,merged,[]
-True,Latest frontend deploy,18,merged,[]
-True,invoice template,3,merged,Tashi Lama
-True,"Resolve KS-1780 ""Task/callbox responsive tablet/""",3,merged,Sundar Shahi
-True,"Resolve KS-1896 ""Task/allow newline chatbox input/""",5,merged,[]
-True,Refactor/number purchase,7,merged,Ritesh  Sainju
-True,Latest QA build,48,merged,[]
-True,Hotfix/cleanup contact selected row on unmount,3,merged,[]
-True,fix client name and profile pic of unknown,1,merged,Ritesh  Sainju
-True,Task/change clientdnd payload,2,merged,Sundar Shahi
-True,Hotfix/permission refetch,2,merged,[]
-True,"Resolve KS-1882 ""Task/create card detail page/""",2,merged,Abin Khatiwada
-True,Hotfix/permission refetch,2,merged,Sundar Shahi
-True,"Resolve KS-1596 ""Feature/unseen badge count memberchat/""",4,merged,Abin Khatiwada
-True,"Resolve KS-1889 ""Task/show activechannel data in responsive callbox/""",2,merged,Abin Khatiwada
-True,"Resolve KS-1701 ""Feature/receipts/""",10,merged,Ritesh  Sainju
-True,"Resolve KS-1779 ""Task/callbox responsive ui w992/""",6,merged,Sundar Shahi
-True,"Resolve KS-1446 ""Hotfix/client dnd/""",3,merged,Sundar Shahi
-True,Merging and deploying,36,merged,[]
-True,show missed call with voicemail in call filter,1,merged,Sundar Shahi
-True,Feature/chat scroll,2,merged,Abin Khatiwada
-True,Hotfixes/7 5 2021,6,merged,Ritesh  Sainju
-True,resolved issue for selected contacts text in contacts table on delete,1,merged,[]
-True,add copy email feature in team members list and member detail page,2,merged,[]
-True,Feature/chat scroll,7,merged,Ritesh  Sainju
-True,Hotfix/destroy twilio device on worksapce change,3,merged,Sundar Shahi
-True,Refactor/authorization,5,closed,Ritesh  Sainju
-True,Latest changes,0,closed,[]
-True,Develop,33,merged,[]
-True,Hotfix/access management,2,merged,Sundar Shahi
-True,Feature/contact search,2,merged,Ritesh  Sainju
-True,Feature/show toast for blocked contact while calling from dialer,4,merged,Ritesh  Sainju
-True,"Resolve KS-1445 ""Feature/team members list/""",21,merged,[]
-True,"Resolve KS-1778 ""Task/callbox responsive ui desktop/""",6,merged,Sundar Shahi
-True,Merging with Develop,71,merged,[]
-True,Hotfix/july 01 bugs,2,merged,[]
-True,Feature/contact search,3,merged,Ritesh  Sainju
-True,Refactor/twilio device setup,3,merged,Sundar Shahi
-True,Task/components for reset password from member list,3,merged,[]
-True,"Resolve KS-1787 ""Task/ui one user login/""",3,merged,Sundar Shahi
-True,Refactor/billing info auto recharge,2,merged,[]
-True,ui for missed voice mail,1,merged,Ritesh  Sainju
-True,"Resolve KS-1758 ""Bug/unselect table rows on contact import/""",2,merged,[]
-True,"Resolve KS-1784 ""Task/reuse design in greetings/""",1,merged,Abin Khatiwada
-True,"Resolve KS-1769 ""Task/ui greetings custom recording/""",2,merged,Abin Khatiwada
-True,"Resolve KS-1623 ""Feature/delete pending invitation/""",2,merged,Ritesh  Sainju
-True,Code Cleanup,2,merged,Ritesh  Sainju
-True,"Resolve KS-1760 ""Refine/ui greetings welcome/""",3,merged,Abin Khatiwada
-True,Feature/seen message(Update Badge Count),7,merged,Ritesh  Sainju
-True,Hotfix/6 29 2021,3,merged,Ritesh  Sainju
-True,Feature/contact search,2,merged,Ritesh  Sainju
-True,typo fix for client dnd success msg,1,merged,[]
-True,Develop,11,merged,[]
-True,"Resolve KS-1738 ""Task/ui greetings welcome/""",2,merged,Abin Khatiwada
-True,API end point changed on conversation search,1,merged,Ritesh  Sainju
-True,chat head highlighter reset in 1 seconds,1,merged,[]
-True,Feature/contact search,3,merged,Sundar Shahi
-True,Bugs/6 28 2021/fix,2,merged,Ritesh  Sainju
-True,Develop,5,merged,[]
-True,"Resolve KS-1751 ""Feature/contactlist more option/""",2,merged,Ritesh  Sainju
-True,fixed error for archive filter and make dropdwon menu visible even aftar menu item is clicked,1,merged,Sundar Shahi
-True,Develop,56,merged,[]
-True,Feature/dnd for client,9,merged,Sundar Shahi
-True,Hotfix/plan new design for custom plan,3,merged,Ritesh  Sainju
-True,Task/archive filter conversationbox/ks1438,2,merged,[]
-True,Feature/conversation search bugfix,6,merged,Ritesh  Sainju
-True,"Resolve KS-1682 ""Task/new ui settings notification/""",2,merged,Ritesh  Sainju
-True,Hotfixes/june 25,2,merged,[]
-True,"Resolve KS-1671 ""Task/member chat avatar/""",4,merged,Ritesh  Sainju
-True,Refactor/6 24 2021,3,merged,Ritesh  Sainju
-True,Refactor/search number and workspaces delete,7,merged,Ritesh  Sainju
-True,"Resolve KS-1438 ""Feature/conversation filter/""",8,merged,Sundar Shahi
-True,Develop,33,merged,[]
-True,"Resolve KS-1667 ""Task/add member team auth/""",3,merged,Abin Khatiwada
-True,"avatar sizing, avatar placeholder refactor",1,merged,Abin Khatiwada
-True,Refactor/change plan,7,merged,Ritesh  Sainju
-True,Feature/conversation search bugfix,3,merged,Ritesh  Sainju
-True,Bug/show active workspace on login,2,merged,Sundar Shahi
-True,update filer buttons ui,1,merged,Ritesh  Sainju
-True,Feature/conversation search bugfix,4,merged,[]
-True,"Resolve KS-1640 ""Task/ui pinned message/""",1,merged,Abin Khatiwada
-True,Develop,69,merged,[]
-True,"Resolve KS-1646 ""Task/add close in drawer/""",2,merged,Abin Khatiwada
-True,Refactor/workspace delete,5,merged,Ritesh  Sainju
-True,Hotfix/import customavatar in topbar,3,merged,Sundar Shahi
-True,"Resolve KS-1643 ""Feature/audio player multi transfer call/""",2,merged,Sundar Shahi
-True,"Resolve KS-1627 ""Task/audio player speed/""",2,merged,Ritesh  Sainju
-True,Feature/conversation search bugfix,21,merged,Ritesh  Sainju
-True,Task/generate new token for fcm on new login,2,merged,Sundar Shahi
-True,"Resolve KS-1615 ""Task/ui change plan/""",3,merged,Sundar Shahi
-True,Refactor/settings member/new changes,5,merged,Ritesh  Sainju
-True,Qa,372,closed,[]
-True,import csv feature if contacts  empty,3,merged,Abin Khatiwada
-True,"Resolve KS-1562 ""Task/ui conversation search/""",3,merged,Ritesh  Sainju
-True,"Resolve KS-1470 ""Feature/restore workspace/""",9,merged,Ritesh  Sainju
-True,api integration for call cancel,1,merged,Sundar Shahi
-True,"Resolve KS-1562 ""Task/ui conversation search/""",5,merged,Abin Khatiwada
-True,Task/show desktop notification on tab active,2,merged,[]
-True,Develop,3,merged,[]
-True,implemented send digit feature from dialpad,2,merged,Sundar Shahi
-True,Draft: Develop,0,closed,[]
-True,Latest dev changes,9,merged,[]
-True,changed firebase config,1,merged,Sundar Shahi
-True,Bug/add contact profile pic issues,2,merged,Sundar Shahi
-True,Develop,58,closed,Pravesh Chapagain
-True,"Resolve KS-1543 ""Feature/play single audio in chat/""",3,merged,Abin Khatiwada
-True,"Resolve KS-1275 ""Feature/cancel subscription/""",5,merged,Ritesh  Sainju
-True,"Resolve KS-1552 ""Task/member chat fixes/""",3,merged,Sundar Shahi
-True,qa pipeline trigger removed,1,merged,[]
-True,Refactor/fixes and refinement,5,merged,Ritesh  Sainju
-True,"Resolve KS-1473 ""Feature/purchase credit/""",7,merged,Abin Khatiwada
-True,refine refactor dnd for client,1,merged,Sundar Shahi
-True,Develop,287,merged,[]
-True,"Resolve KS-1241 ""Feature/desktop notification/""",9,merged,[]
-True,Hotfix/bugs,4,merged,Ritesh  Sainju
-True,"Resolve KS-1420 ""Task/update number sharing/""",4,merged,Ritesh  Sainju
-True,"Resolve KS-1457 ""Task/ui chat filter/""",3,merged,Sundar Shahi
-True,Qa merge request,1,merged,[]
-True,Feature/change plan and fetch billing info,5,merged,Ritesh  Sainju
-True,Testing qa pipeline,15,merged,[]
-True,Staging,10,merged,[]
-True,Develop,9,merged,[]
-True,Feature/notification auto recharge in billing,4,merged,Ritesh  Sainju
-True,Feature/member to member chat,11,merged,Sundar Shahi
-True,Merge request test,1,merged,[]
-True,Bug/fixes,4,merged,Ritesh  Sainju
-True,"Resolve KS-191 ""Feature/delete workspace/""",8,merged,Ritesh  Sainju
-True,Staging,3,merged,[]
-True,Develop,2,merged,[]
-True,Feature/billing overview,4,merged,Ritesh  Sainju
-True,Develop,22,merged,[]
-True,"disable calling others if widget is still on, refine disabled styles",1,merged,Ritesh  Sainju
-True,fix multiple contacts selection overflow on pagination,1,merged,Sundar Shahi
-True,Task/handle unknown contact agents,11,merged,Sundar Shahi
-True,"Resolve KS-1389 ""Task/ui refining contactlist/""",1,merged,Sundar Shahi
-True,"Resolve KRISP-1390 ""Feature/search agents from api in share access/""",2,merged,Ritesh  Sainju
-True,"fix name display logic, design issues",1,merged,Ritesh  Sainju
-True,refine reply with text,1,merged,Ritesh  Sainju
-True,"Resolve KS-1381 ""Refactor/chat number sharing/""",3,merged,Sundar Shahi
-True,refactor shared access and number settings,2,merged,Ritesh  Sainju
-True,Develop,22,merged,[]
-True,"Resolve KS-1310 ""Task/ui number sharing agents/""",3,merged,Ritesh  Sainju
-True,fix codegen generate,1,merged,Ritesh  Sainju
-True,Feature/access management,9,merged,[]
-True,"Resolve KS-1308 ""Feature/reply text call widget/""",5,merged,Sundar Shahi
-True,"Resolve KS-1366 ""Refactor/csv import/""",2,merged,Ritesh  Sainju
-True,fix: [BUG] restricted to create empty tag shown error toast,1,merged,Ritesh  Sainju
-True,hide Incoming call strategy for Member's view,1,merged,Abin Khatiwada
-True,fix flickering issue in widget,1,merged,Ritesh  Sainju
-True,Develop,4,merged,[]
-True,fetched card bran from api,1,merged,Ritesh  Sainju
-True,Changes made for Number sharing,3,merged,Sundar Shahi
-True,Merge Develop to Staging,20,merged,[]
-True,"Resolve KS-1307 ""Task/import csv contact integration/""",2,merged,Sundar Shahi
-True,"Resolve KS-1350 ""Task/ui settings refine refactor/""",9,merged,Sundar Shahi
-True,Feature/setup stripe sdk and Payment flow,15,merged,Ritesh  Sainju
-True,"Resolve KS-1343 ""Task/new ui billings/""",4,merged,Sundar Shahi
-True,Feature/fetch plans from api,2,merged,Ritesh  Sainju
-True,"Resolve KS-1342 ""Task/ui auto reply settings/""",2,merged,Sundar Shahi
-True,merge Develop in staging,26,merged,[]
-True,Task/handle case for international calls,5,merged,Sundar Shahi
-True,Bugs/hot fixes,2,merged,Ritesh  Sainju
-True,Feature/authorization,17,merged,Ritesh  Sainju
-True,new ui implementation csv,1,merged,Ritesh  Sainju
-True,Feature/access management,2,merged,[]
-True,"Resolve KS-1326 ""Task/refine contact detail pp/""",2,merged,Sundar Shahi
-True,merge develop code in staging,42,merged,[]
-True,Feature/access management,6,merged,Tashi Lama
-True,Task/call recording fixes,3,merged,Sundar Shahi
-True,update sideworkspacebar with member view,1,merged,Abin Khatiwada
-True,Feature/access management,3,merged,Ritesh  Sainju
-True,Hotfix/make default auth admin,1,merged,Ritesh  Sainju
-True,"Resolve KS-1311 ""Task/ui rbac/ 1306""",2,merged,Abin Khatiwada
-True,Task/disable transferbtn for transferred call,2,merged,Sundar Shahi
-True,"Resolve KS-1212 ""Task/ui rbac billings/""",6,merged,Abin Khatiwada
-True,Bugs/fixes and refactor,6,merged,Ritesh  Sainju
-True,Access manamgnet issue on workplace create privilege fixed,1,merged,Abin Khatiwada
-True,"Resolve KS-1283 ""Task/ui rbac workplace pp update/""",7,merged,Abin Khatiwada
-True,Feature/access management,7,merged,Ritesh  Sainju
-True,Member's view settings/team ui,4,merged,Abin Khatiwada
-True,"Resolve KS-1234 ""Feature/member search/""",5,merged,Ritesh  Sainju
-True,default private option  selection for add contact,1,merged,Sundar Shahi
-True,feat: contact profile upload fron detail page,1,merged,Ritesh  Sainju
-True,"Resolve KS-1210 ""Task/ui rbac numbers/""",2,merged,Abin Khatiwada
-True,show transferedAudio in callbox,2,merged,Sundar Shahi
-True,"Resolve KS-1215 ""Bug/respective workspacedata not showing/""",4,merged,Sundar Shahi
-True,fixed updating cache even in error,1,merged,Ritesh  Sainju
-True,update workplace ui for member's view,1,merged,Abin Khatiwada
-True,"Resolve KS-1207 ""Task/ui rbac/"" screen: settings/member",2,merged,Abin Khatiwada
-True,"Resolve KS-1196 ""Task/ui refining call states/""",2,merged,[]
-True,fixed showing wrong flag,1,merged,Ritesh  Sainju
-True,"Resolve KS-1184 ""Task/ui animated wave/""",3,merged,[]
-True,show call duration in feedback screen for incoming and outgoing calls,1,merged,Sundar Shahi
-True,Phone widget new design,91,merged,[]
-True,Develop,4,merged,[]
-True,Call Transfer feature for incoming calls,13,merged,Sundar Shahi
-True,refactor: separate styles according to screens,2,merged,Ritesh  Sainju
-True,"Resolve KS-1089 ""Feature/contacts forward backward pagination/""",4,merged,Ritesh  Sainju
-True,"KS-1174 ""Task/refine refactor feedback screen/""",2,merged,Ritesh  Sainju
-True,update call transfer list height for incoming/outgoing,1,merged,Ritesh  Sainju
-True,"display widget settings, fix line-height in settings dropdown",1,merged,Ritesh  Sainju
-True,add spacings in scrollbar,1,merged,Ritesh  Sainju
-True,inspect & refine spacings in widget body ( Call in progress  screen),1,merged,Ritesh  Sainju
-True,Show channel info in phone widget topbar(incoming and outgoing calls),3,merged,Sundar Shahi
-True,"KS-1154 ""Task/refine refactor widget incoming outgoing except call in progress/""",3,merged,Ritesh  Sainju
-True,fix call end btn flickering issue,1,merged,Ritesh  Sainju
-True,"fix svg issue, show call transfer ui in incoming call",2,merged,Ritesh  Sainju
-True,refine end call screen,6,merged,Ritesh  Sainju
-True,Task/contatc logs from contact,2,merged,Ritesh  Sainju
-True,Call ended screen after the call disconnected,1,merged,Sundar Shahi
-True,"Update KS-1035 ""Task/call transfer ui/""",4,merged,Ritesh  Sainju
-True,"Resolve KS-1059 ""Task/timer for call recording widget/""",4,merged,Sundar Shahi
-True,single action handler for call and message action in contact,1,merged,Ritesh  Sainju
-True,remove add button from call end screen,1,merged,Ritesh  Sainju
-True,Refactor/widget call,7,merged,Ritesh  Sainju
-True,edit note in  incoming outgoing widget,2,merged,Sundar Shahi
-True,add tag and update contact from incomming and outgoing,2,merged,Ritesh  Sainju
-True,Add notes in incoming call widget with editable field in end call screen,3,merged,Sundar Shahi
-True,Refactor/widget tag,2,merged,Tashi Lama
-True,"refactor Call in Progress, ui fixes",4,merged,Ritesh  Sainju
-True,Show added notes outgoing call widget,2,merged,Sundar Shahi
-True,Add notes outgoing call,7,merged,Sundar Shahi
-True,Update branch,6,merged,[]
-True,make separate screens from callinprogress,3,merged,Ritesh  Sainju
-True,Refactor/add contact and fixes,4,merged,Ritesh  Sainju
-True,Task/refactor widget outgoing,2,merged,Ritesh  Sainju
-True,"KS-994 ""Task/redesign incoming widget/""",3,merged,Ritesh  Sainju
-True,Refactor/chatbox  anad logs (Seprated query and UI ),3,merged,Ritesh  Sainju
-True,Task/refactor outgoing widget redesign,3,merged,Sundar Shahi
-True,Incoming call Recording,4,merged,Sundar Shahi
-True,"Resolve KS-906 ""Task/image upload team/""",5,merged,Ritesh  Sainju
-True,feat: current user mark in sidebar member,1,merged,Ritesh  Sainju
-True,separate my number columns,1,merged,Tushant Khatiwada
-True,Refactor/contact detail,2,merged,Sundar Shahi
-True,Refactor/add number to cart,2,merged,Tushant Khatiwada
-True,change route of number/add to buy,1,merged,Tushant Khatiwada
-True,used hooks for graphql operation and local states,1,merged,Sundar Shahi
-True,refactor: fetched pinned message of channel without depending on contact,2,merged,Ritesh  Sainju
-True,hot fix new conatct removed use of history state,1,merged,Tushant Khatiwada
-True,removed use of history state for new contact logs,5,merged,Ritesh  Sainju
-True,Feature/pin unpin contact log,9,merged,Ritesh  Sainju
-True,record outgoing calls,4,merged,Sundar Shahi
-True,pin contact ui,0,closed,Tushant Khatiwada
-True,changed with expected no contact ui,3,merged,Sundar Shahi
-True,Task/show new contact message logs,3,merged,Sundar Shahi
-True,sepration ofmutation and form in password reset-forgot,1,merged,Ritesh  Sainju
-True,voicemail integration in chatbox,1,merged,[]
-True,Bug/team member delete,6,merged,Ritesh  Sainju
-True,Bug/quick fixes,2,merged,Ritesh  Sainju
-True,Bug/team member delete,4,merged,Ritesh  Sainju
-True,Bug/sidebar,6,merged,Ritesh  Sainju
-True,contact detail is shown on refresh,5,merged,Ritesh  Sainju
-True,refactor:seprate mutation and UI logic in member,1,merged,Ritesh  Sainju
-True,Bug/ks 1002,4,merged,Ritesh  Sainju
-True,Task/redesign dialer/ks 996,2,merged,[]
-True,Bug/ks 982 and refactor schema,9,merged,Ritesh  Sainju
-True,fixed call type icon in contact logs based on cal direction and status,1,merged,Sundar Shahi
-True,Bug/input field text color/ks 967,4,merged,[]
-True,Task/ui fixes/ks,5,merged,Sundar Shahi
-True,Remove agent name in call status,1,merged,[]
-True,fix not able to add member in team,1,merged,[]
-True,Refactor/separate UI api pinmessage,4,merged,[]
-True,Refactor/team,4,merged,[]
-True,Task/test refine refactor UI,7,merged,[]
-True,migrated to hook-form v7 ,10,merged,[]
-True,separate mutation api logic for send sms,1,merged,[]
-True,Refactor/separate UI api chatbox messages,3,merged,[]
-True,seprate api logic and UI,3,merged,[]
-True,Bug/disallow space as first char,2,merged,[]
-True,Refactor/chatbox message component,2,merged,[]
-True,Task/contact logs refactor,5,merged,[]
-True,Task/websocket authentication,3,merged,[]
-True,refactor workspace member delete,1,merged,[]
-True,Refactor/seprate api and UI logic,2,merged,[]
-True,debounce workspace switch and break ui and logic,1,merged,[]
-True,Task/UI fixing,8,merged,[]
-True,bug[FIX]:remove contact row selection after action,1,merged,[]
-True,Chatbox show msg delivered,2,merged,[]
-True,Bug/fix not showing member profilePicture in sidebar,2,merged,[]
-True,Refactor/channel dnd,4,merged,[]
-True,Task/UI fix table filter dropdown,3,merged,[]
-True,hide loggedin user from members list of sidebar,1,merged,[]
-True,Task/checkout numbers,3,merged,[]
-True,Bugfixes/workspace detail sidebar,3,merged,[]
-True,Bug/share access edit fix/ks 905,4,merged,[]
-True,Refactor/cache modify evict gc,7,merged,[]
-True,Bug/ks 903/profile image,6,merged,[]
-True,"update query for members, ui functionality, check icon",1,merged,[]
-True,Task/update call duration callstatus chatbox,7,merged,[]
-True,Task/list  item in cart and remove item from cart,10,merged,[]
-True,Task/UI fixes/ks 935,3,merged,[]
-True,refactor: twilliow provider only in private route,1,merged,[]
-True,refactor: remove useLoading and fix undefined error,1,merged,[]
-True,Task/update contact logs tab,12,merged,[]
-True,Bug/wrong delete pop,2,merged,[]
-True,Task/UI fixes and refactor,8,merged,[]
-True,Hotfix/show call icon sms in contactlogs,2,merged,[]
-True,show icons for incoming outgoing and show partial sms text in recent conversation,1,merged,[]
-True,Task/add to cart,5,merged,[]
-True,fixed issue for message flicker in chatbox,1,merged,[]
-True,show call duration for completed calls,2,merged,[]
-True,Code refactors,20,merged,[]
-True,Feature/mute mic phone widget/ks 876,4,merged,[]
-True,fix console errors,1,merged,[]
-True,Task/UI fixes/ks 867,4,merged,[]
-True,console error fixes for duplicate key,3,merged,[]
-True,Bugfixes/chatbox sendsms,4,merged,[]
-True,fix: undefined  user during verification,1,merged,[]
-True,removed unnecessary props passing and memoized styled atom,1,merged,[]
-True,Task/refine number settings 2/ks 856,5,merged,[]
-True,fix inbox ui,1,merged,[]
-True,Refactor/requested change and fixes,4,merged,[]
-True,Bug/archive add confirmation and update cache/ks 267,4,merged,[]
-True,Task/call status plan,2,merged,[]
-True,removed email population on change email form,1,merged,[]
-True,Task/senty integration,12,merged,[]
-True,slight issue on reply with message,1,merged,[]
-True,Task/refine numbers/ks 828,5,merged,[]
-True,fix not showing team update toast,1,merged,[]
-True,fix: KS-305 automatic remove team member while adding new,1,merged,[]
-True,fix unbable to share number,1,merged,[]
-True,Task/workspace changes default workspace,2,merged,[]
-True,null value in team member,1,merged,[]
-True,constants used as CAPITAL,1,merged,[]
-True,optimize number search,1,merged,[]
-True,Hotfix and graphql generate,2,merged,[]
-True,Task/show only completed callstatus/ks 827,3,merged,[]
-True,show message after sending right away,1,merged,[]
-True,twilio device refine,9,merged,[]
-True,[FIX] status not changed after email verification from toast,1,merged,[]
-True,Task/numbers pending purchase UI/krisp 1385,4,merged,[]
-True,search number by match,3,merged,[]
-True,[Number Search ] use functional version of useState to prevent re-render,2,merged,[]
-True,Task/search number api integration,5,merged,[]
-True,Task/UI fixes/krisp 1383,3,merged,[]
-True,schema fixes,1,merged,[]
-True,Task/UI fixes/krisp 1364,7,merged,[]
-True,refresh results with refetch,1,merged,[]
-True,infinite scroll in member list and invited member list,1,merged,[]
-True,Task/search number,4,merged,[]
-True,Schema fixes,4,merged,[]
-True,number cart new UI,1,merged,[]
-True,Task/refine contacts blocked/krisp 1332,5,merged,[]
-True,Task/search number new UI,7,merged,[]
-True,Fixes on conversation,12,merged,[]
-True,refactor all dropdowns,1,merged,[]
-True,remove workspaceid,1,merged,[]
-True,refactor: show correct flag in numbercard dropdown,1,merged,[]
-True,Refactor/fixes certain edge cases,8,merged,[]
-True,Task/fixes UI/krisp 1293,3,merged,[]
-True,api integration,2,merged,[]
-True,"fix member add, remove and update in team setting",1,merged,[]
-True,one space removed in classname,1,merged,[]
-True,removing workspace id once user logs out,2,merged,[]
-True,cleanup selected row in unmount,1,merged,[]
-True,exception handling for device offline and no audio device  access,1,merged,[]
-True,validate number according to country from dialer,1,merged,[]
-True,Task/refine UI/krisp 1279,8,merged,[]
-True,avoid number duplication on cart,4,merged,[]
-True,Feature/badge count numbers/krisp 1280,2,merged,[]
-True,bugs:[FIX] validate numbers according to country,3,merged,[]
-True,Task/update billing information,4,merged,[]
-True,delete contact implementation,1,merged,[]
-True,Task/UI fixes/krisp 1240,7,merged,[]
-True,removed empty file,2,merged,[]
-True,Add remove number from cart,2,merged,[]
-True,Task/filter blocked contact,3,merged,[]
-True,Contact block multiple,8,merged,[]
-True,Task/auto turn off dnd/krisp 1241,7,merged,[]
-True,Task/refine dnd UI/krisp 1239,2,merged,[]
-True,block unblock contact new ui,1,merged,[]
-True,donot allow caller to dail own number,2,merged,[]
-True,Task/dnd dropdown UI final,3,merged,[]
-True,fix <=9,1,merged,[]
-True,Refactor/code cleanup,3,merged,[]
-True,Task/prepend zero utils,2,merged,[]
-True,pause notification end time,4,merged,[]
-True,Hotfixes/april 2,2,merged,[]
-True,Refactor/sticky contat details page,2,merged,[]
-True,Refactor/fixes,2,merged,[]
-True,removed emoji container from number setting,1,merged,[]
-True,Feature/channel dnd turn off/krisp 539,2,merged,[]
-True,Fix/inbox UI/krisp 1209,6,merged,[]
-True,Task/disable message input,2,merged,[]
-True,Task/contacts filter from tags/krisp 1223,2,merged,[]
-True,Hotfix/dialer input form fixes,2,merged,[]
-True,add do not disturb dropdown rough ui,1,merged,[]
-True,contacts filter from tags,4,merged,[]
-True,fix translation key,2,merged,[]
-True,Feature/block contact/krisp 544,2,merged,[]
-True,Refactor/phone call widget,3,merged,[]
-True,Channel dnd - more work is left yet,4,merged,[]
-True,Add pop up on contact csv import,4,merged,[]
-True,fix tag color and profilePicture not showing in contact list,1,merged,[]
-True,refactor: forced render pannel to stop internal lazyLoading,1,merged,[]
-True,Task/refactor refine UI krisp 1199,5,merged,[]
-True,using constants for action type,1,merged,[]
-True,use constants on actions,2,closed,[]
-True,Task/tag navigation dnd status,3,merged,[]
-True,Feature/reset password/krisp 560,8,merged,[]
-True,Task/handle outgoing call,12,merged,[]
-True,Task/spinner component,4,merged,[]
-True,set channel DND status,4,merged,[]
-True,Refactor/tags krisp 1195,3,merged,[]
-True,Task/edit share access krisp 1193,9,merged,[]
-True,Task/refactor mic,3,merged,[]
-True,fix contact search,1,merged,[]
-True,Refactor/share access,3,merged,[]
-True,Task/add translation settings/krisp 1184,5,merged,[]
-True,Feature/add tags from contact/krisp 540,23,merged,[]
-True,Fix/contact detail flicker,2,merged,[]
-True,editing state for share access,3,merged,[]
-True,fixed issue in number name edit,1,merged,[]
-True,Feature/share number with team/krisp 988,2,merged,[]
-True,Task/general settings edit update cache/krisp 1170,2,merged,[]
-True,Task/general settings edit update cache/krisp 1170,2,merged,[]
-True,Fixed issue in client notes and changes made for Userprofile fragments,1,merged,[]
-True,Feature/view number settings/krisp 864,2,merged,[]
-True,Feature/view number settings/krisp 864,3,merged,[]
-True,Feature/search available number,3,merged,[]
-True,Task/UI microphone check/krisp 1181,5,merged,[]
-True,Feature/add tags from contact/krisp 540,3,merged,[]
-True,Feature/add tags from contact/krisp 540,1697,closed,[]
-True,Feature/search available numbers/krisp 840,7,merged,[]
-True,Refactor/code splitting,2,merged,[]
-True,Refactor/code splitting,2,merged,[]
-True,Hotfix/contacts caching,2,merged,[]
-True,Feature/list tags navigation/krisp 1158,5,merged,[]
-True,Task/settings members dropdown refine/krisp 1178,3,merged,[]
-True,update,1,merged,[]
-True,refactor: edit number folder structure and remove unnecessary code.,1,merged,[]
-True,task/update-call-logs-from-subscription,1,merged,[]
-True,Feature/list all my numbers/krisp 841,7,merged,[]
-True,Task/contact api changes fix,4,merged,[]
-True,handle conditions for call option in contact list/detail,1,merged,[]
-True,Feature/update call status/krisp 914,13,merged,[]
-True,useOnclickOutside,2,merged,[]
-True,Refactor/atomic design structure,2,merged,[]
-True,restructure folder atomic design,2,merged,[]
-True,refactor: seprated delete modal component from setting member dropdown,1,merged,[]
-True,Refactor/number card,4,merged,[]
-True,Task/UI custom tags/krisp 1164,11,merged,[]
-True,Bugs/contact add detail,5,merged,[]
-True,Refactor/add utility and fix bug,4,merged,[]
-True,Twilio client,36,merged,[]
-True,Task/UI tags/krisp 1152,4,merged,[]
-True,Task/list number from api in member,2,merged,[]
-True,Task/unpin message from top bar,11,merged,[]
-True,fix: undefined in new contact,1,merged,[]
-True,Task/refine UI member invite/krisp 1140,4,merged,[]
-True,Feature/search  and filters,9,merged,[]
-True,Task/refactoring/krisp 1131,5,merged,[]
-True,Bug/existing member invite/krisp 1017,3,merged,[]
-True,Bug/back to team list after delete,1,merged,[]
-True,Persist and Rehydrate Cache,2,merged,[]
-True,add badge,4,merged,[]
-True,Task/disable message now button on detail page,1,merged,[]
-True,using typePolicies to show unseen count on Channel Type,1,merged,[]
-True,Task/refine UI/k risp 1123,3,merged,[]
-True,Bug/default language/krisp 1116,3,merged,[]
-True,refactor: redirect to number buy page on no number,1,merged,[]
-True, [FIX #272 ] allContact query didn't cleared after navigate to others route,2,merged,[]
-True,showing new conversation count on a badge,2,merged,[]
-True,Bug/refetch new invited members/krisp 1117,2,merged,[]
-True,Task/custom table pagination/krisp 1120,5,merged,[]
-True,chore: api integrate search in contact list,1,merged,[]
-True,Bug/add team update cache/krisp 1115,2,merged,[]
-True,Feature/archive message/krisp 1077,7,merged,[]
-True,Refine Sign up,1,merged,[]
-True,[REVIEW ONLY] Feature/search contact/krisp 533,3,merged,[]
-True,Bug/update cache workspace add/1105,2,merged,[]
-True,Task/refine user auth UI/krisp 1104,3,merged,[]
-True,Task/remove workspace id/krisp 1112,3,merged,[]
-True,Refactor/member invitee login,5,merged,[]
-True,"Pin Unpin and Stare, Unstare",5,merged,[]
-True,Task/design fix contact detail/krisp 1083,3,merged,[]
-True,search conversation,12,merged,[]
-True,Hotfix/invite login change schema,2,merged,[]
-True,Task/refine sidebar UI/krisp 1080,2,merged,[]
-True,Hotfix/fix contact issue/krisp 1011,4,merged,[]
-True,Feature/editable contact name/krisp 1079,3,merged,[]
-True,refactor: reorganise client-to-agent chat-box  folder structure,1,merged,[]
-True,added editable field for name in contact detail ,2,merged,[]
-True,Bug/contact detail update allcontacts,3,merged,[]
-True,Task/refine UI contact message dropdown/krisp 1062,3,merged,[]
-True,refactor: removed antd icons,1,merged,[]
-True,Hotfix/fix contact bug,3,merged,[]
-True,fixed issue for sorting chat messages,1,merged,[]
-True,Refactor/contact logs,5,merged,[]
-True,Show contact in contact logs when redirect from contact list,12,merged,[]
-True,Task/add playbackrate audioplayer UI/krisp 1056,5,merged,[]
-True,Hotfix/fix contact bug,4,merged,[]
-True,Add universal search ui,3,merged,[]
-True,Task/auto refresh contact logs on new msg,5,merged,[]
-True,Refactor/conversation sorting and update,2,closed,[]
-True,refactor: use route from constant,1,merged,[]
-True,auto refresh chat message on receive and send,1,merged,[]
-True,Refactor/intersection observer and token refresh,9,merged,[]
-True,Task/scroll bar chatbox/krisp 1048,3,merged,[]
-True,Task/inbox search contacts UI/krisp 1038,4,merged,[]
-True,send sms from contact list/krisp 547,15,merged,[]
-True,change email mutation,1,merged,[]
-True,Task/inbox refine UI/krisp 995,3,merged,[]
-True,Feature/contact pagination/krisp 986,4,merged,[]
-True,Feature/change email/krisp 814,2,merged,[]
-True,moved files to respective folder,1,merged,[]
-True,Refactor: Modals,4,merged,[]
-True,Fixes/callbox status fixes,3,merged,[]
-True,Feature/delete note,10,merged,[]
-True,Feature/inbox list/krisp 877,25,merged,[]
-True,[REFINEMENT] CallBox,4,merged,[]
-True,Task/refine billing plans pop ups 2/krisp 959,6,merged,[]
-True,Task/utils time duration from now/krisp 981,3,merged,[]
-True,Task/utils time duration from now/krisp 981,3,merged,[]
-True,Refactor enable notification workspace setting,2,merged,[]
-True,Task/refine billing plans pop ups/krisp 943,5,merged,[]
-True,Feature/chatbox notes api integration/krisp 543,5,merged,[]
-True,chore: api call on tab change,4,merged,[]
-True,Feature/call box contact detail,2,merged,[]
-True,"Refine overview, billing, receipts",2,merged,[]
-True,Theme variable suggestions using declaration merging,2,merged,[]
-True,refactor: removed unused assets,1,merged,[]
-True,Task/api integration workspace notification/krisp 929,3,merged,[]
-True,Refactor/import module,2,merged,[]
-True,Task/email chip component/krisp 930,4,merged,[]
-True,Inbox list,3,merged,[]
-True,refactor number settings,4,merged,[]
-True,folder structuring,1,merged,[]
-True,Refactor/contact module,4,merged,[]
-True,chore: workspace add modal and form localize,1,merged,[]
-True,Refactor/navigation,3,merged,[]
-True,"Add Upload functionality, make selected audio playable",2,merged,[]
-True,restructure folder for navigations,1,merged,[]
-True,Refactor/email verification alert reminder,3,merged,[]
-True,Code cleanup and refactor,5,merged,[]
-True,Feature/send message mutation/krisp 817,3,merged,[]
-True,Task/number settings voicemail UI/krisp 913,8,merged,[]
-True,Static/languages json,5,merged,[]
-True,Task/localaization  settings,9,merged,[]
-True,Contact Table checkbox - check on clicking image,1,merged,[]
-True,Feature/localaization implementation/krisp 883,17,merged,[]
-True,Feature/list workspace,5,merged,[]
-True,Hotfix/comment ws link codes,2,merged,[]
-True,Task/number settings select function/krisp 907,9,merged,[]
-True,added company in client gql query schema,1,merged,[]
-True,Feature/localaization krisp 885,6,merged,[]
-True,Add NumberSettings-Team Shared screen,1,merged,[]
-True,Display logout pop over to the front,1,merged,[]
-True,Task/add number settings individual UI/krisp 902,5,merged,[]
-True,refactor: reorganaize organism folder structure,1,merged,[]
-True,Feature/update contact information/krisp 545,28,merged,[]
-True,"Align Circular progress bar, Fix Date style",1,merged,[]
-True,Feature/update workplace/krisp 473,2,merged,[]
-True,Task/settings numbers refine UI/krisp 832,10,merged,[]
-True,Cleanup,3,merged,[]
-True,Update Workspace Photo,3,merged,[]
-True,Bug/firing app url on upload/krisp 866,3,merged,[]
-True,Feature/sms message/krisp 815,6,merged,[]
-True,Feature/resend invitation and copy link/krisp 465,15,merged,[]
-True,Fix/workspace members as per api,2,closed,[]
-True,Feature/change role and remove workspace member/krisp 785 464,4,merged,[]
-True,refactor: implement proper type for query and use of immer,1,merged,[]
-True,Refactoring,4,merged,[]
-True,Task/refine UI settings page/krisp 813,11,merged,[]
-True,[FIX] Error message showing after delete success,2,merged,[]
-True,Refactor/my profile module,4,merged,[]
-True,refactor: showing error key instead of whole message.,1,merged,[]
-True,refactor: removed updating cache and used localstate to update,1,merged,[]
-True,"[POC] update objects, arrays without mutating the original. ",2,merged,[]
-True,Feature/change default language/krisp 481,6,merged,[]
-True,Feature/delete workspace/krisp 474,5,merged,[]
-True,Task/refine UI settings page/krisp 783,6,merged,[]
-True,Feature/api integration my profile/krisp 460,8,merged,[]
-True,chore: filter team list after delete,1,merged,[]
-True,useCountryFromIp,3,merged,[]
-True,fixes like workspace name and title,1,merged,[]
-True,Intersection Observer implementation for Infinite Scrolling,4,merged,[]
-True,Feature/delete team/krisp 603,5,merged,[]
-True,Task/refine UI settings page/krisp 779,2,merged,[]
-True,Feature/api integration my profile/krisp 460,5,merged,[]
-True,Feature/invite member from navigation/krisp 455,2,merged,[]
-True,Task/refine UI settings page/krisp 769,8,merged,[]
-True,few code prettified,1,merged,[]
-True,Feature/workspace member list/krisp 456,2,merged,[]
-True,refactor: fix certain lint warning ,2,merged,[]
-True,Task/update nav with team,10,merged,[]
-True,Task/refine UI contact page/krisp 748,4,merged,[]
-True,Config/eslint,6,merged,[]
-True,refactor: redirect to login screen after invitation accept,1,merged,[]
-True,Bug/undefined in invitation details/krisp 756,2,merged,[]
-True,Bug/change email sticky note/krisp 738 kirsp 750,3,merged,[]
-True,chore: save user_profile_status to local storage after verified,1,merged,[]
-True,Hotfix/fix css errors/krisp 736,5,merged,[]
-True,refactor: removed refetch queries and used update function,1,merged,[]
-True,remove member api integration,2,merged,[]
-True,refactor: fix bug not showing toast and modal not closed after succes…,1,merged,[]
-True,Refine UI - Logout Popover,1,merged,[]
-True,Hotfix/font issues fix due to css error,2,merged,[]
-True,refactor: fix loading bug,1,merged,[]
-True,refactor: new user screen layout fix,1,merged,[]
-True,chore: work place edit reflecting instantly,3,merged,[]
-True,Feature/view profile information/krisp 571,3,merged,[]
-True,Task/refine UI settings emoji picker/krisp 734,3,merged,[]
-True,Task/refine UI toasters/krisp 731,4,merged,[]
-True,contact upload and team member listing,8,merged,[]
-True,Task/form validation add members/krisp 462,5,merged,[]
-True,notifications on team setting on success operation,1,merged,[]
-True,Feature/verify email /krisp 730 ,9,merged,[]
-True,Task/contact page refine UI/krisp 692,8,merged,[]
-True,Feature/edit team,2,merged,[]
-True,Feature/edit workspace api integration/krisp 428,4,merged,[]
-True,Task/receipts,7,merged,[]
-True,refactor: revert back to first and last name,2,merged,[]
-True,changed regex for password with atleast 1 special character,1,merged,[]
-True,Feature/join with invitation link/krisp 490 ,24,merged,[]
-True,refactor: fix undefined user and toast message not showing in success,1,merged,[]
-True,Hotfix/client side sorting,4,merged,[]
-True,feat: api integration resend verification link,2,merged,[]
-True,Confirm  Email,1,merged,[]
-True,Task/alert change email,5,merged,[]
-True,Task/billing/krisp 682,5,merged,[]
-True,Task/inbox page refine UI/krisp 651,3,merged,[]
-True,team create,2,merged,[]
-True,"Feature/billing cards/krisp 663 ,664",11,merged,[]
-True,Feature/contact detail integration/krisp 647,11,merged,[]
-True,Task/numbers listing/krisp 519,3,merged,[]
-True,"Feature/billing plans overview/krisp 648, 649",10,merged,[]
-True,Task/refine UI work on fixes/krisp 639,4,merged,[]
-True,Feature/contact page refine UI/krisp 605,5,merged,[]
-True,Task/route changes,5,merged,[]
-True,Feature/invite member/krisp 462,7,merged,[]
-True,refactor: Errorpage Refinement,2,merged,[]
-True,Task/registered member invitation screen/krisp 633,4,merged,[]
-True,"refactor:remove copy link,cancel, and add back button",1,merged,[]
-True,Feature/team page UI/krisp 601,10,merged,[]
-True,Feature/contact page refine UI/krisp 600,4,merged,[]
-True,"design fixes for login,forgotpasswprd,memberinvite page",1,merged,[]
-True,Task/phone input customaization/krisp 572,2,merged,[]
-True,Task/auth screen new design/krip 566,8,merged,[]
-True,Task/contact refinement/krisp 524,22,merged,[]
-True,Task/invitee login screen/krisp 555,7,merged,[]
-True,Refine UI - settings/members,1,merged,[]
-True,Task/registration updated api integration,3,merged,[]
-True,Feature/team/krisp 447,8,merged,[]
-True,popup issue with team mutation cleanup,1,merged,[]
-True,refactor: team add with add button,1,merged,[]
-True,Feature/cleanup contact add,4,merged,[]
-True,Feature/settings page refine UI/krisp 496,3,merged,[]
-True,Feature/settings page refine UI/krisp 496,478,closed,[]
-True,Task/radio box,5,merged,[]
-True,Task/add button in sideworkspacebar/krisp 505,3,merged,[]
-True,bugs: fix design broken in production,1,merged,[]
-True,Refine UI Settings/Members,3,merged,[]
-True,Tassk/form fields refactor/krisp 466,4,merged,[]
-True,refactor: replace checkbox with radio,1,merged,[]
-True,Task/globalstyle modularization/krisp 448,8,merged,[]
-True,Feature/add channel form/krisp 446,10,merged,[]
-True,Feature/user verification status alert,3,merged,[]
-True,phone input field hooking react form,6,merged,[]
-True,Fix spacing in pop up forms,1,merged,[]
-True,Task/add perfect scrollbar,2,merged,[]
-True,Features/call box related/krisp 344,4,merged,[]
-True,refactor: types of onchange,1,merged,[]
-True,Feature/settings page refine UI/krisp 418,5,merged,[]
-True,refactor: fix margin-bottom problem between two fields,1,merged,[]
-True,created separate HOC for public routes,2,merged,[]
-True,Refactor/share access,2,merged,[]
-True,Refactor/csv parser,4,merged,[]
-True,Task/design implementation logout popover/krisp 420,2,merged,[]
-True,refactor: choose one language at a time and discard multipleselection,2,merged,[]
-True,Refine Settings UI - Billing & Plans,1,merged,[]
-True,api integration for user registration,1,merged,[]
-True,Feature/first launch screens/krisp 404,5,merged,[]
-True,Feature/settings page refine UI/krisp 396,3,merged,[]
-True,Feature/share access/krisp 397,3,merged,[]
-True,Feature/settings page refine UI/krisp 391,3,merged,[]
-True,design implementation for adding new workspace,3,merged,[]
-True,Feature/validation signup form/krisp 393,4,merged,[]
-True,Task/add member steps form/krisp 392,6,merged,[]
-True,Refine Settings UI - Contacts,2,merged,[]
-True,Feature/design implementaion/krisp 390,3,merged,[]
-True,refactor: emoji picker set flag as default first,1,merged,[]
-True,"Refine Settings UI - Edit, Change Popups",1,merged,[]
-True,Feature/map imported contact fields/krisp 370,4,merged,[]
-True,[WIP] Feature/contact import/krisp 368,5,merged,[]
-True,Feature/settings page refine UI/krisp 361,3,merged,[]
-True,Task/tooltip in settings contact/krisp 362,2,merged,[]
-True,folder naming conflict resolved,1,merged,[]
-True,Feature/settings page refine UI/krisp 352,3,merged,[]
-True,Task/profile image upload component/krisp 327,4,merged,[]
-True,Task/form submit from modal/krisp 353,11,merged,[]
-True,Task/tooltip for sidenavbar,7,merged,[]
-True,UI,10,merged,[]
-True,UI,292,closed,[]
-True,Hotfix/addworkspace api integration,2,merged,[]
-True,Feature: contact api integration (WIP),13,merged,[]
-True,Task/call flow strategy setup component,10,merged,[]
-True,Hotfix/side nav design issues,6,merged,[]
-True,Feature/inbox page refine UI/krisp 343,4,merged,[]
-True,fixed design issue of sidenav bar,1,merged,[]
-True,UI,40,merged,[]
-True,Task/sidebar design fixes,3,merged,[]
-True,Task/fix layout design,3,merged,[]
-True,Feature/call states/krisp 318,8,merged,[]
-True,Task/refactor sidebar component,4,merged,[]
-True,Task/add workspace page fixes,2,merged,[]
-True,feat: conversation dropdown option component,1,merged,[]
-True,Feature/inbox page refine UI/krisp 285,11,merged,[]
-True,Feature/settings language and emoji component/krisp 304,8,merged,[]
-True,Add New workspace for new user.,7,merged,[]
-True,Feature/workspace channel teams/krisp 271,4,merged,[]
-True,Feature/settings pages/krisp 270,27,merged,[]
-True,Feature/multiple states/krisp 223,3,merged,[]
-True,Feature/workplace and integrations settings/krisp 265,9,merged,[]
-True,Feature/edit fields modal/krisp 254,11,merged,[]
-True,Feature/contacts setting/krisp 251,35,merged,[]
-True,Feature/login page languages dropdown,3,merged,[]
-True,Feature/refine design/krisp 242,9,merged,[]
-True,Feature/interactive chatbox/krisp 212,14,merged,[]
-True,Feature/chatbox lyout refine/krisp 210,8,merged,[]
-True,Feature/user restriction/krisp 209,4,merged,[]
-True,Feature/localization/krisp 206,5,merged,[]
-True,Feature/sidebar refinement/krisp 202,17,merged,[]
-True,Feature/auth api integration/krisp 170,4,merged,[]
-True,Feature/contact table UI/krisp 199,5,merged,[]
-True,media query breakpoint made reusable,1,merged,[]
-True,Feature/login UI redesign/krisp 177,10,merged,[]
-True,Features/number settings/krisp 185,9,merged,[]
-True,Feature/settings/krisp 175,15,merged,[]
-True,Feature/contact page components/krisp 164,18,merged,[]
-True,Develop,62,merged,[]
-True,fixes: fields component confilct in textbox,2,merged,[]
-True,feat: errors page and empty contact page,2,merged,[]
-True,Feature/auth system/krisp 89,4,merged,[]
-True,Feature/chatbox/krisp 93,36,merged,[]
+Title,CommitCount,State,Reviews
+Deploy UAT: Sep 16,162,merged,[]
+fixes for trial subs,1,merged,[]
+Draft: Fix/workspace ordering,2,opened,Sundar Shahi
+refactor: added card details optimistic response after card added,1,merged,[]
+feat: implemented renew subs and force redirected on billing if cancelled,5,merged,[]
+Hotfix/sept 15,5,merged,[]
+Refactor/online offline v3,3,merged,Ritesh  Sainju
+"Resolve KS-2852 ""Task/hide unimplemented features/""",3,merged,[]
+WebSocket connection issue on workspace switch fixed,1,merged,Ritesh  Sainju
+refactor: added skeleton in number settings,1,merged,[]
+Refactor/notification auto recharge,3,merged,[]
+Refactor/billing and plan,2,merged,[]
+Develop,26,merged,[]
+update cache after mark as read in add contact,1,merged,[]
+Task/ui fixes 2/ks code,5,merged,[]
+Refactor/online offline v3,2,merged,Ritesh  Sainju
+fix: show error toast oncompleted,1,merged,[]
+Hotfix/support number purchase status,3,merged,[]
+Task/refactor recent conversation,9,merged,[]
+ui switch for voicemail transcription,1,merged,Abin Khatiwada
+Task/refactor data support,2,merged,Sundar Shahi
+hotfix for qa,3,merged,[]
+Fix/widget add contact,2,merged,Sundar Shahi
+Develop,14,merged,[]
+"Resolve KS-2811 ""Task/no data support ui/""",4,merged,[]
+Access token added on sending ping,1,merged,Ritesh  Sainju
+disable call button in topbar if call in progress,1,merged,[]
+Fix/contact table tags search,2,merged,[]
+fix double pagination IN SUPPORT,1,merged,[]
+Develop,30,merged,[]
+Refactor: Early returned without api call if detail unchanged in team detail update,1,merged,[]
+Refactor/online offline cache update,9,merged,Ritesh  Sainju
+Draft: Hotfixes/sept 9,2,closed,[]
+fix: fixes sep 9 2021,2,merged,[]
+"Resolve KS-2733 ""Feature/responsive members list 768/""",8,merged,Sundar Shahi
+Feature/remove pending number,3,merged,[]
+generate graphql schemas,1,merged,[]
+Develop,22,merged,[]
+Feature/permission update,4,merged,Ritesh  Sainju
+refactor: added filter by ticket number in search,1,merged,[]
+Fix/contact delete,3,merged,[]
+Draft: Refactor/online offline,1,closed,Ritesh  Sainju
+feat: add contact from widdget,1,merged,[]
+"Resolve KS-2771 ""Feature/members chat responsive ui/""",2,merged,Sundar Shahi
+Develop,6,merged,[]
+show team pic in sidebar,1,merged,Sundar Shahi
+"Resolve KS-2780 ""Task/top notification bar ui/""",5,merged,Sundar Shahi
+Fix/auto reply custom text,3,merged,Abin Khatiwada
+Develop,34,merged,[]
+notes validation fix,1,merged,[]
+Fix/validation errors,4,merged,[]
+Fixes/7 sep 2021,2,merged,[]
+Refactor/online offline,2,merged,Ritesh  Sainju
+Support/callerid,3,merged,[]
+Refactor/number purchase,2,merged,[]
+Fix/edit number name unique check,2,merged,[]
+Fixes/validation issues,4,merged,Sundar Shahi
+Hotfix/edit profile by member,2,merged,Ritesh  Sainju
+Fix/disconnect incomingcall on device destroy,2,merged,Sundar Shahi
+Develop,19,merged,[]
+Uat deployment Sept 6,160,merged,[]
+fixes sep 6 2021,1,merged,[]
+"Resolve KS-2347 ""Feature/caller id settings/""",4,merged,Sundar Shahi
+moved setup route,2,merged,[]
+ui fixes,1,merged,[]
+API call prevented if data is available locally,1,merged,Ritesh  Sainju
+fix error message,1,merged,[]
+Bugfix/custom recordings,2,merged,Ritesh  Sainju
+QA deployment Sep 3,13,merged,[]
+Task/responsive screens/ks code,7,merged,Sundar Shahi
+back to setting on not found,1,merged,[]
+Bugfix/pinned message search,2,merged,Ritesh  Sainju
+Develop,22,merged,[]
+"Resolve KS-2689 ""Bugfix/inviteemailcheck/""",2,merged,[]
+fix error message in purchase credit and userInvite accept,1,merged,[]
+support caller id UI,2,merged,[]
+"Resolve KS-1918 ""Feature/show active members/""",2,merged,Ritesh  Sainju
+Refactor/routes,2,merged,[]
+add confirmation modal in caller id settings,1,merged,Sundar Shahi
+Develop,5,merged,[]
+Bugfix/contact detail,2,merged,[]
+upgrade tooltip,1,merged,[]
+Develop,16,merged,[]
+Fix/sep 1 2021,2,merged,[]
+Bugfix/contact detail edit issues,2,merged,[]
+refactor: rounded total in agents and numbers price,1,merged,[]
+Task/responsive popups/ks code,2,merged,Sundar Shahi
+Task/random avatar based on hash,2,merged,[]
+fix contact edit,1,closed,[]
+LogScroller Implemented,5,merged,[]
+clear dnd value on cancle,1,merged,[]
+QA latest frontend deployment Aug 31,6,merged,[]
+refactor: added plan remaining days in restore workspace,1,merged,[]
+Develop,4,merged,[]
+fix validation on card number,1,merged,[]
+switch workspace while in call progres,1,merged,[]
+Develop,57,merged,[]
+"Resolve KS-2590 ""Task/field validatin/""",4,merged,Abin Khatiwada
+Bug fix on custom audio player,1,merged,Ritesh  Sainju
+Hotfix/update,2,merged,Ritesh  Sainju
+"Resolve KS-2590 ""Task/field validatin/""",2,merged,[]
+Feature/member to member chat,3,merged,Ritesh  Sainju
+"Resolve KS-2621 ""Task/caller id ui/""",3,merged,Sundar Shahi
+"Resolve KS-2590 ""Task/field validatin/""",5,merged,[]
+fix: unable to change workspace name,1,merged,[]
+prevent api call if value unchanged in contact edit,1,merged,[]
+date filter fixes,1,merged,[]
+tags filter check fixes and workspace restore fixes,1,merged,[]
+Feature/settings responsive/ks code,2,merged,Sundar Shahi
+Mvp deployment Aug 27,458,merged,[]
+Search refactored,1,merged,Ritesh  Sainju
+Form Validations,16,merged,[]
+Develop,29,merged,[]
+Hotfix/padding in settings,1,merged,Sundar Shahi
+ping triggered on user login,1,merged,Ritesh  Sainju
+changed fetch policy,1,merged,[]
+Fixes/27 aug 2021,3,merged,[]
+Feature/responsive/ks code,10,merged,Sundar Shahi
+Feature/member to member chat,3,merged,Ritesh  Sainju
+Feature/support enterprise plan,3,merged,[]
+uat deployment,63,merged,[]
+QA deployment 26th Aug 9:11,21,merged,[]
+Feature/support number port,2,merged,Ritesh  Sainju
+Develop,40,merged,[]
+fix: cursor moved to end while updateing number due to auto format,1,merged,[]
+Hotfixes/allworkspacemembers cache update,3,merged,Sundar Shahi
+tos and policy link,1,merged,[]
+added tooltip in information icon,1,merged,[]
+UAT deployment AUG 23,83,merged,[]
+Hotfixes/aug 23,3,merged,[]
+Feature/support dashboard,11,merged,[]
+Feature/member to member chat,6,merged,Ritesh  Sainju
+restrict call transfer to agents who are on call,3,merged,[]
+Hotfix/channels cache update issues,3,merged,[]
+Prompt to go online added,10,merged,Ritesh  Sainju
+Draft: Feature/promp to go online,0,closed,[]
+fixes undefined and null,1,merged,[]
+Develop,14,merged,[]
+Bottom scroll on message typing issue fixed,1,merged,Ritesh  Sainju
+"Resolve KS-2581 ""Bugfix/add contact fixes/""",2,merged,[]
+Hotfixes/20 aug 2021,3,merged,[]
+Develop,10,merged,[]
+support,7,merged,[]
+Feature/greetings,2,merged,Ritesh  Sainju
+Feature/greetings,2,closed,Ritesh  Sainju
+Task/update pin ui dropdown,4,merged,Abin Khatiwada
+"Resolve KS-2428 ""Feature/mark as read api integration/""",3,merged,[]
+Fix/duplicate workspaces profile query,2,merged,[]
+Develop,3,merged,[]
+Hotfix/number settings path,2,merged,Sundar Shahi
+Develop,52,merged,[]
+hide clear all btn in respective filters if filter is not selected,1,merged,[]
+"Resolve KS-2427 ""Task/ui mark done/""",2,merged,Sundar Shahi
+fix one device login,1,merged,Ritesh  Sainju
+Feature/unarchive conversation,7,merged,Sundar Shahi
+"Resolve KS-2486 ""Feature/responsive individual number/""",3,merged,Sundar Shahi
+auth context and plan details in workspace,1,merged,[]
+updated version 0.13.0,1,merged,[]
+Feature/greetings,3,merged,Ritesh  Sainju
+Refactor/contact context,3,merged,[]
+Uat deployment 17 aug 3:11,309,merged,[]
+Refactor/code cleanup gql,5,merged,[]
+Refactor/code cleanup gql,2,merged,Sundar Shahi
+"Resolve KS-1918 ""Feature/show active members/""",3,merged,[]
+fix un necessary query call,1,merged,[]
+Refactor/navhelper context,2,merged,[]
+Refactor/aug 17 2021,2,merged,[]
+Develop,17,merged,[]
+number setting context,1,merged,[]
+clean up code,1,merged,Sundar Shahi
+"Resolve KS-1918 ""Feature/show active members/""",6,merged,Ritesh  Sainju
+hide incomplete features related to audio device settings,1,merged,[]
+Task/number search trial,3,merged,Ritesh  Sainju
+Develop,37,merged,[]
+Hotfix/change twilio ttl,4,merged,[]
+"Resolve KS-2485 ""Feature/responsive number purchase/""",4,merged,Sundar Shahi
+Refactor/16 aug 2021,6,merged,[]
+Team members online/offline status updated real time,1,merged,Ritesh  Sainju
+Develop,37,closed,[]
+"Resolve KS-1918 ""Feature/show active members/""",3,merged,Ritesh  Sainju
+"Resolve KS-2484 ""Feature/responsive number list/""",3,merged,Sundar Shahi
+fix: omited typename from ivrOptions in save,1,merged,Abin Khatiwada
+port number,2,merged,Ritesh  Sainju
+Feature/forward call,2,merged,[]
+bottom loading removed,1,merged,Ritesh  Sainju
+Develop,44,merged,[]
+active receipt tab from email redirect link,1,merged,Ritesh  Sainju
+reset members list in numbers sharing select field,1,merged,Sundar Shahi
+Api change/auto reply,2,merged,Ritesh  Sainju
+chore: intercome identity for logged in user,2,merged,[]
+"refactor: code optimization,  cleanup and console error fixes",3,merged,Ritesh  Sainju
+Fixes/cache update issues,4,merged,Sundar Shahi
+"Resolve KS-2483 ""Task/responsive profile settings/""",2,merged,Sundar Shahi
+device setting,3,merged,[]
+Api change/auto reply,2,merged,Ritesh  Sainju
+"Resolve KS-1918 ""Feature/show active members/""",5,merged,Ritesh  Sainju
+Fixes/11 aug 2021,4,merged,Ritesh  Sainju
+fix div descendant of p issue,1,merged,Ritesh  Sainju
+rename animation,1,merged,Sundar Shahi
+Develop,6,merged,[]
+Hotfix/aug 11,2,merged,[]
+"Resolve KS-2459 ""Task/ui functionality ctcwidget/""",2,merged,Sundar Shahi
+Develop,42,merged,[]
+reject incoming call if call is inprogress,1,merged,[]
+"Resolve KS-2370 ""Task/ui click to call setup/""",12,merged,Sundar Shahi
+"Resolve KS-1918 ""Feature/show active members/""",2,merged,Ritesh  Sainju
+refactor: memoized  query data,1,merged,Abin Khatiwada
+"Resolve KS-1918 ""Feature/show active members/""",4,merged,Ritesh  Sainju
+Fixes/10 aug,2,merged,Tashi Lama
+Hotfix/console errors warnings,2,merged,[]
+Refactor/10 aug 2021,6,merged,Ritesh  Sainju
+handle token twilio token expiry,1,merged,[]
+add download link,1,merged,Sundar Shahi
+Develop,11,merged,[]
+"Resolve KS-2241 ""Task/responsive team contact list 768/""",5,merged,Sundar Shahi
+Hotfix/handle tagslist error,2,merged,Abin Khatiwada
+removed unused assets,1,merged,[]
+Develop,17,merged,[]
+check micriphone in phone widget for incoming calls,1,merged,Sundar Shahi
+Hotfix/device settings,2,merged,[]
+"Resolve KS-1918 ""Feature/show active members/""",8,merged,Ritesh  Sainju
+"update unseencount batch, change plan pop up",2,merged,Abin Khatiwada
+Develop,7,merged,[]
+track number porting event and send to intercom,1,merged,Ritesh  Sainju
+Feature/plans setup,2,merged,Sundar Shahi
+update version,1,merged,[]
+Develop,2,merged,[]
+fix default value issue,1,merged,[]
+Develop,45,merged,[]
+validate ivr Options,1,merged,[]
+Mutation name changed,1,merged,Ritesh  Sainju
+show loading on submit,1,merged,[]
+Feature/plans setup,8,merged,Ritesh  Sainju
+[HOTFIX]: fix transfer issue,4,merged,[]
+resolved issue for call transfer,3,merged,[]
+Feature/call recording transcription,5,merged,[]
+Develop,11,merged,[]
+disable audio settings if not supported,1,merged,Sundar Shahi
+Feature/ivr settings,23,merged,[]
+"Resolve KS-1918 ""Feature/show active members/""",3,merged,Ritesh  Sainju
+"Resolve KS-1918 ""Feature/show active members/""",4,merged,Sundar Shahi
+Develop,11,merged,[]
+Bug fixes/aug 3,2,merged,Abin Khatiwada
+Bug fixes/aug 3,2,merged,[]
+fix: boot intercom on each refresh,1,merged,Ritesh  Sainju
+"Resolve KS-2365 ""Task/ui ivr message tts/""",2,merged,Sundar Shahi
+Develop,3,merged,[]
+Bug fixes/aug 3,2,merged,Sundar Shahi
+Develop,36,merged,[]
+Latest mvp build,316,merged,[]
+Krispcall Client Uat Build,97,merged,[]
+integrate intercom,1,merged,Ritesh  Sainju
+disable call hold temporarily for deployment,1,merged,[]
+"Resolve KS-2211 ""Feature/notification settings/""",3,merged,Abin Khatiwada
+Feature/plans setup,11,merged,Ritesh  Sainju
+fix: number already exist error toast on add tag from widgget,1,merged,Ritesh  Sainju
+Develop,21,merged,[]
+"Resolve KS-2210 ""Feature/change audio device twilio/""",7,merged,[]
+"Resolve KS-2264 ""Bug/fix search highlight/""",3,merged,Sundar Shahi
+fix loading on add number,1,merged,Ritesh  Sainju
+Feature/greetings v2,4,merged,Ritesh  Sainju
+Quickfix/stripe unhandled error message,1,merged,Ritesh  Sainju
+Quickfix/status not updated after purchase,3,merged,Ritesh  Sainju
+"Resolve KS-2211 ""Feature/notification settings/""",7,merged,[]
+"Resolve KS-2333 ""Task/dropdown greetings tts/""",3,merged,Abin Khatiwada
+"Resolve KS-2322 ""Task/fix design greetings/""",2,merged,Abin Khatiwada
+Develop,33,merged,[]
+refactor memberNode schema,5,merged,Ritesh  Sainju
+hot fix member count,1,merged,Ritesh  Sainju
+Task/call hold endcall subscription,10,merged,[]
+Bugfix/chat scroll,2,merged,Ritesh  Sainju
+"Resolve KS-2242 ""Task/responsive error states/""",4,merged,Sundar Shahi
+Develop,38,merged,[]
+resolve console error for draggable widget component in strictmode,1,merged,Sundar Shahi
+Feature/greetings v2,5,merged,Ritesh  Sainju
+Refactor/number search,2,merged,Ritesh  Sainju
+Latest UAT build,153,merged,[]
+show audio input output devices in settings,1,merged,Sundar Shahi
+"Resolve KS-2209 ""Refactor/twilio migration v2.0/""",8,merged,[]
+Hot fix on upload modal,1,merged,Ritesh  Sainju
+Task/restrict member add if no card,3,merged,Ritesh  Sainju
+"Resolve KS-2240 ""Task/responsive contact team list 992/""",4,merged,Sundar Shahi
+Feature/greetings v2,7,merged,Ritesh  Sainju
+Fix/capitalize names,2,merged,Ritesh  Sainju
+Develop,5,merged,[]
+Hotfix/july 26,2,merged,Sundar Shahi
+fix number price in number table,1,merged,Ritesh  Sainju
+Develop,4,merged,[]
+quick fix,1,merged,Ritesh  Sainju
+changed contact id to contact number in payload for conversation search,1,merged,Abin Khatiwada
+Develop,3,merged,[]
+Hotfix/call hold,2,merged,[]
+Develop,2,merged,[]
+Develop,2,closed,[]
+resolved issue for multiple addContact api call for tags edit from call widget,1,merged,Sundar Shahi
+Develop,94,merged,[]
+Refactor/client contact call hold,2,merged,[]
+fixed issue for add tags from call widget,1,merged,[]
+change payload for add pinned. use phone instead of contact id,1,merged,Sundar Shahi
+Refactor/client contact call hold,4,merged,Sundar Shahi
+Draft: Develop,94,closed,[]
+fix for same bg and foreground color,1,merged,[]
+Refactor/client contact call hold,46,merged,[]
+Develop,23,closed,[]
+Hotfix/workaround for same foreground and background,2,merged,[]
+Hotfix/number delete not reflected on sidebar,2,merged,Ritesh  Sainju
+Config/translation files,3,merged,[]
+fix tag count,1,merged,Ritesh  Sainju
+update patch version,1,merged,[]
+"Resolve KS-1230 ""Feature/one device one login/""",11,merged,Ritesh  Sainju
+fix showing wrong toast in tts save change,1,merged,Ritesh  Sainju
+Fix/member not showint in team add dropdown,3,merged,Ritesh  Sainju
+"fix row event issue in contact,member tables",2,merged,Sundar Shahi
+"Draft: Resolve KS-1957 ""Task/create email templates/""",14,opened,Sundar Shahi
+Develop,2,merged,[]
+fix nav active highlight,1,merged,Sundar Shahi
+Develop,36,merged,[]
+Feature/greetings,11,merged,Ritesh  Sainju
+Task/call hold api integration,23,merged,[]
+Refactor/changes in allworkspace member schema,2,merged,Ritesh  Sainju
+UAT deployment,314,merged,[]
+no index,1,merged,[]
+no index,1,merged,[]
+Refactor/cleanup code and refactor login,9,merged,Ritesh  Sainju
+removed unused imports,1,merged,Ritesh  Sainju
+"Resolve KS-2132 ""Task/responsive ui team list/""",4,merged,Sundar Shahi
+"fix greetings design, disable autoreply select",1,merged,Abin Khatiwada
+Deploy,5,merged,[]
+Feature/greetings,2,merged,Sundar Shahi
+Update package.json version,1,merged,[]
+Develop,14,merged,[]
+fix duplication issue in reorder,1,merged,Ritesh  Sainju
+"Resolve KS-2131 ""Task/responsive ui contact list/""",6,merged,Sundar Shahi
+"Resolve KS-2085 ""Task/show selected dnd/""",2,merged,Sundar Shahi
+Fix/deleting member doesnot reflect in sidebar/ ks-2087,1,merged,Ritesh  Sainju
+Develop,4,merged,Pravesh Chapagain
+Hotfix/fetch channels from seprate query,3,merged,Ritesh  Sainju
+QA build latest,33,closed,[]
+Develop,33,closed,[]
+save channel order in DB,1,merged,Ritesh  Sainju
+"Resolve KS-2138 ""Fix/reconnect ws on workspace switch/""",2,merged,Sundar Shahi
+refine refactor card form,1,merged,Sundar Shahi
+Task/rearrange workspace api integration,4,merged,[]
+Develop,21,merged,Parzival
+Config/cache busting and webpack config,8,merged,Ritesh  Sainju
+validate field length,1,merged,[]
+Feature/auto reply,4,merged,Sundar Shahi
+"Resolve KS-2081 ""Task/new design greetings/""",4,merged,Abin Khatiwada
+Develop,23,merged,[]
+fix remove number from cart,1,merged,Ritesh  Sainju
+Feature/greetings upload,10,merged,Ritesh  Sainju
+Feature/greetings upload,7,closed,[]
+Task/design for invalid invitation,2,merged,Ritesh  Sainju
+"Resolve KS-2072 ""Task/implement drag n drop lib/""",6,merged,Ritesh  Sainju
+Develop,3,merged,[]
+"Resolve KS-2076 ""Task/show memberinfo memberchat topbar/""",2,merged,Abin Khatiwada
+Develop,2,merged,[]
+replace dummy data with real data in member chat topbar,1,merged,[]
+Hotfix/rename styles,1,closed,[]
+Develop-deploy-15-07-2021,61,merged,Pravesh Chapagain
+fix broken files,1,merged,[]
+add unique key in map,1,merged,Ritesh  Sainju
+removed unused component,1,merged,[]
+"Resolve KS-2068 ""Refactor/contact member detail/""",3,merged,Sundar Shahi
+"Resolve KS-2064 ""Refactor/conversation ui/""",4,merged,Ritesh  Sainju
+Hotfix/14 07 2021,2,merged,Ritesh  Sainju
+"Resolve KS-1833 ""Feature/number delete/""",5,merged,Sundar Shahi
+"update spacing, refine conversation ui",1,merged,Ritesh  Sainju
+"Resolve KS-2036 ""Task/member chat topbar update refactor/""",6,merged,Ritesh  Sainju
+fix: KS-2034,3,merged,Tashi Lama
+Fix/no permission data after tab change,4,merged,Ritesh  Sainju
+refactor number and user price fetching,3,merged,[]
+"Resolve KS-1962 ""Task/draggable ordering numbers/""",3,merged,Ritesh  Sainju
+add drag n drop to order workspace item,1,merged,Sundar Shahi
+"Resolve KS-1843 ""Feature/view profile pic/""",4,merged,Ritesh  Sainju
+Task/responsive ui callbox update/ks code,3,merged,Sundar Shahi
+Deploy latest,0,closed,[]
+Latest deploy,20,merged,[]
+Hotfix/callstatus navbar search,3,merged,Sundar Shahi
+Refactor/number purchase requirements,3,merged,Ritesh  Sainju
+"Resolve KS-1909 ""Bugfix/widget unclickable issue/""",2,merged,Ritesh  Sainju
+Feature/add card on register,5,merged,Sundar Shahi
+"Resolve KS-1881 ""Bug/fix voicemail duration/""",2,merged,Ritesh  Sainju
+Latest deploy,8,merged,[]
+Hotfix/memeber msg seen count reset,5,merged,[]
+Refactor/template,1,merged,[]
+Latest QA Build,22,merged,[]
+Task/download invoice,2,merged,Ritesh  Sainju
+"Resolve KS-1892 ""Task/api integration member chat seen/""",2,merged,[]
+show notfound image for search text in nav bar,1,merged,[]
+"Resolve KS-295 ""Feature/navigation search/""",7,merged,Abin Khatiwada
+make call filter menu clickable for smaller resolution,1,merged,[]
+Latest frontend deploy,18,merged,[]
+invoice template,3,merged,Tashi Lama
+"Resolve KS-1780 ""Task/callbox responsive tablet/""",3,merged,Sundar Shahi
+"Resolve KS-1896 ""Task/allow newline chatbox input/""",5,merged,[]
+Refactor/number purchase,7,merged,Ritesh  Sainju
+Latest QA build,48,merged,[]
+Hotfix/cleanup contact selected row on unmount,3,merged,[]
+fix client name and profile pic of unknown,1,merged,Ritesh  Sainju
+Task/change clientdnd payload,2,merged,Sundar Shahi
+Hotfix/permission refetch,2,merged,[]
+"Resolve KS-1882 ""Task/create card detail page/""",2,merged,Abin Khatiwada
+Hotfix/permission refetch,2,merged,Sundar Shahi
+"Resolve KS-1596 ""Feature/unseen badge count memberchat/""",4,merged,Abin Khatiwada
+"Resolve KS-1889 ""Task/show activechannel data in responsive callbox/""",2,merged,Abin Khatiwada
+"Resolve KS-1701 ""Feature/receipts/""",10,merged,Ritesh  Sainju
+"Resolve KS-1779 ""Task/callbox responsive ui w992/""",6,merged,Sundar Shahi
+"Resolve KS-1446 ""Hotfix/client dnd/""",3,merged,Sundar Shahi
+Merging and deploying,36,merged,[]
+show missed call with voicemail in call filter,1,merged,Sundar Shahi
+Feature/chat scroll,2,merged,Abin Khatiwada
+Hotfixes/7 5 2021,6,merged,Ritesh  Sainju
+resolved issue for selected contacts text in contacts table on delete,1,merged,[]
+add copy email feature in team members list and member detail page,2,merged,[]
+Feature/chat scroll,7,merged,Ritesh  Sainju
+Hotfix/destroy twilio device on worksapce change,3,merged,Sundar Shahi
+Refactor/authorization,5,closed,Ritesh  Sainju
+Latest changes,0,closed,[]
+Develop,33,merged,[]
+Hotfix/access management,2,merged,Sundar Shahi
+Feature/contact search,2,merged,Ritesh  Sainju
+Feature/show toast for blocked contact while calling from dialer,4,merged,Ritesh  Sainju
+"Resolve KS-1445 ""Feature/team members list/""",21,merged,[]
+"Resolve KS-1778 ""Task/callbox responsive ui desktop/""",6,merged,Sundar Shahi
+Merging with Develop,71,merged,[]
+Hotfix/july 01 bugs,2,merged,[]
+Feature/contact search,3,merged,Ritesh  Sainju
+Refactor/twilio device setup,3,merged,Sundar Shahi
+Task/components for reset password from member list,3,merged,[]
+"Resolve KS-1787 ""Task/ui one user login/""",3,merged,Sundar Shahi
+Refactor/billing info auto recharge,2,merged,[]
+ui for missed voice mail,1,merged,Ritesh  Sainju
+"Resolve KS-1758 ""Bug/unselect table rows on contact import/""",2,merged,[]
+"Resolve KS-1784 ""Task/reuse design in greetings/""",1,merged,Abin Khatiwada
+"Resolve KS-1769 ""Task/ui greetings custom recording/""",2,merged,Abin Khatiwada
+"Resolve KS-1623 ""Feature/delete pending invitation/""",2,merged,Ritesh  Sainju
+Code Cleanup,2,merged,Ritesh  Sainju
+"Resolve KS-1760 ""Refine/ui greetings welcome/""",3,merged,Abin Khatiwada
+Feature/seen message(Update Badge Count),7,merged,Ritesh  Sainju
+Hotfix/6 29 2021,3,merged,Ritesh  Sainju
+Feature/contact search,2,merged,Ritesh  Sainju
+typo fix for client dnd success msg,1,merged,[]
+Develop,11,merged,[]
+"Resolve KS-1738 ""Task/ui greetings welcome/""",2,merged,Abin Khatiwada
+API end point changed on conversation search,1,merged,Ritesh  Sainju
+chat head highlighter reset in 1 seconds,1,merged,[]
+Feature/contact search,3,merged,Sundar Shahi
+Bugs/6 28 2021/fix,2,merged,Ritesh  Sainju
+Develop,5,merged,[]
+"Resolve KS-1751 ""Feature/contactlist more option/""",2,merged,Ritesh  Sainju
+fixed error for archive filter and make dropdwon menu visible even aftar menu item is clicked,1,merged,Sundar Shahi
+Develop,56,merged,[]
+Feature/dnd for client,9,merged,Sundar Shahi
+Hotfix/plan new design for custom plan,3,merged,Ritesh  Sainju
+Task/archive filter conversationbox/ks1438,2,merged,[]
+Feature/conversation search bugfix,6,merged,Ritesh  Sainju
+"Resolve KS-1682 ""Task/new ui settings notification/""",2,merged,Ritesh  Sainju
+Hotfixes/june 25,2,merged,[]
+"Resolve KS-1671 ""Task/member chat avatar/""",4,merged,Ritesh  Sainju
+Refactor/6 24 2021,3,merged,Ritesh  Sainju
+Refactor/search number and workspaces delete,7,merged,Ritesh  Sainju
+"Resolve KS-1438 ""Feature/conversation filter/""",8,merged,Sundar Shahi
+Develop,33,merged,[]
+"Resolve KS-1667 ""Task/add member team auth/""",3,merged,Abin Khatiwada
+"avatar sizing, avatar placeholder refactor",1,merged,Abin Khatiwada
+Refactor/change plan,7,merged,Ritesh  Sainju
+Feature/conversation search bugfix,3,merged,Ritesh  Sainju
+Bug/show active workspace on login,2,merged,Sundar Shahi
+update filer buttons ui,1,merged,Ritesh  Sainju
+Feature/conversation search bugfix,4,merged,[]
+"Resolve KS-1640 ""Task/ui pinned message/""",1,merged,Abin Khatiwada
+Develop,69,merged,[]
+"Resolve KS-1646 ""Task/add close in drawer/""",2,merged,Abin Khatiwada
+Refactor/workspace delete,5,merged,Ritesh  Sainju
+Hotfix/import customavatar in topbar,3,merged,Sundar Shahi
+"Resolve KS-1643 ""Feature/audio player multi transfer call/""",2,merged,Sundar Shahi
+"Resolve KS-1627 ""Task/audio player speed/""",2,merged,Ritesh  Sainju
+Feature/conversation search bugfix,21,merged,Ritesh  Sainju
+Task/generate new token for fcm on new login,2,merged,Sundar Shahi
+"Resolve KS-1615 ""Task/ui change plan/""",3,merged,Sundar Shahi
+Refactor/settings member/new changes,5,merged,Ritesh  Sainju
+Qa,372,closed,[]
+import csv feature if contacts  empty,3,merged,Abin Khatiwada
+"Resolve KS-1562 ""Task/ui conversation search/""",3,merged,Ritesh  Sainju
+"Resolve KS-1470 ""Feature/restore workspace/""",9,merged,Ritesh  Sainju
+api integration for call cancel,1,merged,Sundar Shahi
+"Resolve KS-1562 ""Task/ui conversation search/""",5,merged,Abin Khatiwada
+Task/show desktop notification on tab active,2,merged,[]
+Develop,3,merged,[]
+implemented send digit feature from dialpad,2,merged,Sundar Shahi
+Draft: Develop,0,closed,[]
+Latest dev changes,9,merged,[]
+changed firebase config,1,merged,Sundar Shahi
+Bug/add contact profile pic issues,2,merged,Sundar Shahi
+Develop,58,closed,Pravesh Chapagain
+"Resolve KS-1543 ""Feature/play single audio in chat/""",3,merged,Abin Khatiwada
+"Resolve KS-1275 ""Feature/cancel subscription/""",5,merged,Ritesh  Sainju
+"Resolve KS-1552 ""Task/member chat fixes/""",3,merged,Sundar Shahi
+qa pipeline trigger removed,1,merged,[]
+Refactor/fixes and refinement,5,merged,Ritesh  Sainju
+"Resolve KS-1473 ""Feature/purchase credit/""",7,merged,Abin Khatiwada
+refine refactor dnd for client,1,merged,Sundar Shahi
+Develop,287,merged,[]
+"Resolve KS-1241 ""Feature/desktop notification/""",9,merged,[]
+Hotfix/bugs,4,merged,Ritesh  Sainju
+"Resolve KS-1420 ""Task/update number sharing/""",4,merged,Ritesh  Sainju
+"Resolve KS-1457 ""Task/ui chat filter/""",3,merged,Sundar Shahi
+Qa merge request,1,merged,[]
+Feature/change plan and fetch billing info,5,merged,Ritesh  Sainju
+Testing qa pipeline,15,merged,[]
+Staging,10,merged,[]
+Develop,9,merged,[]
+Feature/notification auto recharge in billing,4,merged,Ritesh  Sainju
+Feature/member to member chat,11,merged,Sundar Shahi
+Merge request test,1,merged,[]
+Bug/fixes,4,merged,Ritesh  Sainju
+"Resolve KS-191 ""Feature/delete workspace/""",8,merged,Ritesh  Sainju
+Staging,3,merged,[]
+Develop,2,merged,[]
+Feature/billing overview,4,merged,Ritesh  Sainju
+Develop,22,merged,[]
+"disable calling others if widget is still on, refine disabled styles",1,merged,Ritesh  Sainju
+fix multiple contacts selection overflow on pagination,1,merged,Sundar Shahi
+Task/handle unknown contact agents,11,merged,Sundar Shahi
+"Resolve KS-1389 ""Task/ui refining contactlist/""",1,merged,Sundar Shahi
+"Resolve KRISP-1390 ""Feature/search agents from api in share access/""",2,merged,Ritesh  Sainju
+"fix name display logic, design issues",1,merged,Ritesh  Sainju
+refine reply with text,1,merged,Ritesh  Sainju
+"Resolve KS-1381 ""Refactor/chat number sharing/""",3,merged,Sundar Shahi
+refactor shared access and number settings,2,merged,Ritesh  Sainju
+Develop,22,merged,[]
+"Resolve KS-1310 ""Task/ui number sharing agents/""",3,merged,Ritesh  Sainju
+fix codegen generate,1,merged,Ritesh  Sainju
+Feature/access management,9,merged,[]
+"Resolve KS-1308 ""Feature/reply text call widget/""",5,merged,Sundar Shahi
+"Resolve KS-1366 ""Refactor/csv import/""",2,merged,Ritesh  Sainju
+fix: [BUG] restricted to create empty tag shown error toast,1,merged,Ritesh  Sainju
+hide Incoming call strategy for Member's view,1,merged,Abin Khatiwada
+fix flickering issue in widget,1,merged,Ritesh  Sainju
+Develop,4,merged,[]
+fetched card bran from api,1,merged,Ritesh  Sainju
+Changes made for Number sharing,3,merged,Sundar Shahi
+Merge Develop to Staging,20,merged,[]
+"Resolve KS-1307 ""Task/import csv contact integration/""",2,merged,Sundar Shahi
+"Resolve KS-1350 ""Task/ui settings refine refactor/""",9,merged,Sundar Shahi
+Feature/setup stripe sdk and Payment flow,15,merged,Ritesh  Sainju
+"Resolve KS-1343 ""Task/new ui billings/""",4,merged,Sundar Shahi
+Feature/fetch plans from api,2,merged,Ritesh  Sainju
+"Resolve KS-1342 ""Task/ui auto reply settings/""",2,merged,Sundar Shahi
+merge Develop in staging,26,merged,[]
+Task/handle case for international calls,5,merged,Sundar Shahi
+Bugs/hot fixes,2,merged,Ritesh  Sainju
+Feature/authorization,17,merged,Ritesh  Sainju
+new ui implementation csv,1,merged,Ritesh  Sainju
+Feature/access management,2,merged,[]
+"Resolve KS-1326 ""Task/refine contact detail pp/""",2,merged,Sundar Shahi
+merge develop code in staging,42,merged,[]
+Feature/access management,6,merged,Tashi Lama
+Task/call recording fixes,3,merged,Sundar Shahi
+update sideworkspacebar with member view,1,merged,Abin Khatiwada
+Feature/access management,3,merged,Ritesh  Sainju
+Hotfix/make default auth admin,1,merged,Ritesh  Sainju
+"Resolve KS-1311 ""Task/ui rbac/ 1306""",2,merged,Abin Khatiwada
+Task/disable transferbtn for transferred call,2,merged,Sundar Shahi
+"Resolve KS-1212 ""Task/ui rbac billings/""",6,merged,Abin Khatiwada
+Bugs/fixes and refactor,6,merged,Ritesh  Sainju
+Access manamgnet issue on workplace create privilege fixed,1,merged,Abin Khatiwada
+"Resolve KS-1283 ""Task/ui rbac workplace pp update/""",7,merged,Abin Khatiwada
+Feature/access management,7,merged,Ritesh  Sainju
+Member's view settings/team ui,4,merged,Abin Khatiwada
+"Resolve KS-1234 ""Feature/member search/""",5,merged,Ritesh  Sainju
+default private option  selection for add contact,1,merged,Sundar Shahi
+feat: contact profile upload fron detail page,1,merged,Ritesh  Sainju
+"Resolve KS-1210 ""Task/ui rbac numbers/""",2,merged,Abin Khatiwada
+show transferedAudio in callbox,2,merged,Sundar Shahi
+"Resolve KS-1215 ""Bug/respective workspacedata not showing/""",4,merged,Sundar Shahi
+fixed updating cache even in error,1,merged,Ritesh  Sainju
+update workplace ui for member's view,1,merged,Abin Khatiwada
+"Resolve KS-1207 ""Task/ui rbac/"" screen: settings/member",2,merged,Abin Khatiwada
+"Resolve KS-1196 ""Task/ui refining call states/""",2,merged,[]
+fixed showing wrong flag,1,merged,Ritesh  Sainju
+"Resolve KS-1184 ""Task/ui animated wave/""",3,merged,[]
+show call duration in feedback screen for incoming and outgoing calls,1,merged,Sundar Shahi
+Phone widget new design,91,merged,[]
+Develop,4,merged,[]
+Call Transfer feature for incoming calls,13,merged,Sundar Shahi
+refactor: separate styles according to screens,2,merged,Ritesh  Sainju
+"Resolve KS-1089 ""Feature/contacts forward backward pagination/""",4,merged,Ritesh  Sainju
+"KS-1174 ""Task/refine refactor feedback screen/""",2,merged,Ritesh  Sainju
+update call transfer list height for incoming/outgoing,1,merged,Ritesh  Sainju
+"display widget settings, fix line-height in settings dropdown",1,merged,Ritesh  Sainju
+add spacings in scrollbar,1,merged,Ritesh  Sainju
+inspect & refine spacings in widget body ( Call in progress  screen),1,merged,Ritesh  Sainju
+Show channel info in phone widget topbar(incoming and outgoing calls),3,merged,Sundar Shahi
+"KS-1154 ""Task/refine refactor widget incoming outgoing except call in progress/""",3,merged,Ritesh  Sainju
+fix call end btn flickering issue,1,merged,Ritesh  Sainju
+"fix svg issue, show call transfer ui in incoming call",2,merged,Ritesh  Sainju
+refine end call screen,6,merged,Ritesh  Sainju
+Task/contatc logs from contact,2,merged,Ritesh  Sainju
+Call ended screen after the call disconnected,1,merged,Sundar Shahi
+"Update KS-1035 ""Task/call transfer ui/""",4,merged,Ritesh  Sainju
+"Resolve KS-1059 ""Task/timer for call recording widget/""",4,merged,Sundar Shahi
+single action handler for call and message action in contact,1,merged,Ritesh  Sainju
+remove add button from call end screen,1,merged,Ritesh  Sainju
+Refactor/widget call,7,merged,Ritesh  Sainju
+edit note in  incoming outgoing widget,2,merged,Sundar Shahi
+add tag and update contact from incomming and outgoing,2,merged,Ritesh  Sainju
+Add notes in incoming call widget with editable field in end call screen,3,merged,Sundar Shahi
+Refactor/widget tag,2,merged,Tashi Lama
+"refactor Call in Progress, ui fixes",4,merged,Ritesh  Sainju
+Show added notes outgoing call widget,2,merged,Sundar Shahi
+Add notes outgoing call,7,merged,Sundar Shahi
+Update branch,6,merged,[]
+make separate screens from callinprogress,3,merged,Ritesh  Sainju
+Refactor/add contact and fixes,4,merged,Ritesh  Sainju
+Task/refactor widget outgoing,2,merged,Ritesh  Sainju
+"KS-994 ""Task/redesign incoming widget/""",3,merged,Ritesh  Sainju
+Refactor/chatbox  anad logs (Seprated query and UI ),3,merged,Ritesh  Sainju
+Task/refactor outgoing widget redesign,3,merged,Sundar Shahi
+Incoming call Recording,4,merged,Sundar Shahi
+"Resolve KS-906 ""Task/image upload team/""",5,merged,Ritesh  Sainju
+feat: current user mark in sidebar member,1,merged,Ritesh  Sainju
+separate my number columns,1,merged,Tushant Khatiwada
+Refactor/contact detail,2,merged,Sundar Shahi
+Refactor/add number to cart,2,merged,Tushant Khatiwada
+change route of number/add to buy,1,merged,Tushant Khatiwada
+used hooks for graphql operation and local states,1,merged,Sundar Shahi
+refactor: fetched pinned message of channel without depending on contact,2,merged,Ritesh  Sainju
+hot fix new conatct removed use of history state,1,merged,Tushant Khatiwada
+removed use of history state for new contact logs,5,merged,Ritesh  Sainju
+Feature/pin unpin contact log,9,merged,Ritesh  Sainju
+record outgoing calls,4,merged,Sundar Shahi
+pin contact ui,0,closed,Tushant Khatiwada
+changed with expected no contact ui,3,merged,Sundar Shahi
+Task/show new contact message logs,3,merged,Sundar Shahi
+sepration ofmutation and form in password reset-forgot,1,merged,Ritesh  Sainju
+voicemail integration in chatbox,1,merged,[]
+Bug/team member delete,6,merged,Ritesh  Sainju
+Bug/quick fixes,2,merged,Ritesh  Sainju
+Bug/team member delete,4,merged,Ritesh  Sainju
+Bug/sidebar,6,merged,Ritesh  Sainju
+contact detail is shown on refresh,5,merged,Ritesh  Sainju
+refactor:seprate mutation and UI logic in member,1,merged,Ritesh  Sainju
+Bug/ks 1002,4,merged,Ritesh  Sainju
+Task/redesign dialer/ks 996,2,merged,[]
+Bug/ks 982 and refactor schema,9,merged,Ritesh  Sainju
+fixed call type icon in contact logs based on cal direction and status,1,merged,Sundar Shahi
+Bug/input field text color/ks 967,4,merged,[]
+Task/ui fixes/ks,5,merged,Sundar Shahi
+Remove agent name in call status,1,merged,[]
+fix not able to add member in team,1,merged,[]
+Refactor/separate UI api pinmessage,4,merged,[]
+Refactor/team,4,merged,[]
+Task/test refine refactor UI,7,merged,[]
+migrated to hook-form v7 ,10,merged,[]
+separate mutation api logic for send sms,1,merged,[]
+Refactor/separate UI api chatbox messages,3,merged,[]
+seprate api logic and UI,3,merged,[]
+Bug/disallow space as first char,2,merged,[]
+Refactor/chatbox message component,2,merged,[]
+Task/contact logs refactor,5,merged,[]
+Task/websocket authentication,3,merged,[]
+refactor workspace member delete,1,merged,[]
+Refactor/seprate api and UI logic,2,merged,[]
+debounce workspace switch and break ui and logic,1,merged,[]
+Task/UI fixing,8,merged,[]
+bug[FIX]:remove contact row selection after action,1,merged,[]
+Chatbox show msg delivered,2,merged,[]
+Bug/fix not showing member profilePicture in sidebar,2,merged,[]
+Refactor/channel dnd,4,merged,[]
+Task/UI fix table filter dropdown,3,merged,[]
+hide loggedin user from members list of sidebar,1,merged,[]
+Task/checkout numbers,3,merged,[]
+Bugfixes/workspace detail sidebar,3,merged,[]
+Bug/share access edit fix/ks 905,4,merged,[]
+Refactor/cache modify evict gc,7,merged,[]
+Bug/ks 903/profile image,6,merged,[]
+"update query for members, ui functionality, check icon",1,merged,[]
+Task/update call duration callstatus chatbox,7,merged,[]
+Task/list  item in cart and remove item from cart,10,merged,[]
+Task/UI fixes/ks 935,3,merged,[]
+refactor: twilliow provider only in private route,1,merged,[]
+refactor: remove useLoading and fix undefined error,1,merged,[]
+Task/update contact logs tab,12,merged,[]
+Bug/wrong delete pop,2,merged,[]
+Task/UI fixes and refactor,8,merged,[]
+Hotfix/show call icon sms in contactlogs,2,merged,[]
+show icons for incoming outgoing and show partial sms text in recent conversation,1,merged,[]
+Task/add to cart,5,merged,[]
+fixed issue for message flicker in chatbox,1,merged,[]
+show call duration for completed calls,2,merged,[]
+Code refactors,20,merged,[]
+Feature/mute mic phone widget/ks 876,4,merged,[]
+fix console errors,1,merged,[]
+Task/UI fixes/ks 867,4,merged,[]
+console error fixes for duplicate key,3,merged,[]
+Bugfixes/chatbox sendsms,4,merged,[]
+fix: undefined  user during verification,1,merged,[]
+removed unnecessary props passing and memoized styled atom,1,merged,[]
+Task/refine number settings 2/ks 856,5,merged,[]
+fix inbox ui,1,merged,[]
+Refactor/requested change and fixes,4,merged,[]
+Bug/archive add confirmation and update cache/ks 267,4,merged,[]
+Task/call status plan,2,merged,[]
+removed email population on change email form,1,merged,[]
+Task/senty integration,12,merged,[]
+slight issue on reply with message,1,merged,[]
+Task/refine numbers/ks 828,5,merged,[]
+fix not showing team update toast,1,merged,[]
+fix: KS-305 automatic remove team member while adding new,1,merged,[]
+fix unbable to share number,1,merged,[]
+Task/workspace changes default workspace,2,merged,[]
+null value in team member,1,merged,[]
+constants used as CAPITAL,1,merged,[]
+optimize number search,1,merged,[]
+Hotfix and graphql generate,2,merged,[]
+Task/show only completed callstatus/ks 827,3,merged,[]
+show message after sending right away,1,merged,[]
+twilio device refine,9,merged,[]
+[FIX] status not changed after email verification from toast,1,merged,[]
+Task/numbers pending purchase UI/krisp 1385,4,merged,[]
+search number by match,3,merged,[]
+[Number Search ] use functional version of useState to prevent re-render,2,merged,[]
+Task/search number api integration,5,merged,[]
+Task/UI fixes/krisp 1383,3,merged,[]
+schema fixes,1,merged,[]
+Task/UI fixes/krisp 1364,7,merged,[]
+refresh results with refetch,1,merged,[]
+infinite scroll in member list and invited member list,1,merged,[]
+Task/search number,4,merged,[]
+Schema fixes,4,merged,[]
+number cart new UI,1,merged,[]
+Task/refine contacts blocked/krisp 1332,5,merged,[]
+Task/search number new UI,7,merged,[]
+Fixes on conversation,12,merged,[]
+refactor all dropdowns,1,merged,[]
+remove workspaceid,1,merged,[]
+refactor: show correct flag in numbercard dropdown,1,merged,[]
+Refactor/fixes certain edge cases,8,merged,[]
+Task/fixes UI/krisp 1293,3,merged,[]
+api integration,2,merged,[]
+"fix member add, remove and update in team setting",1,merged,[]
+one space removed in classname,1,merged,[]
+removing workspace id once user logs out,2,merged,[]
+cleanup selected row in unmount,1,merged,[]
+exception handling for device offline and no audio device  access,1,merged,[]
+validate number according to country from dialer,1,merged,[]
+Task/refine UI/krisp 1279,8,merged,[]
+avoid number duplication on cart,4,merged,[]
+Feature/badge count numbers/krisp 1280,2,merged,[]
+bugs:[FIX] validate numbers according to country,3,merged,[]
+Task/update billing information,4,merged,[]
+delete contact implementation,1,merged,[]
+Task/UI fixes/krisp 1240,7,merged,[]
+removed empty file,2,merged,[]
+Add remove number from cart,2,merged,[]
+Task/filter blocked contact,3,merged,[]
+Contact block multiple,8,merged,[]
+Task/auto turn off dnd/krisp 1241,7,merged,[]
+Task/refine dnd UI/krisp 1239,2,merged,[]
+block unblock contact new ui,1,merged,[]
+donot allow caller to dail own number,2,merged,[]
+Task/dnd dropdown UI final,3,merged,[]
+fix <=9,1,merged,[]
+Refactor/code cleanup,3,merged,[]
+Task/prepend zero utils,2,merged,[]
+pause notification end time,4,merged,[]
+Hotfixes/april 2,2,merged,[]
+Refactor/sticky contat details page,2,merged,[]
+Refactor/fixes,2,merged,[]
+removed emoji container from number setting,1,merged,[]
+Feature/channel dnd turn off/krisp 539,2,merged,[]
+Fix/inbox UI/krisp 1209,6,merged,[]
+Task/disable message input,2,merged,[]
+Task/contacts filter from tags/krisp 1223,2,merged,[]
+Hotfix/dialer input form fixes,2,merged,[]
+add do not disturb dropdown rough ui,1,merged,[]
+contacts filter from tags,4,merged,[]
+fix translation key,2,merged,[]
+Feature/block contact/krisp 544,2,merged,[]
+Refactor/phone call widget,3,merged,[]
+Channel dnd - more work is left yet,4,merged,[]
+Add pop up on contact csv import,4,merged,[]
+fix tag color and profilePicture not showing in contact list,1,merged,[]
+refactor: forced render pannel to stop internal lazyLoading,1,merged,[]
+Task/refactor refine UI krisp 1199,5,merged,[]
+using constants for action type,1,merged,[]
+use constants on actions,2,closed,[]
+Task/tag navigation dnd status,3,merged,[]
+Feature/reset password/krisp 560,8,merged,[]
+Task/handle outgoing call,12,merged,[]
+Task/spinner component,4,merged,[]
+set channel DND status,4,merged,[]
+Refactor/tags krisp 1195,3,merged,[]
+Task/edit share access krisp 1193,9,merged,[]
+Task/refactor mic,3,merged,[]
+fix contact search,1,merged,[]
+Refactor/share access,3,merged,[]
+Task/add translation settings/krisp 1184,5,merged,[]
+Feature/add tags from contact/krisp 540,23,merged,[]
+Fix/contact detail flicker,2,merged,[]
+editing state for share access,3,merged,[]
+fixed issue in number name edit,1,merged,[]
+Feature/share number with team/krisp 988,2,merged,[]
+Task/general settings edit update cache/krisp 1170,2,merged,[]
+Task/general settings edit update cache/krisp 1170,2,merged,[]
+Fixed issue in client notes and changes made for Userprofile fragments,1,merged,[]
+Feature/view number settings/krisp 864,2,merged,[]
+Feature/view number settings/krisp 864,3,merged,[]
+Feature/search available number,3,merged,[]
+Task/UI microphone check/krisp 1181,5,merged,[]
+Feature/add tags from contact/krisp 540,3,merged,[]
+Feature/add tags from contact/krisp 540,1697,closed,[]
+Feature/search available numbers/krisp 840,7,merged,[]
+Refactor/code splitting,2,merged,[]
+Refactor/code splitting,2,merged,[]
+Hotfix/contacts caching,2,merged,[]
+Feature/list tags navigation/krisp 1158,5,merged,[]
+Task/settings members dropdown refine/krisp 1178,3,merged,[]
+update,1,merged,[]
+refactor: edit number folder structure and remove unnecessary code.,1,merged,[]
+task/update-call-logs-from-subscription,1,merged,[]
+Feature/list all my numbers/krisp 841,7,merged,[]
+Task/contact api changes fix,4,merged,[]
+handle conditions for call option in contact list/detail,1,merged,[]
+Feature/update call status/krisp 914,13,merged,[]
+useOnclickOutside,2,merged,[]
+Refactor/atomic design structure,2,merged,[]
+restructure folder atomic design,2,merged,[]
+refactor: seprated delete modal component from setting member dropdown,1,merged,[]
+Refactor/number card,4,merged,[]
+Task/UI custom tags/krisp 1164,11,merged,[]
+Bugs/contact add detail,5,merged,[]
+Refactor/add utility and fix bug,4,merged,[]
+Twilio client,36,merged,[]
+Task/UI tags/krisp 1152,4,merged,[]
+Task/list number from api in member,2,merged,[]
+Task/unpin message from top bar,11,merged,[]
+fix: undefined in new contact,1,merged,[]
+Task/refine UI member invite/krisp 1140,4,merged,[]
+Feature/search  and filters,9,merged,[]
+Task/refactoring/krisp 1131,5,merged,[]
+Bug/existing member invite/krisp 1017,3,merged,[]
+Bug/back to team list after delete,1,merged,[]
+Persist and Rehydrate Cache,2,merged,[]
+add badge,4,merged,[]
+Task/disable message now button on detail page,1,merged,[]
+using typePolicies to show unseen count on Channel Type,1,merged,[]
+Task/refine UI/k risp 1123,3,merged,[]
+Bug/default language/krisp 1116,3,merged,[]
+refactor: redirect to number buy page on no number,1,merged,[]
+ [FIX #272 ] allContact query didn't cleared after navigate to others route,2,merged,[]
+showing new conversation count on a badge,2,merged,[]
+Bug/refetch new invited members/krisp 1117,2,merged,[]
+Task/custom table pagination/krisp 1120,5,merged,[]
+chore: api integrate search in contact list,1,merged,[]
+Bug/add team update cache/krisp 1115,2,merged,[]
+Feature/archive message/krisp 1077,7,merged,[]
+Refine Sign up,1,merged,[]
+[REVIEW ONLY] Feature/search contact/krisp 533,3,merged,[]
+Bug/update cache workspace add/1105,2,merged,[]
+Task/refine user auth UI/krisp 1104,3,merged,[]
+Task/remove workspace id/krisp 1112,3,merged,[]
+Refactor/member invitee login,5,merged,[]
+"Pin Unpin and Stare, Unstare",5,merged,[]
+Task/design fix contact detail/krisp 1083,3,merged,[]
+search conversation,12,merged,[]
+Hotfix/invite login change schema,2,merged,[]
+Task/refine sidebar UI/krisp 1080,2,merged,[]
+Hotfix/fix contact issue/krisp 1011,4,merged,[]
+Feature/editable contact name/krisp 1079,3,merged,[]
+refactor: reorganise client-to-agent chat-box  folder structure,1,merged,[]
+added editable field for name in contact detail ,2,merged,[]
+Bug/contact detail update allcontacts,3,merged,[]
+Task/refine UI contact message dropdown/krisp 1062,3,merged,[]
+refactor: removed antd icons,1,merged,[]
+Hotfix/fix contact bug,3,merged,[]
+fixed issue for sorting chat messages,1,merged,[]
+Refactor/contact logs,5,merged,[]
+Show contact in contact logs when redirect from contact list,12,merged,[]
+Task/add playbackrate audioplayer UI/krisp 1056,5,merged,[]
+Hotfix/fix contact bug,4,merged,[]
+Add universal search ui,3,merged,[]
+Task/auto refresh contact logs on new msg,5,merged,[]
+Refactor/conversation sorting and update,2,closed,[]
+refactor: use route from constant,1,merged,[]
+auto refresh chat message on receive and send,1,merged,[]
+Refactor/intersection observer and token refresh,9,merged,[]
+Task/scroll bar chatbox/krisp 1048,3,merged,[]
+Task/inbox search contacts UI/krisp 1038,4,merged,[]
+send sms from contact list/krisp 547,15,merged,[]
+change email mutation,1,merged,[]
+Task/inbox refine UI/krisp 995,3,merged,[]
+Feature/contact pagination/krisp 986,4,merged,[]
+Feature/change email/krisp 814,2,merged,[]
+moved files to respective folder,1,merged,[]
+Refactor: Modals,4,merged,[]
+Fixes/callbox status fixes,3,merged,[]
+Feature/delete note,10,merged,[]
+Feature/inbox list/krisp 877,25,merged,[]
+[REFINEMENT] CallBox,4,merged,[]
+Task/refine billing plans pop ups 2/krisp 959,6,merged,[]
+Task/utils time duration from now/krisp 981,3,merged,[]
+Task/utils time duration from now/krisp 981,3,merged,[]
+Refactor enable notification workspace setting,2,merged,[]
+Task/refine billing plans pop ups/krisp 943,5,merged,[]
+Feature/chatbox notes api integration/krisp 543,5,merged,[]
+chore: api call on tab change,4,merged,[]
+Feature/call box contact detail,2,merged,[]
+"Refine overview, billing, receipts",2,merged,[]
+Theme variable suggestions using declaration merging,2,merged,[]
+refactor: removed unused assets,1,merged,[]
+Task/api integration workspace notification/krisp 929,3,merged,[]
+Refactor/import module,2,merged,[]
+Task/email chip component/krisp 930,4,merged,[]
+Inbox list,3,merged,[]
+refactor number settings,4,merged,[]
+folder structuring,1,merged,[]
+Refactor/contact module,4,merged,[]
+chore: workspace add modal and form localize,1,merged,[]
+Refactor/navigation,3,merged,[]
+"Add Upload functionality, make selected audio playable",2,merged,[]
+restructure folder for navigations,1,merged,[]
+Refactor/email verification alert reminder,3,merged,[]
+Code cleanup and refactor,5,merged,[]
+Feature/send message mutation/krisp 817,3,merged,[]
+Task/number settings voicemail UI/krisp 913,8,merged,[]
+Static/languages json,5,merged,[]
+Task/localaization  settings,9,merged,[]
+Contact Table checkbox - check on clicking image,1,merged,[]
+Feature/localaization implementation/krisp 883,17,merged,[]
+Feature/list workspace,5,merged,[]
+Hotfix/comment ws link codes,2,merged,[]
+Task/number settings select function/krisp 907,9,merged,[]
+added company in client gql query schema,1,merged,[]
+Feature/localaization krisp 885,6,merged,[]
+Add NumberSettings-Team Shared screen,1,merged,[]
+Display logout pop over to the front,1,merged,[]
+Task/add number settings individual UI/krisp 902,5,merged,[]
+refactor: reorganaize organism folder structure,1,merged,[]
+Feature/update contact information/krisp 545,28,merged,[]
+"Align Circular progress bar, Fix Date style",1,merged,[]
+Feature/update workplace/krisp 473,2,merged,[]
+Task/settings numbers refine UI/krisp 832,10,merged,[]
+Cleanup,3,merged,[]
+Update Workspace Photo,3,merged,[]
+Bug/firing app url on upload/krisp 866,3,merged,[]
+Feature/sms message/krisp 815,6,merged,[]
+Feature/resend invitation and copy link/krisp 465,15,merged,[]
+Fix/workspace members as per api,2,closed,[]
+Feature/change role and remove workspace member/krisp 785 464,4,merged,[]
+refactor: implement proper type for query and use of immer,1,merged,[]
+Refactoring,4,merged,[]
+Task/refine UI settings page/krisp 813,11,merged,[]
+[FIX] Error message showing after delete success,2,merged,[]
+Refactor/my profile module,4,merged,[]
+refactor: showing error key instead of whole message.,1,merged,[]
+refactor: removed updating cache and used localstate to update,1,merged,[]
+"[POC] update objects, arrays without mutating the original. ",2,merged,[]
+Feature/change default language/krisp 481,6,merged,[]
+Feature/delete workspace/krisp 474,5,merged,[]
+Task/refine UI settings page/krisp 783,6,merged,[]
+Feature/api integration my profile/krisp 460,8,merged,[]
+chore: filter team list after delete,1,merged,[]
+useCountryFromIp,3,merged,[]
+fixes like workspace name and title,1,merged,[]
+Intersection Observer implementation for Infinite Scrolling,4,merged,[]
+Feature/delete team/krisp 603,5,merged,[]
+Task/refine UI settings page/krisp 779,2,merged,[]
+Feature/api integration my profile/krisp 460,5,merged,[]
+Feature/invite member from navigation/krisp 455,2,merged,[]
+Task/refine UI settings page/krisp 769,8,merged,[]
+few code prettified,1,merged,[]
+Feature/workspace member list/krisp 456,2,merged,[]
+refactor: fix certain lint warning ,2,merged,[]
+Task/update nav with team,10,merged,[]
+Task/refine UI contact page/krisp 748,4,merged,[]
+Config/eslint,6,merged,[]
+refactor: redirect to login screen after invitation accept,1,merged,[]
+Bug/undefined in invitation details/krisp 756,2,merged,[]
+Bug/change email sticky note/krisp 738 kirsp 750,3,merged,[]
+chore: save user_profile_status to local storage after verified,1,merged,[]
+Hotfix/fix css errors/krisp 736,5,merged,[]
+refactor: removed refetch queries and used update function,1,merged,[]
+remove member api integration,2,merged,[]
+refactor: fix bug not showing toast and modal not closed after succes…,1,merged,[]
+Refine UI - Logout Popover,1,merged,[]
+Hotfix/font issues fix due to css error,2,merged,[]
+refactor: fix loading bug,1,merged,[]
+refactor: new user screen layout fix,1,merged,[]
+chore: work place edit reflecting instantly,3,merged,[]
+Feature/view profile information/krisp 571,3,merged,[]
+Task/refine UI settings emoji picker/krisp 734,3,merged,[]
+Task/refine UI toasters/krisp 731,4,merged,[]
+contact upload and team member listing,8,merged,[]
+Task/form validation add members/krisp 462,5,merged,[]
+notifications on team setting on success operation,1,merged,[]
+Feature/verify email /krisp 730 ,9,merged,[]
+Task/contact page refine UI/krisp 692,8,merged,[]
+Feature/edit team,2,merged,[]
+Feature/edit workspace api integration/krisp 428,4,merged,[]
+Task/receipts,7,merged,[]
+refactor: revert back to first and last name,2,merged,[]
+changed regex for password with atleast 1 special character,1,merged,[]
+Feature/join with invitation link/krisp 490 ,24,merged,[]
+refactor: fix undefined user and toast message not showing in success,1,merged,[]
+Hotfix/client side sorting,4,merged,[]
+feat: api integration resend verification link,2,merged,[]
+Confirm  Email,1,merged,[]
+Task/alert change email,5,merged,[]
+Task/billing/krisp 682,5,merged,[]
+Task/inbox page refine UI/krisp 651,3,merged,[]
+team create,2,merged,[]
+"Feature/billing cards/krisp 663 ,664",11,merged,[]
+Feature/contact detail integration/krisp 647,11,merged,[]
+Task/numbers listing/krisp 519,3,merged,[]
+"Feature/billing plans overview/krisp 648, 649",10,merged,[]
+Task/refine UI work on fixes/krisp 639,4,merged,[]
+Feature/contact page refine UI/krisp 605,5,merged,[]
+Task/route changes,5,merged,[]
+Feature/invite member/krisp 462,7,merged,[]
+refactor: Errorpage Refinement,2,merged,[]
+Task/registered member invitation screen/krisp 633,4,merged,[]
+"refactor:remove copy link,cancel, and add back button",1,merged,[]
+Feature/team page UI/krisp 601,10,merged,[]
+Feature/contact page refine UI/krisp 600,4,merged,[]
+"design fixes for login,forgotpasswprd,memberinvite page",1,merged,[]
+Task/phone input customaization/krisp 572,2,merged,[]
+Task/auth screen new design/krip 566,8,merged,[]
+Task/contact refinement/krisp 524,22,merged,[]
+Task/invitee login screen/krisp 555,7,merged,[]
+Refine UI - settings/members,1,merged,[]
+Task/registration updated api integration,3,merged,[]
+Feature/team/krisp 447,8,merged,[]
+popup issue with team mutation cleanup,1,merged,[]
+refactor: team add with add button,1,merged,[]
+Feature/cleanup contact add,4,merged,[]
+Feature/settings page refine UI/krisp 496,3,merged,[]
+Feature/settings page refine UI/krisp 496,478,closed,[]
+Task/radio box,5,merged,[]
+Task/add button in sideworkspacebar/krisp 505,3,merged,[]
+bugs: fix design broken in production,1,merged,[]
+Refine UI Settings/Members,3,merged,[]
+Tassk/form fields refactor/krisp 466,4,merged,[]
+refactor: replace checkbox with radio,1,merged,[]
+Task/globalstyle modularization/krisp 448,8,merged,[]
+Feature/add channel form/krisp 446,10,merged,[]
+Feature/user verification status alert,3,merged,[]
+phone input field hooking react form,6,merged,[]
+Fix spacing in pop up forms,1,merged,[]
+Task/add perfect scrollbar,2,merged,[]
+Features/call box related/krisp 344,4,merged,[]
+refactor: types of onchange,1,merged,[]
+Feature/settings page refine UI/krisp 418,5,merged,[]
+refactor: fix margin-bottom problem between two fields,1,merged,[]
+created separate HOC for public routes,2,merged,[]
+Refactor/share access,2,merged,[]
+Refactor/csv parser,4,merged,[]
+Task/design implementation logout popover/krisp 420,2,merged,[]
+refactor: choose one language at a time and discard multipleselection,2,merged,[]
+Refine Settings UI - Billing & Plans,1,merged,[]
+api integration for user registration,1,merged,[]
+Feature/first launch screens/krisp 404,5,merged,[]
+Feature/settings page refine UI/krisp 396,3,merged,[]
+Feature/share access/krisp 397,3,merged,[]
+Feature/settings page refine UI/krisp 391,3,merged,[]
+design implementation for adding new workspace,3,merged,[]
+Feature/validation signup form/krisp 393,4,merged,[]
+Task/add member steps form/krisp 392,6,merged,[]
+Refine Settings UI - Contacts,2,merged,[]
+Feature/design implementaion/krisp 390,3,merged,[]
+refactor: emoji picker set flag as default first,1,merged,[]
+"Refine Settings UI - Edit, Change Popups",1,merged,[]
+Feature/map imported contact fields/krisp 370,4,merged,[]
+[WIP] Feature/contact import/krisp 368,5,merged,[]
+Feature/settings page refine UI/krisp 361,3,merged,[]
+Task/tooltip in settings contact/krisp 362,2,merged,[]
+folder naming conflict resolved,1,merged,[]
+Feature/settings page refine UI/krisp 352,3,merged,[]
+Task/profile image upload component/krisp 327,4,merged,[]
+Task/form submit from modal/krisp 353,11,merged,[]
+Task/tooltip for sidenavbar,7,merged,[]
+UI,10,merged,[]
+UI,292,closed,[]
+Hotfix/addworkspace api integration,2,merged,[]
+Feature: contact api integration (WIP),13,merged,[]
+Task/call flow strategy setup component,10,merged,[]
+Hotfix/side nav design issues,6,merged,[]
+Feature/inbox page refine UI/krisp 343,4,merged,[]
+fixed design issue of sidenav bar,1,merged,[]
+UI,40,merged,[]
+Task/sidebar design fixes,3,merged,[]
+Task/fix layout design,3,merged,[]
+Feature/call states/krisp 318,8,merged,[]
+Task/refactor sidebar component,4,merged,[]
+Task/add workspace page fixes,2,merged,[]
+feat: conversation dropdown option component,1,merged,[]
+Feature/inbox page refine UI/krisp 285,11,merged,[]
+Feature/settings language and emoji component/krisp 304,8,merged,[]
+Add New workspace for new user.,7,merged,[]
+Feature/workspace channel teams/krisp 271,4,merged,[]
+Feature/settings pages/krisp 270,27,merged,[]
+Feature/multiple states/krisp 223,3,merged,[]
+Feature/workplace and integrations settings/krisp 265,9,merged,[]
+Feature/edit fields modal/krisp 254,11,merged,[]
+Feature/contacts setting/krisp 251,35,merged,[]
+Feature/login page languages dropdown,3,merged,[]
+Feature/refine design/krisp 242,9,merged,[]
+Feature/interactive chatbox/krisp 212,14,merged,[]
+Feature/chatbox lyout refine/krisp 210,8,merged,[]
+Feature/user restriction/krisp 209,4,merged,[]
+Feature/localization/krisp 206,5,merged,[]
+Feature/sidebar refinement/krisp 202,17,merged,[]
+Feature/auth api integration/krisp 170,4,merged,[]
+Feature/contact table UI/krisp 199,5,merged,[]
+media query breakpoint made reusable,1,merged,[]
+Feature/login UI redesign/krisp 177,10,merged,[]
+Features/number settings/krisp 185,9,merged,[]
+Feature/settings/krisp 175,15,merged,[]
+Feature/contact page components/krisp 164,18,merged,[]
+Develop,62,merged,[]
+fixes: fields component confilct in textbox,2,merged,[]
+feat: errors page and empty contact page,2,merged,[]
+Feature/auth system/krisp 89,4,merged,[]
+Feature/chatbox/krisp 93,36,merged,[]
