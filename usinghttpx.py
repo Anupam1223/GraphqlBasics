@@ -12,7 +12,7 @@ def make_query(after_cursor=None):
   project(fullPath: "krispcall/krispcall-client") {
     id
     name
-    mergeRequests(first: 2, after:AFTER){
+    mergeRequests(first: 100, after:AFTER){
       pageInfo {
         hasNextPage
         hasPreviousPage
@@ -72,13 +72,15 @@ async def fecth_mergerequest(oauth_token):
         while has_next_page:
             data = await client.get(
                 endpoint,
-                query=make_query(after_cursor),
+                params=make_query(after_cursor),
                 headers={"Authorization": "Bearer {}".format(oauth_token)},
             )
 
+            print(data)
+
             for merge_request in data["data"]["project"]["mergeRequests"]["edges"]:
                 print(json.dumps(merge_request, indent=4))
-                count = count + 1
+                count += 1
 
             has_next_page = data["data"]["project"]["mergeRequests"]["pageInfo"][
                 "hasNextPage"
