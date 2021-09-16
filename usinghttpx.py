@@ -8,7 +8,8 @@ endpoint = "https://gitlab.com/api/graphql"
 
 
 def make_query(after_cursor=None):
-    return """query {
+    return {
+        "query": """query {
   project(fullPath: "krispcall/krispcall-client") {
     id
     name
@@ -58,8 +59,9 @@ def make_query(after_cursor=None):
     }
   }
 }""".replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
+            "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+        )
+    }
 
 
 async def fecth_mergerequest(oauth_token):
@@ -76,21 +78,21 @@ async def fecth_mergerequest(oauth_token):
                 headers={"Authorization": "Bearer {}".format(oauth_token)},
             )
 
-            print(data.json())
+            json_data = data.json()
 
-    #         for merge_request in data["data"]["project"]["mergeRequests"]["edges"]:
-    #             print(json.dumps(merge_request, indent=4))
-    #             count += 1
+            for merge_request in json_data["data"]["project"]["mergeRequests"]["edges"]:
+                print(json.dumps(merge_request, indent=4))
+                count += 1
 
-    #         has_next_page = data["data"]["project"]["mergeRequests"]["pageInfo"][
-    #             "hasNextPage"
-    #         ]
-    #         after_cursor = data["data"]["project"]["mergeRequests"]["pageInfo"][
-    #             "endCursor"
-    #         ]
+            has_next_page = json_data["data"]["project"]["mergeRequests"]["pageInfo"][
+                "hasNextPage"
+            ]
+            after_cursor = json_data["data"]["project"]["mergeRequests"]["pageInfo"][
+                "endCursor"
+            ]
 
-    # print("all of them printed")
-    # print("total count->", count)
+    print("all of them printed")
+    print("total count->", count)
 
 
 asyncio.run(fecth_mergerequest(oauth_token))

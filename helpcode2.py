@@ -11,7 +11,7 @@ def make_query(after_cursor=None):
   project(fullPath: "krispcall/krispcall-client") {
     id
     name
-    mergeRequests(first: 100, after:AFTER){
+    mergeRequests(first: 2, after:AFTER){
       pageInfo {
         hasNextPage
         hasPreviousPage
