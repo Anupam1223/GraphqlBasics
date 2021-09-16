@@ -79,8 +79,9 @@ async def fecth_mergerequest(oauth_token):
     has_next_page = True
     after_cursor = None
     count = 0
-    header = ["id", "title", "commitCount"]
+    header = ["Approved", "Title", "CommitCount", "Reviews"]
     row = []
+    reviews = []
 
     async with httpx.AsyncClient() as client:
 
@@ -94,18 +95,20 @@ async def fecth_mergerequest(oauth_token):
             json_data = data.json()
 
             for merge_request in json_data["data"]["project"]["mergeRequests"]["edges"]:
+                for reviewrs in merge_request["node"]["reviewers"]["edges"]:
+                    reviews = reviewrs["node"]["name"]
 
                 # print(json.dumps(merge_request, indent=4))
                 row.append(
                     [
-                        merge_request["node"]["id"],
+                        merge_request["node"]["approved"],
                         merge_request["node"]["title"],
                         merge_request["node"]["commitCount"],
+                        reviews,
                     ]
                 )
-
                 count += 1
-
+                reviews = []
             has_next_page = json_data["data"]["project"]["mergeRequests"]["pageInfo"][
                 "hasNextPage"
             ]
