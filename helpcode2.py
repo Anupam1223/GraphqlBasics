@@ -1,5 +1,6 @@
 from python_graphql_client import GraphqlClient
 import json
+import asyncio
 
 client = GraphqlClient(endpoint="https://gitlab.com/api/graphql")
 oauth_token = "h8RDfEWYbA9DRywds6Jj"
@@ -66,14 +67,16 @@ def fecth_mergerequest(oauth_token):
     count = 0
 
     while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        data = asyncio.run(
+            client.execute_async(
+                query=make_query(after_cursor),
+                headers={"Authorization": "Bearer {}".format(oauth_token)},
+            )
         )
 
         for merge_request in data["data"]["project"]["mergeRequests"]["edges"]:
             print(json.dumps(merge_request, indent=4))
-            count = count + 1
+            count += 1
 
         has_next_page = data["data"]["project"]["mergeRequests"]["pageInfo"][
             "hasNextPage"

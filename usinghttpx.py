@@ -70,27 +70,27 @@ async def fecth_mergerequest(oauth_token):
     async with httpx.AsyncClient() as client:
 
         while has_next_page:
-            data = await client.get(
+            data = await client.post(
                 endpoint,
-                params=make_query(after_cursor),
+                json=make_query(after_cursor),
                 headers={"Authorization": "Bearer {}".format(oauth_token)},
             )
 
-            print(data)
+            print(data.json())
 
-            for merge_request in data["data"]["project"]["mergeRequests"]["edges"]:
-                print(json.dumps(merge_request, indent=4))
-                count += 1
+    #         for merge_request in data["data"]["project"]["mergeRequests"]["edges"]:
+    #             print(json.dumps(merge_request, indent=4))
+    #             count += 1
 
-            has_next_page = data["data"]["project"]["mergeRequests"]["pageInfo"][
-                "hasNextPage"
-            ]
-            after_cursor = data["data"]["project"]["mergeRequests"]["pageInfo"][
-                "endCursor"
-            ]
+    #         has_next_page = data["data"]["project"]["mergeRequests"]["pageInfo"][
+    #             "hasNextPage"
+    #         ]
+    #         after_cursor = data["data"]["project"]["mergeRequests"]["pageInfo"][
+    #             "endCursor"
+    #         ]
 
-    print("all of them printed")
-    print("total count->", count)
+    # print("all of them printed")
+    # print("total count->", count)
 
 
 asyncio.run(fecth_mergerequest(oauth_token))
