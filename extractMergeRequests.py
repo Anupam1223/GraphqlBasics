@@ -27,6 +27,7 @@ def make_query(after_cursor=None):
           description
           webUrl
           state
+          userDiscussionsCount
           approvedBy {
             pageInfo {
               hasNextPage
@@ -80,8 +81,9 @@ async def fecth_mergerequest(oauth_token):
     after_cursor = None
     header = [
         "Title",
-        "CommitCount",
+        "Commit Count",
         "State",
+        "User Comments",
         "Reviews",
     ]
     row = []
@@ -107,6 +109,7 @@ async def fecth_mergerequest(oauth_token):
                         merge_request["node"]["title"],
                         merge_request["node"]["commitCount"],
                         merge_request["node"]["state"],
+                        merge_request["node"]["userDiscussionsCount"],
                         reviews,
                     ]
                 )
