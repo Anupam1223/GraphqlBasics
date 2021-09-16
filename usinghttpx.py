@@ -27,6 +27,7 @@ def make_query(after_cursor=None):
           description
           webUrl
           approved
+          state
           approvedBy {
             pageInfo {
               hasNextPage
@@ -79,7 +80,13 @@ async def fecth_mergerequest(oauth_token):
     has_next_page = True
     after_cursor = None
     count = 0
-    header = ["Approved", "Title", "CommitCount", "Reviews"]
+    header = [
+        "Approved",
+        "Title",
+        "CommitCount",
+        "State",
+        "Reviews",
+    ]
     row = []
     reviews = []
 
@@ -104,6 +111,7 @@ async def fecth_mergerequest(oauth_token):
                         merge_request["node"]["approved"],
                         merge_request["node"]["title"],
                         merge_request["node"]["commitCount"],
+                        merge_request["node"]["state"],
                         reviews,
                     ]
                 )
@@ -119,7 +127,7 @@ async def fecth_mergerequest(oauth_token):
     print("all of them printed")
     print("total count->", count)
 
-    with open("countries.csv", "w", encoding="UTF8", newline="") as csv_file:
+    with open("MergeRequest.csv", "w", encoding="UTF8", newline="") as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(header)
         writer.writerows(row)
