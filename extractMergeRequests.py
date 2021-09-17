@@ -22,6 +22,12 @@ def make_query(after_cursor=None):
         cursor
         node {
           id
+          author{
+            name
+          }
+          targetProject{
+            name
+          }
           title
           commitCount
           description
@@ -80,6 +86,8 @@ async def fecth_mergerequest(oauth_token):
     has_next_page = True
     after_cursor = None
     header = [
+        "Author",
+        "Target Project",
         "Title",
         "Commit Count",
         "State",
@@ -102,15 +110,17 @@ async def fecth_mergerequest(oauth_token):
 
             for merge_request in json_data["data"]["project"]["mergeRequests"]["edges"]:
                 for reviewrs in merge_request["node"]["reviewers"]["edges"]:
-                    reviews = reviewrs["node"]["name"]
+                    reviews.append(reviewrs["node"]["name"])
 
                 row.append(
                     [
+                        merge_request["node"]["author"]["name"],
+                        merge_request["node"]["targetProject"]["name"],
                         merge_request["node"]["title"],
                         merge_request["node"]["commitCount"],
                         merge_request["node"]["state"],
                         merge_request["node"]["userDiscussionsCount"],
-                        reviews,
+                        len(reviews),
                     ]
                 )
                 reviews = []
