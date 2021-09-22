@@ -32,6 +32,7 @@ def make_query(after_cursor=None):
           commitCount
           description
           mergedAt
+          createdAt
           webUrl
           state
           userDiscussionsCount
@@ -93,7 +94,8 @@ async def fecth_mergerequest(oauth_token):
         "Commit Count",
         "State",
         "User Comments",
-        "DateTime",
+        "Merged Time",
+        "Requested Time",
         "Reviews",
     ]
     row = []
@@ -123,6 +125,7 @@ async def fecth_mergerequest(oauth_token):
                         merge_request["node"]["state"],
                         merge_request["node"]["userDiscussionsCount"],
                         merge_request["node"]["mergedAt"],
+                        merge_request["node"]["createdAt"],
                         len(reviews),
                     ]
                 )
