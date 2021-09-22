@@ -1,0 +1,1151 @@
+,Author,Target Project,Title,Commit Count,State,User Comments,DateTime,Reviews,Merge Request,Date,Time
+0,Ritesh  Sainju,krispcall-client,updated translation for search location,1,opened,0,,1,1,,
+1,Ritesh  Sainju,krispcall-client,Task/update language translation json,6,merged,1,2021-09-22T03:29:49Z,0,1,2021-09-22,03:29:49
+2,Sundar Shahi,krispcall-client,fix: fixed broken ulr of country flag,1,merged,0,2021-09-22T03:06:13Z,0,1,2021-09-22,03:06:13
+3,Ritesh  Sainju,krispcall-client,Develop,13,merged,0,2021-09-22T01:27:25Z,0,1,2021-09-22,01:27:25
+4,Tashi Lama,krispcall-client,"Resolve KS-2958 ""Task/cancel subs ui/""",2,merged,0,2021-09-22T01:59:01Z,0,1,2021-09-22,01:59:01
+5,Abin Khatiwada,krispcall-client,Upload issue on image upload resolved,1,merged,0,2021-09-21T09:56:07Z,1,1,2021-09-21,09:56:07
+6,Ritesh  Sainju,krispcall-client,revert email validation limit,1,merged,0,2021-09-21T06:42:27Z,1,1,2021-09-21,06:42:27
+7,Sundar Shahi,krispcall-client,refactor: added ability to upgrade to  current plan in trial,1,merged,0,2021-09-21T05:03:15Z,0,1,2021-09-21,05:03:15
+8,Abin Khatiwada,krispcall-client,Transcription API integrated,1,merged,0,2021-09-21T03:20:10Z,1,1,2021-09-21,03:20:10
+9,Tashi Lama,krispcall-client,Task/add trial mark/ks code,6,merged,0,2021-09-20T10:31:57Z,1,1,2021-09-20,10:31:57
+10,Ritesh  Sainju,krispcall-client,draft: Feature/decrypt voicetoken,4,opened,0,,0,1,,
+11,Ritesh  Sainju,krispcall-client,Develop,19,merged,0,2021-09-20T07:32:33Z,0,1,2021-09-20,07:32:33
+12,Abin Khatiwada,krispcall-client,Restriction on voice mail transcription added,1,merged,0,2021-09-20T05:25:56Z,1,1,2021-09-20,05:25:56
+13,Ritesh  Sainju,krispcall-client,updated char limit for email,1,merged,0,2021-09-20T04:28:09Z,0,1,2021-09-20,04:28:09
+14,Ritesh  Sainju,krispcall-client,Feature/caller id support new design,12,merged,0,2021-09-20T04:46:51Z,1,1,2021-09-20,04:46:51
+15,Sundar Shahi,krispcall-client,refactor: added skeleton for profile details,1,merged,0,2021-09-20T04:35:54Z,0,1,2021-09-20,04:35:54
+16,Ritesh  Sainju,krispcall-client,Task/callerid settings separate api,12,merged,0,2021-09-20T02:46:21Z,0,1,2021-09-20,02:46:21
+17,Sundar Shahi,krispcall-client,added loading in contact add,1,merged,0,2021-09-17T07:29:37Z,0,1,2021-09-17,07:29:37
+18,Ritesh  Sainju,krispcall-client,Develop,16,merged,0,2021-09-17T05:15:00Z,0,1,2021-09-17,05:15:00
+19,Abin Khatiwada,krispcall-client,Refactor/fixes,3,merged,0,2021-09-17T05:12:04Z,1,1,2021-09-17,05:12:04
+20,Tashi Lama,krispcall-client,"Draft: Resolve KS-1957 ""Task/create email templates/""",17,opened,0,,0,1,,
+21,Tashi Lama,krispcall-client,Task/refactor action buttons/ks code,6,merged,0,2021-09-17T01:59:07Z,1,1,2021-09-17,01:59:07
+22,Ritesh  Sainju,krispcall-client,Develop,46,merged,0,2021-09-17T01:21:20Z,0,1,2021-09-17,01:21:20
+23,Abin Khatiwada,krispcall-client,Refactor/fixes,4,merged,0,2021-09-16T09:53:57Z,1,1,2021-09-16,09:53:57
+24,Pravesh Chapagain,krispcall-client,Deploy UAT: Sep 16,162,merged,0,2021-09-16T09:04:53Z,0,1,2021-09-16,09:04:53
+25,Sundar Shahi,krispcall-client,fixes for trial subs,1,merged,0,2021-09-16T07:13:48Z,0,1,2021-09-16,07:13:48
+26,Ritesh  Sainju,krispcall-client,Fix/workspace ordering,4,merged,0,2021-09-17T01:53:08Z,1,1,2021-09-17,01:53:08
+27,Sundar Shahi,krispcall-client,refactor: added card details optimistic response after card added,1,merged,0,2021-09-16T04:11:53Z,0,1,2021-09-16,04:11:53
+28,Sundar Shahi,krispcall-client,feat: implemented renew subs and force redirected on billing if cancelled,5,merged,0,2021-09-16T04:11:07Z,0,1,2021-09-16,04:11:07
+29,Ritesh  Sainju,krispcall-client,Hotfix/sept 15,5,merged,0,2021-09-15T08:56:37Z,0,1,2021-09-15,08:56:37
+30,Abin Khatiwada,krispcall-client,Refactor/online offline v3,3,merged,3,2021-09-15T09:41:20Z,1,1,2021-09-15,09:41:20
+31,Tashi Lama,krispcall-client,"Resolve KS-2852 ""Task/hide unimplemented features/""",3,merged,0,2021-09-15T07:24:22Z,0,1,2021-09-15,07:24:22
+32,Abin Khatiwada,krispcall-client,WebSocket connection issue on workspace switch fixed,1,merged,0,2021-09-15T01:42:33Z,1,1,2021-09-15,01:42:33
+33,Sundar Shahi,krispcall-client,refactor: added skeleton in number settings,1,merged,0,2021-09-14T10:23:53Z,0,1,2021-09-14,10:23:53
+34,Sundar Shahi,krispcall-client,Refactor/notification auto recharge,3,merged,1,2021-09-15T01:57:01Z,0,1,2021-09-15,01:57:01
+35,Sundar Shahi,krispcall-client,Refactor/billing and plan,2,merged,0,2021-09-15T01:59:17Z,0,1,2021-09-15,01:59:17
+36,Ritesh  Sainju,krispcall-client,Develop,26,merged,0,2021-09-14T04:50:16Z,0,1,2021-09-14,04:50:16
+37,Ritesh  Sainju,krispcall-client,update cache after mark as read in add contact,1,merged,0,2021-09-14T04:21:56Z,0,1,2021-09-14,04:21:56
+38,Tashi Lama,krispcall-client,Task/ui fixes 2/ks code,5,merged,0,2021-09-14T10:51:14Z,0,1,2021-09-14,10:51:14
+39,Abin Khatiwada,krispcall-client,Refactor/online offline v3,2,merged,0,2021-09-14T01:53:08Z,1,1,2021-09-14,01:53:08
+40,Sundar Shahi,krispcall-client,fix: show error toast oncompleted,1,merged,0,2021-09-13T08:41:23Z,0,1,2021-09-13,08:41:23
+41,Sundar Shahi,krispcall-client,Hotfix/support number purchase status,3,merged,0,2021-09-13T05:37:57Z,0,1,2021-09-13,05:37:57
+42,Ritesh  Sainju,krispcall-client,Task/refactor recent conversation,9,merged,0,2021-09-14T02:53:17Z,0,1,2021-09-14,02:53:17
+43,Tashi Lama,krispcall-client,ui switch for voicemail transcription,1,merged,0,2021-09-13T05:22:18Z,1,1,2021-09-13,05:22:18
+44,Tashi Lama,krispcall-client,Task/refactor data support,2,merged,0,2021-09-13T03:58:31Z,1,1,2021-09-13,03:58:31
+45,Ritesh  Sainju,krispcall-client,hotfix for qa,3,merged,0,2021-09-11T05:51:39Z,0,1,2021-09-11,05:51:39
+46,Ritesh  Sainju,krispcall-client,Fix/widget add contact,2,merged,0,2021-09-11T05:47:12Z,1,1,2021-09-11,05:47:12
+47,Ritesh  Sainju,krispcall-client,Develop,14,merged,0,2021-09-10T09:45:26Z,0,1,2021-09-10,09:45:26
+48,Tashi Lama,krispcall-client,"Resolve KS-2811 ""Task/no data support ui/""",4,merged,0,2021-09-10T09:34:47Z,0,1,2021-09-10,09:34:47
+49,Abin Khatiwada,krispcall-client,Access token added on sending ping,1,merged,0,2021-09-10T08:34:22Z,1,1,2021-09-10,08:34:22
+50,Ritesh  Sainju,krispcall-client,disable call button in topbar if call in progress,1,merged,0,2021-09-10T06:36:00Z,0,1,2021-09-10,06:36:00
+51,Ritesh  Sainju,krispcall-client,Fix/contact table tags search,2,merged,0,2021-09-10T04:39:28Z,0,1,2021-09-10,04:39:28
+52,Sundar Shahi,krispcall-client,fix double pagination IN SUPPORT,1,merged,0,2021-09-10T02:56:33Z,0,1,2021-09-10,02:56:33
+53,Ritesh  Sainju,krispcall-client,Develop,30,merged,0,2021-09-10T01:45:29Z,0,1,2021-09-10,01:45:29
+54,Sundar Shahi,krispcall-client,Refactor: Early returned without api call if detail unchanged in team detail update,1,merged,0,2021-09-09T10:04:51Z,0,1,2021-09-09,10:04:51
+55,Abin Khatiwada,krispcall-client,Refactor/online offline cache update,9,merged,0,2021-09-09T10:07:29Z,1,1,2021-09-09,10:07:29
+56,Ritesh  Sainju,krispcall-client,Draft: Hotfixes/sept 9,2,closed,0,,0,1,,
+57,Sundar Shahi,krispcall-client,fix: fixes sep 9 2021,2,merged,0,2021-09-09T09:03:48Z,0,1,2021-09-09,09:03:48
+58,Tashi Lama,krispcall-client,"Resolve KS-2733 ""Feature/responsive members list 768/""",8,merged,0,2021-09-09T08:45:52Z,1,1,2021-09-09,08:45:52
+59,Sundar Shahi,krispcall-client,Feature/remove pending number,3,merged,1,2021-09-09T08:02:42Z,0,1,2021-09-09,08:02:42
+60,Ritesh  Sainju,krispcall-client,generate graphql schemas,1,merged,0,2021-09-09T02:23:33Z,0,1,2021-09-09,02:23:33
+61,Ritesh  Sainju,krispcall-client,Develop,22,merged,0,2021-09-09T02:15:20Z,0,1,2021-09-09,02:15:20
+62,Abin Khatiwada,krispcall-client,Feature/permission update,4,merged,1,2021-09-09T02:00:16Z,1,1,2021-09-09,02:00:16
+63,Sundar Shahi,krispcall-client,refactor: added filter by ticket number in search,1,merged,0,2021-09-08T09:56:15Z,0,1,2021-09-08,09:56:15
+64,Ritesh  Sainju,krispcall-client,Fix/contact delete,3,merged,0,2021-09-08T09:02:52Z,0,1,2021-09-08,09:02:52
+65,Abin Khatiwada,krispcall-client,Draft: Refactor/online offline,1,closed,0,,1,1,,
+66,Sundar Shahi,krispcall-client,feat: add contact from widdget,1,merged,0,2021-09-08T09:00:51Z,0,1,2021-09-08,09:00:51
+67,Tashi Lama,krispcall-client,"Resolve KS-2771 ""Feature/members chat responsive ui/""",2,merged,0,2021-09-08T08:01:27Z,1,1,2021-09-08,08:01:27
+68,Ritesh  Sainju,krispcall-client,Develop,6,merged,0,2021-09-08T07:26:02Z,0,1,2021-09-08,07:26:02
+69,Ritesh  Sainju,krispcall-client,show team pic in sidebar,1,merged,0,2021-09-08T05:31:58Z,1,1,2021-09-08,05:31:58
+70,Tashi Lama,krispcall-client,"Resolve KS-2780 ""Task/top notification bar ui/""",5,merged,0,2021-09-08T08:00:14Z,1,1,2021-09-08,08:00:14
+71,Ritesh  Sainju,krispcall-client,Fix/auto reply custom text,3,merged,0,2021-09-08T05:31:40Z,1,1,2021-09-08,05:31:40
+72,Ritesh  Sainju,krispcall-client,Develop,34,merged,0,2021-09-07T09:31:13Z,0,1,2021-09-07,09:31:13
+73,Ritesh  Sainju,krispcall-client,notes validation fix,1,merged,0,2021-09-07T09:05:17Z,0,1,2021-09-07,09:05:17
+74,Ritesh  Sainju,krispcall-client,Fix/validation errors,4,merged,0,2021-09-07T08:54:46Z,0,1,2021-09-07,08:54:46
+75,Sundar Shahi,krispcall-client,Fixes/7 sep 2021,2,merged,0,2021-09-07T08:51:34Z,0,1,2021-09-07,08:51:34
+76,Abin Khatiwada,krispcall-client,Refactor/online offline,2,merged,0,2021-09-07T08:52:42Z,1,1,2021-09-07,08:52:42
+77,Sundar Shahi,krispcall-client,Support/callerid,3,merged,0,2021-09-07T09:01:17Z,0,1,2021-09-07,09:01:17
+78,Sundar Shahi,krispcall-client,Refactor/number purchase,2,merged,0,2021-09-07T04:00:11Z,0,1,2021-09-07,04:00:11
+79,Ritesh  Sainju,krispcall-client,Fix/edit number name unique check,2,merged,0,2021-09-07T03:28:17Z,0,1,2021-09-07,03:28:17
+80,Ritesh  Sainju,krispcall-client,Fixes/validation issues,4,merged,0,2021-09-06T10:27:50Z,1,1,2021-09-06,10:27:50
+81,Abin Khatiwada,krispcall-client,Hotfix/edit profile by member,2,merged,0,2021-09-06T09:45:34Z,1,1,2021-09-06,09:45:34
+82,Ritesh  Sainju,krispcall-client,Fix/disconnect incomingcall on device destroy,2,merged,0,2021-09-06T08:43:20Z,1,1,2021-09-06,08:43:20
+83,Ritesh  Sainju,krispcall-client,Develop,19,merged,0,2021-09-06T05:52:05Z,0,1,2021-09-06,05:52:05
+84,Pravesh Chapagain,krispcall-client,Uat deployment Sept 6,160,merged,0,2021-09-06T05:41:08Z,0,1,2021-09-06,05:41:08
+85,Sundar Shahi,krispcall-client,fixes sep 6 2021,1,merged,0,2021-09-06T05:50:57Z,0,1,2021-09-06,05:50:57
+86,Ritesh  Sainju,krispcall-client,"Resolve KS-2347 ""Feature/caller id settings/""",4,merged,0,2021-09-03T16:08:55Z,1,1,2021-09-03,16:08:55
+87,Sundar Shahi,krispcall-client,moved setup route,2,merged,0,2021-09-03T16:06:08Z,0,1,2021-09-03,16:06:08
+88,Tashi Lama,krispcall-client,ui fixes,1,merged,0,2021-09-03T07:47:13Z,0,1,2021-09-03,07:47:13
+89,Abin Khatiwada,krispcall-client,API call prevented if data is available locally,1,merged,0,2021-09-03T07:21:20Z,1,1,2021-09-03,07:21:20
+90,Sundar Shahi,krispcall-client,fix error message,1,merged,0,2021-09-03T06:50:58Z,0,1,2021-09-03,06:50:58
+91,Abin Khatiwada,krispcall-client,Bugfix/custom recordings,2,merged,0,2021-09-03T03:04:46Z,1,1,2021-09-03,03:04:46
+92,Pravesh Chapagain,krispcall-client,QA deployment Sep 3,13,merged,0,2021-09-03T01:46:42Z,0,1,2021-09-03,01:46:42
+93,Tashi Lama,krispcall-client,Task/responsive screens/ks code,7,merged,0,2021-09-02T10:26:33Z,1,1,2021-09-02,10:26:33
+94,Sundar Shahi,krispcall-client,back to setting on not found,1,merged,0,2021-09-02T10:17:47Z,0,1,2021-09-02,10:17:47
+95,Abin Khatiwada,krispcall-client,Bugfix/pinned message search,2,merged,0,2021-09-02T10:27:03Z,1,1,2021-09-02,10:27:03
+96,Ritesh  Sainju,krispcall-client,Develop,22,merged,0,2021-09-02T04:20:47Z,0,1,2021-09-02,04:20:47
+97,Ritesh  Sainju,krispcall-client,"Resolve KS-2689 ""Bugfix/inviteemailcheck/""",2,merged,0,2021-09-02T04:14:37Z,0,1,2021-09-02,04:14:37
+98,Sundar Shahi,krispcall-client,fix error message in purchase credit and userInvite accept,1,merged,0,2021-09-02T03:57:56Z,0,1,2021-09-02,03:57:56
+99,Sundar Shahi,krispcall-client,support caller id UI,2,merged,0,2021-09-02T04:13:06Z,0,1,2021-09-02,04:13:06
+100,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",2,merged,0,2021-09-02T01:35:09Z,1,1,2021-09-02,01:35:09
+101,Sundar Shahi,krispcall-client,Refactor/routes,2,merged,0,2021-09-01T09:23:01Z,0,1,2021-09-01,09:23:01
+102,Tashi Lama,krispcall-client,add confirmation modal in caller id settings,1,merged,0,2021-09-01T09:14:13Z,1,1,2021-09-01,09:14:13
+103,Ritesh  Sainju,krispcall-client,Develop,5,merged,0,2021-09-01T06:59:02Z,0,1,2021-09-01,06:59:02
+104,Ritesh  Sainju,krispcall-client,Bugfix/contact detail,2,merged,0,2021-09-01T06:55:57Z,0,1,2021-09-01,06:55:57
+105,Sundar Shahi,krispcall-client,upgrade tooltip,1,merged,0,2021-09-01T06:54:37Z,0,1,2021-09-01,06:54:37
+106,Ritesh  Sainju,krispcall-client,Develop,16,merged,0,2021-09-01T04:23:09Z,0,1,2021-09-01,04:23:09
+107,Sundar Shahi,krispcall-client,Fix/sep 1 2021,2,merged,0,2021-09-01T04:21:54Z,0,1,2021-09-01,04:21:54
+108,Ritesh  Sainju,krispcall-client,Bugfix/contact detail edit issues,2,merged,0,2021-09-01T03:11:29Z,0,1,2021-09-01,03:11:29
+109,Sundar Shahi,krispcall-client,refactor: rounded total in agents and numbers price,1,merged,0,2021-09-01T03:04:04Z,0,1,2021-09-01,03:04:04
+110,Tashi Lama,krispcall-client,Task/responsive popups/ks code,2,merged,0,2021-09-01T03:02:08Z,1,1,2021-09-01,03:02:08
+111,Sundar Shahi,krispcall-client,Task/random avatar based on hash,2,merged,0,2021-09-01T01:53:01Z,0,1,2021-09-01,01:53:01
+112,Sundar Shahi,krispcall-client,fix contact edit,1,closed,0,,0,1,,
+113,Abin Khatiwada,krispcall-client,LogScroller Implemented,5,merged,0,2021-09-01T10:00:51Z,0,1,2021-09-01,10:00:51
+114,Sundar Shahi,krispcall-client,clear dnd value on cancle,1,merged,0,2021-08-31T09:01:31Z,0,1,2021-08-31,09:01:31
+115,Pravesh Chapagain,krispcall-client,QA latest frontend deployment Aug 31,6,merged,0,2021-08-31T08:39:40Z,0,1,2021-08-31,08:39:40
+116,Sundar Shahi,krispcall-client,refactor: added plan remaining days in restore workspace,1,merged,0,2021-08-31T08:16:14Z,0,1,2021-08-31,08:16:14
+117,Ritesh  Sainju,krispcall-client,Develop,4,merged,0,2021-08-31T05:57:15Z,0,1,2021-08-31,05:57:15
+118,Sundar Shahi,krispcall-client,fix validation on card number,1,merged,0,2021-08-31T05:52:02Z,0,1,2021-08-31,05:52:02
+119,Sundar Shahi,krispcall-client,switch workspace while in call progres,1,merged,0,2021-08-31T05:55:31Z,0,1,2021-08-31,05:55:31
+120,Ritesh  Sainju,krispcall-client,Develop,57,merged,0,2021-08-31T03:50:07Z,0,1,2021-08-31,03:50:07
+121,Ritesh  Sainju,krispcall-client,"Resolve KS-2590 ""Task/field validatin/""",4,merged,0,2021-08-31T03:32:54Z,1,1,2021-08-31,03:32:54
+122,Abin Khatiwada,krispcall-client,Bug fix on custom audio player,1,merged,0,2021-08-31T03:06:47Z,1,1,2021-08-31,03:06:47
+123,Tashi Lama,krispcall-client,Hotfix/update,2,merged,0,2021-08-30T09:57:07Z,1,1,2021-08-30,09:57:07
+124,Ritesh  Sainju,krispcall-client,"Resolve KS-2590 ""Task/field validatin/""",2,merged,0,2021-08-30T09:40:51Z,0,1,2021-08-30,09:40:51
+125,Abin Khatiwada,krispcall-client,Feature/member to member chat,3,merged,1,2021-08-30T09:49:51Z,1,1,2021-08-30,09:49:51
+126,Tashi Lama,krispcall-client,"Resolve KS-2621 ""Task/caller id ui/""",3,merged,1,2021-08-30T09:44:18Z,1,1,2021-08-30,09:44:18
+127,Ritesh  Sainju,krispcall-client,"Resolve KS-2590 ""Task/field validatin/""",5,merged,0,2021-08-30T09:27:44Z,0,1,2021-08-30,09:27:44
+128,Sundar Shahi,krispcall-client,fix: unable to change workspace name,1,merged,0,2021-08-30T06:57:13Z,0,1,2021-08-30,06:57:13
+129,Sundar Shahi,krispcall-client,prevent api call if value unchanged in contact edit,1,merged,0,2021-08-30T04:23:12Z,0,1,2021-08-30,04:23:12
+130,Sundar Shahi,krispcall-client,date filter fixes,1,merged,0,2021-08-30T03:30:50Z,0,1,2021-08-30,03:30:50
+131,Sundar Shahi,krispcall-client,tags filter check fixes and workspace restore fixes,1,merged,0,2021-08-30T03:19:02Z,0,1,2021-08-30,03:19:02
+132,Tashi Lama,krispcall-client,Feature/settings responsive/ks code,2,merged,0,2021-08-30T05:59:49Z,1,1,2021-08-30,05:59:49
+133,Pravesh Chapagain,krispcall-client,Mvp deployment Aug 27,458,merged,0,2021-08-27T11:04:20Z,0,1,2021-08-27,11:04:20
+134,Abin Khatiwada,krispcall-client,Search refactored,1,merged,0,2021-08-30T03:19:45Z,1,1,2021-08-30,03:19:45
+135,Ritesh  Sainju,krispcall-client,Form Validations,16,merged,1,2021-08-30T07:00:57Z,0,1,2021-08-30,07:00:57
+136,Ritesh  Sainju,krispcall-client,Develop,29,merged,0,2021-08-27T04:32:13Z,0,1,2021-08-27,04:32:13
+137,Tashi Lama,krispcall-client,Hotfix/padding in settings,1,merged,0,2021-08-27T04:22:47Z,1,1,2021-08-27,04:22:47
+138,Abin Khatiwada,krispcall-client,ping triggered on user login,1,merged,0,2021-08-27T04:18:23Z,1,1,2021-08-27,04:18:23
+139,Ritesh  Sainju,krispcall-client,changed fetch policy,1,merged,0,2021-08-27T03:45:52Z,0,1,2021-08-27,03:45:52
+140,Sundar Shahi,krispcall-client,Fixes/27 aug 2021,3,merged,0,2021-08-27T03:23:12Z,0,1,2021-08-27,03:23:12
+141,Tashi Lama,krispcall-client,Feature/responsive/ks code,10,merged,1,2021-08-27T01:57:39Z,1,1,2021-08-27,01:57:39
+142,Abin Khatiwada,krispcall-client,Feature/member to member chat,3,merged,0,2021-08-27T01:32:08Z,1,1,2021-08-27,01:32:08
+143,Sundar Shahi,krispcall-client,Feature/support enterprise plan,3,merged,0,2021-08-27T01:28:50Z,0,1,2021-08-27,01:28:50
+144,Pravesh Chapagain,krispcall-client,uat deployment,63,merged,0,2021-08-26T04:09:24Z,0,1,2021-08-26,04:09:24
+145,Pravesh Chapagain,krispcall-client,QA deployment 26th Aug 9:11,21,merged,0,2021-08-26T03:27:23Z,0,1,2021-08-26,03:27:23
+146,Sundar Shahi,krispcall-client,Feature/support number port,2,merged,1,2021-08-25T08:47:00Z,1,1,2021-08-25,08:47:00
+147,Ritesh  Sainju,krispcall-client,Develop,40,merged,0,2021-08-25T02:11:38Z,0,1,2021-08-25,02:11:38
+148,Sundar Shahi,krispcall-client,fix: cursor moved to end while updateing number due to auto format,1,merged,0,2021-08-24T09:19:48Z,0,1,2021-08-24,09:19:48
+149,Ritesh  Sainju,krispcall-client,Hotfixes/allworkspacemembers cache update,3,merged,0,2021-08-24T08:35:11Z,1,1,2021-08-24,08:35:11
+150,Sundar Shahi,krispcall-client,tos and policy link,1,merged,0,2021-08-24T05:08:07Z,0,1,2021-08-24,05:08:07
+151,Sundar Shahi,krispcall-client,added tooltip in information icon,1,merged,0,2021-08-24T04:48:26Z,0,1,2021-08-24,04:48:26
+152,Pravesh Chapagain,krispcall-client,UAT deployment AUG 23,83,merged,0,2021-08-23T09:20:04Z,0,1,2021-08-23,09:20:04
+153,Ritesh  Sainju,krispcall-client,Hotfixes/aug 23,3,merged,0,2021-08-23T08:42:31Z,0,1,2021-08-23,08:42:31
+154,Tashi Lama,krispcall-client,Feature/support dashboard,11,merged,0,2021-08-24T06:25:18Z,0,1,2021-08-24,06:25:18
+155,Abin Khatiwada,krispcall-client,Feature/member to member chat,6,merged,0,2021-08-25T10:37:43Z,1,1,2021-08-25,10:37:43
+156,Ritesh  Sainju,krispcall-client,restrict call transfer to agents who are on call,3,merged,0,2021-08-31T08:28:20Z,0,1,2021-08-31,08:28:20
+157,Ritesh  Sainju,krispcall-client,Hotfix/channels cache update issues,3,merged,0,2021-08-21T04:48:34Z,0,1,2021-08-21,04:48:34
+158,Abin Khatiwada,krispcall-client,Prompt to go online added,10,merged,3,2021-08-25T08:48:08Z,1,1,2021-08-25,08:48:08
+159,Abin Khatiwada,krispcall-client,Draft: Feature/promp to go online,0,closed,0,,0,1,,
+160,Sundar Shahi,krispcall-client,fixes undefined and null,1,merged,0,2021-08-20T06:28:59Z,0,1,2021-08-20,06:28:59
+161,Ritesh  Sainju,krispcall-client,Develop,14,merged,0,2021-08-20T05:19:34Z,0,1,2021-08-20,05:19:34
+162,Abin Khatiwada,krispcall-client,Bottom scroll on message typing issue fixed,1,merged,0,2021-08-20T04:09:19Z,1,1,2021-08-20,04:09:19
+163,Ritesh  Sainju,krispcall-client,"Resolve KS-2581 ""Bugfix/add contact fixes/""",2,merged,0,2021-08-20T03:53:54Z,0,1,2021-08-20,03:53:54
+164,Sundar Shahi,krispcall-client,Hotfixes/20 aug 2021,3,merged,0,2021-08-20T03:35:05Z,0,1,2021-08-20,03:35:05
+165,Ritesh  Sainju,krispcall-client,Develop,10,merged,0,2021-08-19T09:28:17Z,0,1,2021-08-19,09:28:17
+166,Sundar Shahi,krispcall-client,support,7,merged,0,2021-08-23T07:02:50Z,0,1,2021-08-23,07:02:50
+167,Abin Khatiwada,krispcall-client,Feature/greetings,2,merged,0,2021-08-19T08:36:53Z,1,1,2021-08-19,08:36:53
+168,Abin Khatiwada,krispcall-client,Feature/greetings,2,closed,0,,1,1,,
+169,Tashi Lama,krispcall-client,Task/update pin ui dropdown,4,merged,1,2021-08-20T04:38:07Z,1,1,2021-08-20,04:38:07
+170,Ritesh  Sainju,krispcall-client,"Resolve KS-2428 ""Feature/mark as read api integration/""",3,merged,0,2021-08-19T07:50:10Z,0,1,2021-08-19,07:50:10
+171,Sundar Shahi,krispcall-client,Fix/duplicate workspaces profile query,2,merged,0,2021-08-19T05:40:27Z,0,1,2021-08-19,05:40:27
+172,Ritesh  Sainju,krispcall-client,Develop,3,merged,0,2021-08-19T01:55:46Z,0,1,2021-08-19,01:55:46
+173,Tashi Lama,krispcall-client,Hotfix/number settings path,2,merged,0,2021-08-19T01:52:02Z,1,1,2021-08-19,01:52:02
+174,Ritesh  Sainju,krispcall-client,Develop,52,merged,0,2021-08-18T09:19:43Z,0,1,2021-08-18,09:19:43
+175,Ritesh  Sainju,krispcall-client,hide clear all btn in respective filters if filter is not selected,1,merged,0,2021-08-18T09:10:58Z,0,1,2021-08-18,09:10:58
+176,Tashi Lama,krispcall-client,"Resolve KS-2427 ""Task/ui mark done/""",2,merged,0,2021-08-18T09:09:33Z,1,1,2021-08-18,09:09:33
+177,Sundar Shahi,krispcall-client,fix one device login,1,merged,0,2021-08-18T08:03:02Z,1,1,2021-08-18,08:03:02
+178,Ritesh  Sainju,krispcall-client,Feature/unarchive conversation,7,merged,0,2021-08-18T08:00:17Z,1,1,2021-08-18,08:00:17
+179,Tashi Lama,krispcall-client,"Resolve KS-2486 ""Feature/responsive individual number/""",3,merged,0,2021-08-18T07:27:13Z,1,1,2021-08-18,07:27:13
+180,Sundar Shahi,krispcall-client,auth context and plan details in workspace,1,merged,0,2021-08-18T07:11:20Z,0,1,2021-08-18,07:11:20
+181,Sundar Shahi,krispcall-client,updated version 0.13.0,1,merged,0,2021-08-17T10:34:30Z,0,1,2021-08-17,10:34:30
+182,Abin Khatiwada,krispcall-client,Feature/greetings,3,merged,0,2021-08-17T10:03:05Z,1,1,2021-08-17,10:03:05
+183,Sundar Shahi,krispcall-client,Refactor/contact context,3,merged,0,2021-08-17T10:22:03Z,0,1,2021-08-17,10:22:03
+184,Pravesh Chapagain,krispcall-client,Uat deployment 17 aug 3:11,309,merged,0,2021-08-17T09:27:18Z,0,1,2021-08-17,09:27:18
+185,Ritesh  Sainju,krispcall-client,Refactor/code cleanup gql,5,merged,0,2021-08-17T09:40:37Z,0,1,2021-08-17,09:40:37
+186,Ritesh  Sainju,krispcall-client,Refactor/code cleanup gql,2,merged,0,2021-08-17T07:44:53Z,1,1,2021-08-17,07:44:53
+187,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",3,merged,0,2021-08-17T07:20:14Z,0,1,2021-08-17,07:20:14
+188,Sundar Shahi,krispcall-client,fix un necessary query call,1,merged,0,2021-08-17T05:57:49Z,0,1,2021-08-17,05:57:49
+189,Ritesh  Sainju,krispcall-client,Refactor/navhelper context,2,merged,0,2021-08-17T04:44:48Z,0,1,2021-08-17,04:44:48
+190,Sundar Shahi,krispcall-client,Refactor/aug 17 2021,2,merged,0,2021-08-17T03:44:30Z,0,1,2021-08-17,03:44:30
+191,Ritesh  Sainju,krispcall-client,Develop,17,merged,0,2021-08-17T02:10:50Z,0,1,2021-08-17,02:10:50
+192,Sundar Shahi,krispcall-client,number setting context,1,merged,0,2021-08-17T01:33:50Z,0,1,2021-08-17,01:33:50
+193,Ritesh  Sainju,krispcall-client,clean up code,1,merged,0,2021-08-16T10:18:30Z,1,1,2021-08-16,10:18:30
+194,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",6,merged,0,2021-08-17T01:28:13Z,1,1,2021-08-17,01:28:13
+195,Ritesh  Sainju,krispcall-client,hide incomplete features related to audio device settings,1,merged,0,2021-08-16T09:16:19Z,0,1,2021-08-16,09:16:19
+196,Sundar Shahi,krispcall-client,Task/number search trial,3,merged,0,2021-08-16T09:12:58Z,1,1,2021-08-16,09:12:58
+197,Ritesh  Sainju,krispcall-client,Develop,37,merged,0,2021-08-16T08:52:46Z,0,1,2021-08-16,08:52:46
+198,Ritesh  Sainju,krispcall-client,Hotfix/change twilio ttl,4,merged,0,2021-08-16T07:48:44Z,0,1,2021-08-16,07:48:44
+199,Tashi Lama,krispcall-client,"Resolve KS-2485 ""Feature/responsive number purchase/""",4,merged,0,2021-08-16T07:50:31Z,1,1,2021-08-16,07:50:31
+200,Sundar Shahi,krispcall-client,Refactor/16 aug 2021,6,merged,0,2021-08-16T05:22:59Z,0,1,2021-08-16,05:22:59
+201,Abin Khatiwada,krispcall-client,Team members online/offline status updated real time,1,merged,0,2021-08-16T02:29:20Z,1,1,2021-08-16,02:29:20
+202,Ritesh  Sainju,krispcall-client,Develop,37,closed,0,,0,1,,
+203,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",3,merged,0,2021-08-13T06:20:49Z,1,1,2021-08-13,06:20:49
+204,Tashi Lama,krispcall-client,"Resolve KS-2484 ""Feature/responsive number list/""",3,merged,0,2021-08-13T04:12:20Z,1,1,2021-08-13,04:12:20
+205,Sundar Shahi,krispcall-client,fix: omited typename from ivrOptions in save,1,merged,0,2021-08-13T03:11:47Z,1,1,2021-08-13,03:11:47
+206,Sundar Shahi,krispcall-client,port number,2,merged,0,2021-08-13T05:42:23Z,1,1,2021-08-13,05:42:23
+207,Sundar Shahi,krispcall-client,Feature/forward call,2,merged,0,2021-08-13T01:37:46Z,0,1,2021-08-13,01:37:46
+208,Abin Khatiwada,krispcall-client,bottom loading removed,1,merged,0,2021-08-13T02:21:36Z,1,1,2021-08-13,02:21:36
+209,Ritesh  Sainju,krispcall-client,Develop,44,merged,0,2021-08-12T09:55:10Z,0,1,2021-08-12,09:55:10
+210,Sundar Shahi,krispcall-client,active receipt tab from email redirect link,1,merged,0,2021-08-12T08:17:10Z,1,1,2021-08-12,08:17:10
+211,Ritesh  Sainju,krispcall-client,reset members list in numbers sharing select field,1,merged,0,2021-08-12T07:47:35Z,1,1,2021-08-12,07:47:35
+212,Abin Khatiwada,krispcall-client,Api change/auto reply,2,merged,0,2021-08-12T07:39:48Z,1,1,2021-08-12,07:39:48
+213,Sundar Shahi,krispcall-client,chore: intercome identity for logged in user,2,merged,1,2021-08-12T09:41:48Z,0,1,2021-08-12,09:41:48
+214,Sundar Shahi,krispcall-client,"refactor: code optimization,  cleanup and console error fixes",3,merged,2,2021-08-12T06:05:46Z,1,1,2021-08-12,06:05:46
+215,Ritesh  Sainju,krispcall-client,Fixes/cache update issues,4,merged,0,2021-08-12T04:58:29Z,1,1,2021-08-12,04:58:29
+216,Tashi Lama,krispcall-client,"Resolve KS-2483 ""Task/responsive profile settings/""",2,merged,0,2021-08-12T03:41:04Z,1,1,2021-08-12,03:41:04
+217,Sundar Shahi,krispcall-client,device setting,3,merged,0,2021-08-12T06:03:57Z,0,1,2021-08-12,06:03:57
+218,Abin Khatiwada,krispcall-client,Api change/auto reply,2,merged,0,2021-08-11T10:12:26Z,1,1,2021-08-11,10:12:26
+219,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",5,merged,0,2021-08-11T08:53:07Z,1,1,2021-08-11,08:53:07
+220,Sundar Shahi,krispcall-client,Fixes/11 aug 2021,4,merged,0,2021-08-11T08:51:40Z,1,1,2021-08-11,08:51:40
+221,Tashi Lama,krispcall-client,fix div descendant of p issue,1,merged,0,2021-08-11T08:40:59Z,1,1,2021-08-11,08:40:59
+222,Tashi Lama,krispcall-client,rename animation,1,merged,0,2021-08-11T08:24:50Z,1,1,2021-08-11,08:24:50
+223,Ritesh  Sainju,krispcall-client,Develop,6,merged,0,2021-08-11T07:10:28Z,0,1,2021-08-11,07:10:28
+224,Ritesh  Sainju,krispcall-client,Hotfix/aug 11,2,merged,0,2021-08-11T07:09:37Z,0,1,2021-08-11,07:09:37
+225,Tashi Lama,krispcall-client,"Resolve KS-2459 ""Task/ui functionality ctcwidget/""",2,merged,0,2021-08-11T06:48:05Z,1,1,2021-08-11,06:48:05
+226,Ritesh  Sainju,krispcall-client,Develop,42,merged,0,2021-08-11T06:07:51Z,0,1,2021-08-11,06:07:51
+227,Ritesh  Sainju,krispcall-client,reject incoming call if call is inprogress,1,merged,0,2021-08-11T04:19:31Z,0,1,2021-08-11,04:19:31
+228,Tashi Lama,krispcall-client,"Resolve KS-2370 ""Task/ui click to call setup/""",12,merged,0,2021-08-11T02:06:36Z,1,1,2021-08-11,02:06:36
+229,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",2,merged,0,2021-08-11T01:12:04Z,1,1,2021-08-11,01:12:04
+230,Sundar Shahi,krispcall-client,refactor: memoized  query data,1,merged,0,2021-08-10T08:41:31Z,1,1,2021-08-10,08:41:31
+231,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",4,merged,1,2021-08-10T08:34:31Z,1,1,2021-08-10,08:34:31
+232,Sundar Shahi,krispcall-client,Fixes/10 aug,2,merged,0,2021-08-10T05:38:27Z,1,1,2021-08-10,05:38:27
+233,Ritesh  Sainju,krispcall-client,Hotfix/console errors warnings,2,merged,0,2021-08-10T05:06:38Z,0,1,2021-08-10,05:06:38
+234,Sundar Shahi,krispcall-client,Refactor/10 aug 2021,6,merged,0,2021-08-10T03:43:17Z,1,1,2021-08-10,03:43:17
+235,Ritesh  Sainju,krispcall-client,handle token twilio token expiry,1,merged,0,2021-08-10T03:22:01Z,0,1,2021-08-10,03:22:01
+236,Tashi Lama,krispcall-client,add download link,1,merged,0,2021-08-10T03:39:35Z,1,1,2021-08-10,03:39:35
+237,Ritesh  Sainju,krispcall-client,Develop,11,merged,0,2021-08-09T09:18:15Z,0,1,2021-08-09,09:18:15
+238,Tashi Lama,krispcall-client,"Resolve KS-2241 ""Task/responsive team contact list 768/""",5,merged,0,2021-08-09T08:35:28Z,1,1,2021-08-09,08:35:28
+239,Ritesh  Sainju,krispcall-client,Hotfix/handle tagslist error,2,merged,0,2021-08-09T08:26:35Z,1,1,2021-08-09,08:26:35
+240,Sundar Shahi,krispcall-client,removed unused assets,1,merged,0,2021-08-09T08:44:41Z,0,1,2021-08-09,08:44:41
+241,Ritesh  Sainju,krispcall-client,Develop,17,merged,0,2021-08-07T05:52:17Z,0,1,2021-08-07,05:52:17
+242,Ritesh  Sainju,krispcall-client,check micriphone in phone widget for incoming calls,1,merged,0,2021-08-07T05:27:25Z,1,1,2021-08-07,05:27:25
+243,Ritesh  Sainju,krispcall-client,Hotfix/device settings,2,merged,0,2021-08-06T08:48:16Z,0,1,2021-08-06,08:48:16
+244,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",8,merged,0,2021-08-06T07:28:24Z,1,1,2021-08-06,07:28:24
+245,Tashi Lama,krispcall-client,"update unseencount batch, change plan pop up",2,merged,0,2021-08-06T08:48:02Z,1,1,2021-08-06,08:48:02
+246,Ritesh  Sainju,krispcall-client,Develop,7,merged,0,2021-08-06T04:31:52Z,0,1,2021-08-06,04:31:52
+247,Sundar Shahi,krispcall-client,track number porting event and send to intercom,1,merged,0,2021-08-06T04:30:15Z,1,1,2021-08-06,04:30:15
+248,Abin Khatiwada,krispcall-client,Feature/plans setup,2,merged,0,2021-08-06T02:41:52Z,1,1,2021-08-06,02:41:52
+249,Sundar Shahi,krispcall-client,update version,1,merged,0,2021-08-05T13:51:01Z,0,1,2021-08-05,13:51:01
+250,Sundar Shahi,krispcall-client,Develop,2,merged,0,2021-08-05T10:44:14Z,0,1,2021-08-05,10:44:14
+251,Sundar Shahi,krispcall-client,fix default value issue,1,merged,0,2021-08-05T10:43:14Z,0,1,2021-08-05,10:43:14
+252,Ritesh  Sainju,krispcall-client,Develop,45,merged,0,2021-08-05T10:25:55Z,0,1,2021-08-05,10:25:55
+253,Sundar Shahi,krispcall-client,validate ivr Options,1,merged,0,2021-08-05T10:16:08Z,0,1,2021-08-05,10:16:08
+254,Abin Khatiwada,krispcall-client,Mutation name changed,1,merged,0,2021-08-05T09:50:54Z,1,1,2021-08-05,09:50:54
+255,Sundar Shahi,krispcall-client,show loading on submit,1,merged,0,2021-08-05T08:53:23Z,0,1,2021-08-05,08:53:23
+256,Abin Khatiwada,krispcall-client,Feature/plans setup,8,merged,2,2021-08-05T09:11:56Z,1,1,2021-08-05,09:11:56
+257,Sundar Shahi,krispcall-client,[HOTFIX]: fix transfer issue,4,merged,0,2021-08-05T06:19:45Z,0,1,2021-08-05,06:19:45
+258,Ritesh  Sainju,krispcall-client,resolved issue for call transfer,3,merged,0,2021-08-05T05:29:01Z,0,1,2021-08-05,05:29:01
+259,Ritesh  Sainju,krispcall-client,Feature/call recording transcription,5,merged,0,2021-08-05T09:43:14Z,0,1,2021-08-05,09:43:14
+260,Ritesh  Sainju,krispcall-client,Develop,11,merged,0,2021-08-04T09:32:03Z,0,1,2021-08-04,09:32:03
+261,Ritesh  Sainju,krispcall-client,disable audio settings if not supported,1,merged,0,2021-08-04T08:48:07Z,1,1,2021-08-04,08:48:07
+262,Sundar Shahi,krispcall-client,Feature/ivr settings,23,merged,0,2021-08-05T07:29:19Z,0,1,2021-08-05,07:29:19
+263,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",3,merged,0,2021-08-04T09:19:42Z,1,1,2021-08-04,09:19:42
+264,Abin Khatiwada,krispcall-client,"Resolve KS-1918 ""Feature/show active members/""",4,merged,0,2021-08-03T09:14:19Z,1,1,2021-08-03,09:14:19
+265,Ritesh  Sainju,krispcall-client,Develop,11,merged,0,2021-08-03T08:43:06Z,0,1,2021-08-03,08:43:06
+266,Ritesh  Sainju,krispcall-client,Bug fixes/aug 3,2,merged,0,2021-08-03T07:44:09Z,1,1,2021-08-03,07:44:09
+267,Ritesh  Sainju,krispcall-client,Bug fixes/aug 3,2,merged,0,2021-08-03T06:58:32Z,0,1,2021-08-03,06:58:32
+268,Sundar Shahi,krispcall-client,fix: boot intercom on each refresh,1,merged,0,2021-08-03T06:54:32Z,1,1,2021-08-03,06:54:32
+269,Tashi Lama,krispcall-client,"Resolve KS-2365 ""Task/ui ivr message tts/""",2,merged,0,2021-08-03T05:55:07Z,1,1,2021-08-03,05:55:07
+270,Ritesh  Sainju,krispcall-client,Develop,3,merged,0,2021-08-03T03:58:17Z,0,1,2021-08-03,03:58:17
+271,Ritesh  Sainju,krispcall-client,Bug fixes/aug 3,2,merged,0,2021-08-03T03:40:03Z,1,1,2021-08-03,03:40:03
+272,Ritesh  Sainju,krispcall-client,Develop,36,merged,0,2021-08-03T01:58:20Z,0,1,2021-08-03,01:58:20
+273,Pravesh Chapagain,krispcall-client,Latest mvp build,316,merged,0,2021-08-02T15:09:10Z,0,1,2021-08-02,15:09:10
+274,Pravesh Chapagain,krispcall-client,Krispcall Client Uat Build,97,merged,0,2021-08-02T13:52:57Z,0,1,2021-08-02,13:52:57
+275,Sundar Shahi,krispcall-client,integrate intercom,1,merged,0,2021-08-03T01:19:53Z,1,1,2021-08-03,01:19:53
+276,Ritesh  Sainju,krispcall-client,disable call hold temporarily for deployment,1,merged,0,2021-08-02T10:37:27Z,0,1,2021-08-02,10:37:27
+277,Ritesh  Sainju,krispcall-client,"Resolve KS-2211 ""Feature/notification settings/""",3,merged,0,2021-08-02T09:25:26Z,1,1,2021-08-02,09:25:26
+278,Abin Khatiwada,krispcall-client,Feature/plans setup,11,merged,2,2021-08-02T09:21:00Z,1,1,2021-08-02,09:21:00
+279,Sundar Shahi,krispcall-client,fix: number already exist error toast on add tag from widgget,1,merged,0,2021-08-02T05:13:09Z,1,1,2021-08-02,05:13:09
+280,Ritesh  Sainju,krispcall-client,Develop,21,merged,0,2021-08-02T03:25:13Z,0,1,2021-08-02,03:25:13
+281,Ritesh  Sainju,krispcall-client,"Resolve KS-2210 ""Feature/change audio device twilio/""",7,merged,0,2021-08-02T08:55:07Z,0,1,2021-08-02,08:55:07
+282,Tashi Lama,krispcall-client,"Resolve KS-2264 ""Bug/fix search highlight/""",3,merged,0,2021-07-30T09:46:29Z,1,1,2021-07-30,09:46:29
+283,Sundar Shahi,krispcall-client,fix loading on add number,1,merged,0,2021-07-30T09:41:51Z,1,1,2021-07-30,09:41:51
+284,Abin Khatiwada,krispcall-client,Feature/greetings v2,4,merged,0,2021-07-30T09:46:00Z,1,1,2021-07-30,09:46:00
+285,Sundar Shahi,krispcall-client,Quickfix/stripe unhandled error message,1,merged,0,2021-07-30T07:09:58Z,1,1,2021-07-30,07:09:58
+286,Sundar Shahi,krispcall-client,Quickfix/status not updated after purchase,3,merged,0,2021-07-30T06:22:09Z,1,1,2021-07-30,06:22:09
+287,Ritesh  Sainju,krispcall-client,"Resolve KS-2211 ""Feature/notification settings/""",7,merged,0,2021-08-02T04:52:23Z,0,1,2021-08-02,04:52:23
+288,Tashi Lama,krispcall-client,"Resolve KS-2333 ""Task/dropdown greetings tts/""",3,merged,0,2021-07-30T04:36:30Z,1,1,2021-07-30,04:36:30
+289,Tashi Lama,krispcall-client,"Resolve KS-2322 ""Task/fix design greetings/""",2,merged,0,2021-07-30T04:36:30Z,1,1,2021-07-30,04:36:30
+290,Ritesh  Sainju,krispcall-client,Develop,33,merged,0,2021-07-30T03:22:00Z,0,1,2021-07-30,03:22:00
+291,Sundar Shahi,krispcall-client,refactor memberNode schema,5,merged,0,2021-07-30T02:31:17Z,1,1,2021-07-30,02:31:17
+292,Sundar Shahi,krispcall-client,hot fix member count,1,merged,0,2021-07-29T10:11:48Z,1,1,2021-07-29,10:11:48
+293,Ritesh  Sainju,krispcall-client,Task/call hold endcall subscription,10,merged,0,2021-07-29T10:22:30Z,0,1,2021-07-29,10:22:30
+294,Abin Khatiwada,krispcall-client,Bugfix/chat scroll,2,merged,0,2021-07-29T09:24:54Z,1,1,2021-07-29,09:24:54
+295,Tashi Lama,krispcall-client,"Resolve KS-2242 ""Task/responsive error states/""",4,merged,0,2021-07-29T09:01:04Z,1,1,2021-07-29,09:01:04
+296,Ritesh  Sainju,krispcall-client,Develop,38,merged,0,2021-07-29T04:12:18Z,0,1,2021-07-29,04:12:18
+297,Ritesh  Sainju,krispcall-client,resolve console error for draggable widget component in strictmode,1,merged,0,2021-07-29T03:44:55Z,1,1,2021-07-29,03:44:55
+298,Abin Khatiwada,krispcall-client,Feature/greetings v2,5,merged,0,2021-07-29T04:13:01Z,1,1,2021-07-29,04:13:01
+299,Sundar Shahi,krispcall-client,Refactor/number search,2,merged,0,2021-07-29T01:20:40Z,1,1,2021-07-29,01:20:40
+300,Pravesh Chapagain,krispcall-client,Latest UAT build,153,merged,0,2021-07-28T16:27:08Z,0,1,2021-07-28,16:27:08
+301,Ritesh  Sainju,krispcall-client,show audio input output devices in settings,1,merged,0,2021-07-28T08:57:29Z,1,1,2021-07-28,08:57:29
+302,Ritesh  Sainju,krispcall-client,"Resolve KS-2209 ""Refactor/twilio migration v2.0/""",8,merged,0,2021-07-29T02:36:56Z,0,1,2021-07-29,02:36:56
+303,Abin Khatiwada,krispcall-client,Hot fix on upload modal,1,merged,0,2021-07-28T01:03:00Z,1,1,2021-07-28,01:03:00
+304,Sundar Shahi,krispcall-client,Task/restrict member add if no card,3,merged,0,2021-07-27T10:51:52Z,1,1,2021-07-27,10:51:52
+305,Tashi Lama,krispcall-client,"Resolve KS-2240 ""Task/responsive contact team list 992/""",4,merged,0,2021-07-27T10:07:43Z,1,1,2021-07-27,10:07:43
+306,Abin Khatiwada,krispcall-client,Feature/greetings v2,7,merged,1,2021-07-27T09:43:13Z,1,1,2021-07-27,09:43:13
+307,Tashi Lama,krispcall-client,Fix/capitalize names,2,merged,0,2021-07-27T03:34:42Z,1,1,2021-07-27,03:34:42
+308,Ritesh  Sainju,krispcall-client,Develop,5,merged,0,2021-07-26T10:18:44Z,0,1,2021-07-26,10:18:44
+309,Ritesh  Sainju,krispcall-client,Hotfix/july 26,2,merged,0,2021-07-26T10:17:30Z,1,1,2021-07-26,10:17:30
+310,Sundar Shahi,krispcall-client,fix number price in number table,1,merged,0,2021-07-26T09:17:38Z,1,1,2021-07-26,09:17:38
+311,Ritesh  Sainju,krispcall-client,Develop,4,merged,0,2021-07-26T06:46:38Z,0,1,2021-07-26,06:46:38
+312,Sundar Shahi,krispcall-client,quick fix,1,merged,0,2021-07-26T06:46:08Z,1,1,2021-07-26,06:46:08
+313,Ritesh  Sainju,krispcall-client,changed contact id to contact number in payload for conversation search,1,merged,0,2021-07-26T06:45:19Z,1,1,2021-07-26,06:45:19
+314,Ritesh  Sainju,krispcall-client,Develop,3,merged,0,2021-07-26T04:47:27Z,0,1,2021-07-26,04:47:27
+315,Ritesh  Sainju,krispcall-client,Hotfix/call hold,2,merged,0,2021-07-26T04:00:53Z,0,1,2021-07-26,04:00:53
+316,Ritesh  Sainju,krispcall-client,Develop,2,merged,0,2021-07-26T02:30:32Z,0,1,2021-07-26,02:30:32
+317,Ritesh  Sainju,krispcall-client,Develop,2,closed,0,,0,1,,
+318,Ritesh  Sainju,krispcall-client,resolved issue for multiple addContact api call for tags edit from call widget,1,merged,0,2021-07-25T12:34:45Z,1,1,2021-07-25,12:34:45
+319,Ritesh  Sainju,krispcall-client,Develop,94,merged,0,2021-07-25T10:01:52Z,0,1,2021-07-25,10:01:52
+320,Ritesh  Sainju,krispcall-client,Refactor/client contact call hold,2,merged,0,2021-07-25T09:58:41Z,0,1,2021-07-25,09:58:41
+321,Ritesh  Sainju,krispcall-client,fixed issue for add tags from call widget,1,merged,0,2021-07-25T09:20:09Z,0,1,2021-07-25,09:20:09
+322,Ritesh  Sainju,krispcall-client,change payload for add pinned. use phone instead of contact id,1,merged,0,2021-07-25T08:59:11Z,1,1,2021-07-25,08:59:11
+323,Ritesh  Sainju,krispcall-client,Refactor/client contact call hold,4,merged,0,2021-07-25T08:05:06Z,1,1,2021-07-25,08:05:06
+324,Ritesh  Sainju,krispcall-client,Draft: Develop,94,closed,0,,0,1,,
+325,Sundar Shahi,krispcall-client,fix for same bg and foreground color,1,merged,0,2021-07-25T04:45:58Z,0,1,2021-07-25,04:45:58
+326,Ritesh  Sainju,krispcall-client,Refactor/client contact call hold,46,merged,0,2021-07-25T06:12:41Z,0,1,2021-07-25,06:12:41
+327,Ritesh  Sainju,krispcall-client,Develop,23,closed,0,,0,1,,
+328,Sundar Shahi,krispcall-client,Hotfix/workaround for same foreground and background,2,merged,0,2021-07-25T03:26:03Z,0,1,2021-07-25,03:26:03
+329,Sundar Shahi,krispcall-client,Hotfix/number delete not reflected on sidebar,2,merged,0,2021-07-25T02:31:58Z,1,1,2021-07-25,02:31:58
+330,Sundar Shahi,krispcall-client,Config/translation files,3,merged,0,2021-07-25T02:32:35Z,0,1,2021-07-25,02:32:35
+331,Sundar Shahi,krispcall-client,fix tag count,1,merged,0,2021-07-24T10:07:02Z,1,1,2021-07-24,10:07:02
+332,Sundar Shahi,krispcall-client,update patch version,1,merged,0,2021-07-24T08:06:38Z,0,1,2021-07-24,08:06:38
+333,Sundar Shahi,krispcall-client,"Resolve KS-1230 ""Feature/one device one login/""",11,merged,0,2021-07-25T05:38:49Z,1,1,2021-07-25,05:38:49
+334,Sundar Shahi,krispcall-client,fix showing wrong toast in tts save change,1,merged,0,2021-07-24T06:20:47Z,1,1,2021-07-24,06:20:47
+335,Sundar Shahi,krispcall-client,Fix/member not showint in team add dropdown,3,merged,0,2021-07-24T05:48:06Z,1,1,2021-07-24,05:48:06
+336,Tashi Lama,krispcall-client,"fix row event issue in contact,member tables",2,merged,0,2021-07-24T05:38:32Z,1,1,2021-07-24,05:38:32
+337,Tashi Lama,krispcall-client,"Resolve KS-1957 ""Task/create email templates/""",14,closed,0,,1,1,,
+338,Ritesh  Sainju,krispcall-client,Develop,2,merged,0,2021-07-23T07:40:18Z,0,1,2021-07-23,07:40:18
+339,Tashi Lama,krispcall-client,fix nav active highlight,1,merged,0,2021-07-23T07:37:52Z,1,1,2021-07-23,07:37:52
+340,Ritesh  Sainju,krispcall-client,Develop,36,merged,0,2021-07-23T06:49:27Z,0,1,2021-07-23,06:49:27
+341,Abin Khatiwada,krispcall-client,Feature/greetings,11,merged,2,2021-07-23T04:27:32Z,1,1,2021-07-23,04:27:32
+342,Ritesh  Sainju,krispcall-client,Task/call hold api integration,23,merged,0,2021-07-23T01:47:04Z,0,1,2021-07-23,01:47:04
+343,Sundar Shahi,krispcall-client,Refactor/changes in allworkspace member schema,2,merged,0,2021-07-23T01:35:34Z,1,1,2021-07-23,01:35:34
+344,Pravesh Chapagain,krispcall-client,UAT deployment,314,merged,0,2021-07-22T06:35:57Z,0,1,2021-07-22,06:35:57
+345,Sundar Shahi,krispcall-client,no index,1,merged,0,2021-07-22T08:22:12Z,0,1,2021-07-22,08:22:12
+346,Sundar Shahi,krispcall-client,no index,1,merged,0,2021-07-22T05:11:41Z,0,1,2021-07-22,05:11:41
+347,Sundar Shahi,krispcall-client,Refactor/cleanup code and refactor login,9,merged,0,2021-07-23T01:34:22Z,1,1,2021-07-23,01:34:22
+348,Sundar Shahi,krispcall-client,removed unused imports,1,merged,0,2021-07-22T03:11:17Z,1,1,2021-07-22,03:11:17
+349,Tashi Lama,krispcall-client,"Resolve KS-2132 ""Task/responsive ui team list/""",4,merged,0,2021-07-22T03:08:25Z,1,1,2021-07-22,03:08:25
+350,Tashi Lama,krispcall-client,"fix greetings design, disable autoreply select",1,merged,0,2021-07-22T02:32:35Z,1,1,2021-07-22,02:32:35
+351,Pravesh Chapagain,krispcall-client,Deploy,5,merged,0,2021-07-22T01:11:51Z,0,1,2021-07-22,01:11:51
+352,Abin Khatiwada,krispcall-client,Feature/greetings,2,merged,0,2021-07-21T09:44:08Z,1,1,2021-07-21,09:44:08
+353,Sundar Shahi,krispcall-client,Update package.json version,1,merged,0,2021-07-21T06:46:26Z,0,1,2021-07-21,06:46:26
+354,Sundar Shahi,krispcall-client,Develop,14,merged,0,2021-07-21T06:06:35Z,0,1,2021-07-21,06:06:35
+355,Sundar Shahi,krispcall-client,fix duplication issue in reorder,1,merged,0,2021-07-21T04:56:32Z,1,1,2021-07-21,04:56:32
+356,Tashi Lama,krispcall-client,"Resolve KS-2131 ""Task/responsive ui contact list/""",6,merged,0,2021-07-21T04:51:02Z,1,1,2021-07-21,04:51:02
+357,Tashi Lama,krispcall-client,"Resolve KS-2085 ""Task/show selected dnd/""",2,merged,0,2021-07-21T01:56:33Z,1,1,2021-07-21,01:56:33
+358,Sundar Shahi,krispcall-client,Fix/deleting member doesnot reflect in sidebar/ ks-2087,1,merged,0,2021-07-21T04:55:24Z,1,1,2021-07-21,04:55:24
+359,Sundar Shahi,krispcall-client,Develop,4,merged,0,2021-07-20T07:31:56Z,1,1,2021-07-20,07:31:56
+360,Sundar Shahi,krispcall-client,Hotfix/fetch channels from seprate query,3,merged,0,2021-07-20T07:28:31Z,1,1,2021-07-20,07:28:31
+361,Pravesh Chapagain,krispcall-client,QA build latest,33,closed,0,,0,1,,
+362,Ritesh  Sainju,krispcall-client,Develop,33,closed,0,,0,1,,
+363,Sundar Shahi,krispcall-client,save channel order in DB,1,merged,0,2021-07-20T03:56:03Z,1,1,2021-07-20,03:56:03
+364,Ritesh  Sainju,krispcall-client,"Resolve KS-2138 ""Fix/reconnect ws on workspace switch/""",2,merged,0,2021-07-20T03:45:15Z,1,1,2021-07-20,03:45:15
+365,Tashi Lama,krispcall-client,refine refactor card form,1,merged,0,2021-07-19T05:44:01Z,1,1,2021-07-19,05:44:01
+366,Sundar Shahi,krispcall-client,Task/rearrange workspace api integration,4,merged,0,2021-07-20T03:55:26Z,0,1,2021-07-20,03:55:26
+367,Sundar Shahi,krispcall-client,Develop,21,merged,0,2021-07-19T02:05:32Z,1,1,2021-07-19,02:05:32
+368,Sundar Shahi,krispcall-client,Config/cache busting and webpack config,8,merged,0,2021-07-19T02:01:20Z,1,1,2021-07-19,02:01:20
+369,Sundar Shahi,krispcall-client,validate field length,1,merged,0,2021-07-19T01:35:31Z,0,1,2021-07-19,01:35:31
+370,Abin Khatiwada,krispcall-client,Feature/auto reply,4,merged,0,2021-07-16T07:14:48Z,1,1,2021-07-16,07:14:48
+371,Tashi Lama,krispcall-client,"Resolve KS-2081 ""Task/new design greetings/""",4,merged,0,2021-07-16T07:07:17Z,1,1,2021-07-16,07:07:17
+372,Ritesh  Sainju,krispcall-client,Develop,23,merged,0,2021-07-15T09:24:29Z,0,1,2021-07-15,09:24:29
+373,Sundar Shahi,krispcall-client,fix remove number from cart,1,merged,0,2021-07-15T08:23:30Z,1,1,2021-07-15,08:23:30
+374,Abin Khatiwada,krispcall-client,Feature/greetings upload,10,merged,2,2021-07-15T08:45:09Z,1,1,2021-07-15,08:45:09
+375,Sundar Shahi,krispcall-client,Feature/greetings upload,7,closed,0,,0,1,,
+376,Sundar Shahi,krispcall-client,Task/design for invalid invitation,2,merged,0,2021-07-15T06:00:13Z,1,1,2021-07-15,06:00:13
+377,Tashi Lama,krispcall-client,"Resolve KS-2072 ""Task/implement drag n drop lib/""",6,merged,0,2021-07-15T06:01:55Z,1,1,2021-07-15,06:01:55
+378,Ritesh  Sainju,krispcall-client,Develop,3,merged,0,2021-07-15T05:00:19Z,0,1,2021-07-15,05:00:19
+379,Ritesh  Sainju,krispcall-client,"Resolve KS-2076 ""Task/show memberinfo memberchat topbar/""",2,merged,0,2021-07-15T04:59:25Z,1,1,2021-07-15,04:59:25
+380,Ritesh  Sainju,krispcall-client,Develop,2,merged,0,2021-07-15T04:00:15Z,0,1,2021-07-15,04:00:15
+381,Ritesh  Sainju,krispcall-client,replace dummy data with real data in member chat topbar,1,merged,0,2021-07-15T03:58:19Z,0,1,2021-07-15,03:58:19
+382,Ritesh  Sainju,krispcall-client,Hotfix/rename styles,1,closed,0,,0,1,,
+383,Sundar Shahi,krispcall-client,Develop-deploy-15-07-2021,61,merged,0,2021-07-15T02:42:12Z,1,1,2021-07-15,02:42:12
+384,Sundar Shahi,krispcall-client,fix broken files,1,merged,0,2021-07-15T02:39:27Z,0,1,2021-07-15,02:39:27
+385,Sundar Shahi,krispcall-client,add unique key in map,1,merged,0,2021-07-15T02:03:16Z,1,1,2021-07-15,02:03:16
+386,Sundar Shahi,krispcall-client,removed unused component,1,merged,0,2021-07-14T08:14:34Z,0,1,2021-07-14,08:14:34
+387,Tashi Lama,krispcall-client,"Resolve KS-2068 ""Refactor/contact member detail/""",3,merged,0,2021-07-14T08:16:58Z,1,1,2021-07-14,08:16:58
+388,Tashi Lama,krispcall-client,"Resolve KS-2064 ""Refactor/conversation ui/""",4,merged,0,2021-07-14T09:44:22Z,1,1,2021-07-14,09:44:22
+389,Sundar Shahi,krispcall-client,Hotfix/14 07 2021,2,merged,0,2021-07-14T04:44:17Z,1,1,2021-07-14,04:44:17
+390,Ritesh  Sainju,krispcall-client,"Resolve KS-1833 ""Feature/number delete/""",5,merged,0,2021-07-14T04:34:55Z,1,1,2021-07-14,04:34:55
+391,Tashi Lama,krispcall-client,"update spacing, refine conversation ui",1,merged,0,2021-07-14T04:39:16Z,1,1,2021-07-14,04:39:16
+392,Tashi Lama,krispcall-client,"Resolve KS-2036 ""Task/member chat topbar update refactor/""",6,merged,0,2021-07-13T09:08:20Z,1,1,2021-07-13,09:08:20
+393,Sundar Shahi,krispcall-client,fix: KS-2034,3,merged,0,2021-07-13T09:03:52Z,1,1,2021-07-13,09:03:52
+394,Sundar Shahi,krispcall-client,Fix/no permission data after tab change,4,merged,0,2021-07-13T08:55:22Z,1,1,2021-07-13,08:55:22
+395,Sundar Shahi,krispcall-client,refactor number and user price fetching,3,merged,0,2021-07-13T06:06:23Z,0,1,2021-07-13,06:06:23
+396,Tashi Lama,krispcall-client,"Resolve KS-1962 ""Task/draggable ordering numbers/""",3,merged,0,2021-07-13T09:07:59Z,1,1,2021-07-13,09:07:59
+397,Tashi Lama,krispcall-client,add drag n drop to order workspace item,1,merged,0,2021-07-13T01:55:49Z,1,1,2021-07-13,01:55:49
+398,Sundar Shahi,krispcall-client,"Resolve KS-1843 ""Feature/view profile pic/""",4,merged,1,2021-07-12T09:15:10Z,1,1,2021-07-12,09:15:10
+399,Tashi Lama,krispcall-client,Task/responsive ui callbox update/ks code,3,merged,0,2021-07-12T04:54:21Z,1,1,2021-07-12,04:54:21
+400,Pravesh Chapagain,krispcall-client,Deploy latest,0,closed,0,,0,1,,
+401,Pravesh Chapagain,krispcall-client,Latest deploy,20,merged,0,2021-07-09T06:44:24Z,0,1,2021-07-09,06:44:24
+402,Ritesh  Sainju,krispcall-client,Hotfix/callstatus navbar search,3,merged,0,2021-07-09T06:24:44Z,1,1,2021-07-09,06:24:44
+403,Sundar Shahi,krispcall-client,Refactor/number purchase requirements,3,merged,0,2021-07-09T06:06:16Z,1,1,2021-07-09,06:06:16
+404,Tashi Lama,krispcall-client,"Resolve KS-1909 ""Bugfix/widget unclickable issue/""",2,merged,0,2021-07-09T05:55:44Z,1,1,2021-07-09,05:55:44
+405,Abin Khatiwada,krispcall-client,Feature/add card on register,5,merged,0,2021-07-09T05:49:34Z,1,1,2021-07-09,05:49:34
+406,Tashi Lama,krispcall-client,"Resolve KS-1881 ""Bug/fix voicemail duration/""",2,merged,0,2021-07-09T04:51:44Z,1,1,2021-07-09,04:51:44
+407,Pravesh Chapagain,krispcall-client,Latest deploy,8,merged,0,2021-07-09T03:29:36Z,0,1,2021-07-09,03:29:36
+408,Ritesh  Sainju,krispcall-client,Hotfix/memeber msg seen count reset,5,merged,0,2021-07-09T03:10:12Z,0,1,2021-07-09,03:10:12
+409,Sundar Shahi,krispcall-client,Refactor/template,1,merged,0,2021-07-09T01:04:29Z,0,1,2021-07-09,01:04:29
+410,Pravesh Chapagain,krispcall-client,Latest QA Build,22,merged,0,2021-07-08T15:52:54Z,0,1,2021-07-08,15:52:54
+411,Sundar Shahi,krispcall-client,Task/download invoice,2,merged,0,2021-07-08T10:23:55Z,1,1,2021-07-08,10:23:55
+412,Ritesh  Sainju,krispcall-client,"Resolve KS-1892 ""Task/api integration member chat seen/""",2,merged,0,2021-07-08T08:59:01Z,0,1,2021-07-08,08:59:01
+413,Ritesh  Sainju,krispcall-client,show notfound image for search text in nav bar,1,merged,0,2021-07-08T08:31:39Z,0,1,2021-07-08,08:31:39
+414,Ritesh  Sainju,krispcall-client,"Resolve KS-295 ""Feature/navigation search/""",7,merged,0,2021-07-08T05:59:49Z,1,1,2021-07-08,05:59:49
+415,Tashi Lama,krispcall-client,make call filter menu clickable for smaller resolution,1,merged,0,2021-07-08T04:38:46Z,0,1,2021-07-08,04:38:46
+416,Pravesh Chapagain,krispcall-client,Latest frontend deploy,18,merged,0,2021-07-08T04:04:44Z,0,1,2021-07-08,04:04:44
+417,Sundar Shahi,krispcall-client,invoice template,3,merged,0,2021-07-08T08:59:30Z,1,1,2021-07-08,08:59:30
+418,Tashi Lama,krispcall-client,"Resolve KS-1780 ""Task/callbox responsive tablet/""",3,merged,0,2021-07-08T02:21:15Z,1,1,2021-07-08,02:21:15
+419,Ritesh  Sainju,krispcall-client,"Resolve KS-1896 ""Task/allow newline chatbox input/""",5,merged,0,2021-07-08T01:04:24Z,0,1,2021-07-08,01:04:24
+420,Sundar Shahi,krispcall-client,Refactor/number purchase,7,merged,1,2021-07-07T09:20:52Z,1,1,2021-07-07,09:20:52
+421,Pravesh Chapagain,krispcall-client,Latest QA build,48,merged,0,2021-07-07T08:01:23Z,0,1,2021-07-07,08:01:23
+422,Ritesh  Sainju,krispcall-client,Hotfix/cleanup contact selected row on unmount,3,merged,0,2021-07-07T07:02:03Z,0,1,2021-07-07,07:02:03
+423,Sundar Shahi,krispcall-client,fix client name and profile pic of unknown,1,merged,0,2021-07-07T06:53:43Z,1,1,2021-07-07,06:53:43
+424,Ritesh  Sainju,krispcall-client,Task/change clientdnd payload,2,merged,0,2021-07-07T06:40:40Z,1,1,2021-07-07,06:40:40
+425,Abin Khatiwada,krispcall-client,Hotfix/permission refetch,2,merged,0,2021-07-07T04:22:34Z,0,1,2021-07-07,04:22:34
+426,Tashi Lama,krispcall-client,"Resolve KS-1882 ""Task/create card detail page/""",2,merged,0,2021-07-07T05:20:08Z,1,1,2021-07-07,05:20:08
+427,Abin Khatiwada,krispcall-client,Hotfix/permission refetch,2,merged,0,2021-07-07T03:33:11Z,1,1,2021-07-07,03:33:11
+428,Ritesh  Sainju,krispcall-client,"Resolve KS-1596 ""Feature/unseen badge count memberchat/""",4,merged,0,2021-07-07T03:24:22Z,1,1,2021-07-07,03:24:22
+429,Ritesh  Sainju,krispcall-client,"Resolve KS-1889 ""Task/show activechannel data in responsive callbox/""",2,merged,0,2021-07-07T02:47:41Z,1,1,2021-07-07,02:47:41
+430,Sundar Shahi,krispcall-client,"Resolve KS-1701 ""Feature/receipts/""",10,merged,0,2021-07-07T03:02:59Z,1,1,2021-07-07,03:02:59
+431,Tashi Lama,krispcall-client,"Resolve KS-1779 ""Task/callbox responsive ui w992/""",6,merged,1,2021-07-07T02:20:19Z,1,1,2021-07-07,02:20:19
+432,Ritesh  Sainju,krispcall-client,"Resolve KS-1446 ""Hotfix/client dnd/""",3,merged,0,2021-07-06T02:54:37Z,1,1,2021-07-06,02:54:37
+433,Pravesh Chapagain,krispcall-client,Merging and deploying,36,merged,0,2021-07-05T10:43:20Z,0,1,2021-07-05,10:43:20
+434,Ritesh  Sainju,krispcall-client,show missed call with voicemail in call filter,1,merged,0,2021-07-05T08:25:07Z,1,1,2021-07-05,08:25:07
+435,Abin Khatiwada,krispcall-client,Feature/chat scroll,2,merged,1,2021-07-05T08:23:20Z,1,1,2021-07-05,08:23:20
+436,Sundar Shahi,krispcall-client,Hotfixes/7 5 2021,6,merged,0,2021-07-05T07:39:08Z,1,1,2021-07-05,07:39:08
+437,Ritesh  Sainju,krispcall-client,resolved issue for selected contacts text in contacts table on delete,1,merged,0,2021-07-05T07:35:52Z,0,1,2021-07-05,07:35:52
+438,Ritesh  Sainju,krispcall-client,add copy email feature in team members list and member detail page,2,merged,0,2021-07-05T07:05:39Z,0,1,2021-07-05,07:05:39
+439,Abin Khatiwada,krispcall-client,Feature/chat scroll,7,merged,0,2021-07-05T05:17:14Z,1,1,2021-07-05,05:17:14
+440,Ritesh  Sainju,krispcall-client,Hotfix/destroy twilio device on worksapce change,3,merged,0,2021-07-05T05:09:23Z,1,1,2021-07-05,05:09:23
+441,Abin Khatiwada,krispcall-client,Refactor/authorization,5,closed,0,,1,1,,
+442,Pravesh Chapagain,krispcall-client,Latest changes,0,closed,0,,0,1,,
+443,Ritesh  Sainju,krispcall-client,Develop,33,merged,0,2021-07-02T05:54:21Z,0,1,2021-07-02,05:54:21
+444,Abin Khatiwada,krispcall-client,Hotfix/access management,2,merged,0,2021-07-02T05:07:20Z,1,1,2021-07-02,05:07:20
+445,Abin Khatiwada,krispcall-client,Feature/contact search,2,merged,0,2021-07-02T04:01:02Z,1,1,2021-07-02,04:01:02
+446,Sundar Shahi,krispcall-client,Feature/show toast for blocked contact while calling from dialer,4,merged,0,2021-07-02T03:55:44Z,1,1,2021-07-02,03:55:44
+447,Ritesh  Sainju,krispcall-client,"Resolve KS-1445 ""Feature/team members list/""",21,merged,2,2021-07-02T03:52:47Z,0,1,2021-07-02,03:52:47
+448,Tashi Lama,krispcall-client,"Resolve KS-1778 ""Task/callbox responsive ui desktop/""",6,merged,0,2021-07-05T04:33:42Z,1,1,2021-07-05,04:33:42
+449,Pravesh Chapagain,krispcall-client,Merging with Develop,71,merged,0,2021-07-01T16:09:11Z,0,1,2021-07-01,16:09:11
+450,Ritesh  Sainju,krispcall-client,Hotfix/july 01 bugs,2,merged,0,2021-07-01T07:18:56Z,0,1,2021-07-01,07:18:56
+451,Abin Khatiwada,krispcall-client,Feature/contact search,3,merged,2,2021-07-01T07:22:14Z,1,1,2021-07-01,07:22:14
+452,Ritesh  Sainju,krispcall-client,Refactor/twilio device setup,3,merged,0,2021-07-01T05:11:36Z,1,1,2021-07-01,05:11:36
+453,Sundar Shahi,krispcall-client,Task/components for reset password from member list,3,merged,0,2021-07-01T04:48:41Z,0,1,2021-07-01,04:48:41
+454,Tashi Lama,krispcall-client,"Resolve KS-1787 ""Task/ui one user login/""",3,merged,0,2021-07-01T03:46:47Z,1,1,2021-07-01,03:46:47
+455,Sundar Shahi,krispcall-client,Refactor/billing info auto recharge,2,merged,0,2021-07-01T02:36:53Z,0,1,2021-07-01,02:36:53
+456,Tashi Lama,krispcall-client,ui for missed voice mail,1,merged,0,2021-07-01T02:34:26Z,1,1,2021-07-01,02:34:26
+457,Ritesh  Sainju,krispcall-client,"Resolve KS-1758 ""Bug/unselect table rows on contact import/""",2,merged,0,2021-06-30T08:36:15Z,0,1,2021-06-30,08:36:15
+458,Tashi Lama,krispcall-client,"Resolve KS-1784 ""Task/reuse design in greetings/""",1,merged,0,2021-06-30T08:07:33Z,1,1,2021-06-30,08:07:33
+459,Tashi Lama,krispcall-client,"Resolve KS-1769 ""Task/ui greetings custom recording/""",2,merged,0,2021-06-30T08:06:44Z,1,1,2021-06-30,08:06:44
+460,Sundar Shahi,krispcall-client,"Resolve KS-1623 ""Feature/delete pending invitation/""",2,merged,0,2021-06-30T08:29:39Z,1,1,2021-06-30,08:29:39
+461,Sundar Shahi,krispcall-client,Code Cleanup,2,merged,0,2021-06-30T04:45:31Z,1,1,2021-06-30,04:45:31
+462,Tashi Lama,krispcall-client,"Resolve KS-1760 ""Refine/ui greetings welcome/""",3,merged,0,2021-06-30T04:46:18Z,1,1,2021-06-30,04:46:18
+463,Sundar Shahi,krispcall-client,Feature/seen message(Update Badge Count),7,merged,0,2021-06-30T04:26:33Z,1,1,2021-06-30,04:26:33
+464,Sundar Shahi,krispcall-client,Hotfix/6 29 2021,3,merged,0,2021-06-29T07:49:01Z,1,1,2021-06-29,07:49:01
+465,Abin Khatiwada,krispcall-client,Feature/contact search,2,merged,0,2021-06-29T06:43:22Z,1,1,2021-06-29,06:43:22
+466,Ritesh  Sainju,krispcall-client,typo fix for client dnd success msg,1,merged,0,2021-06-29T05:18:03Z,0,1,2021-06-29,05:18:03
+467,Ritesh  Sainju,krispcall-client,Develop,11,merged,0,2021-06-29T05:14:09Z,0,1,2021-06-29,05:14:09
+468,Tashi Lama,krispcall-client,"Resolve KS-1738 ""Task/ui greetings welcome/""",2,merged,0,2021-06-29T06:46:01Z,1,1,2021-06-29,06:46:01
+469,Abin Khatiwada,krispcall-client,API end point changed on conversation search,1,merged,0,2021-06-29T02:31:41Z,1,1,2021-06-29,02:31:41
+470,Abin Khatiwada,krispcall-client,chat head highlighter reset in 1 seconds,1,merged,0,2021-06-28T09:55:37Z,0,1,2021-06-28,09:55:37
+471,Abin Khatiwada,krispcall-client,Feature/contact search,3,merged,0,2021-06-28T09:32:50Z,1,1,2021-06-28,09:32:50
+472,Sundar Shahi,krispcall-client,Bugs/6 28 2021/fix,2,merged,0,2021-06-28T09:17:17Z,1,1,2021-06-28,09:17:17
+473,Ritesh  Sainju,krispcall-client,Develop,5,merged,0,2021-06-28T07:47:44Z,0,1,2021-06-28,07:47:44
+474,Sundar Shahi,krispcall-client,"Resolve KS-1751 ""Feature/contactlist more option/""",2,merged,0,2021-06-28T07:26:11Z,1,1,2021-06-28,07:26:11
+475,Ritesh  Sainju,krispcall-client,fixed error for archive filter and make dropdwon menu visible even aftar menu item is clicked,1,merged,0,2021-06-28T06:15:16Z,1,1,2021-06-28,06:15:16
+476,Ritesh  Sainju,krispcall-client,Develop,56,merged,0,2021-06-25T09:24:06Z,0,1,2021-06-25,09:24:06
+477,Ritesh  Sainju,krispcall-client,Feature/dnd for client,9,merged,0,2021-06-25T06:47:28Z,1,1,2021-06-25,06:47:28
+478,Sundar Shahi,krispcall-client,Hotfix/plan new design for custom plan,3,merged,0,2021-06-25T04:19:10Z,1,1,2021-06-25,04:19:10
+479,Ritesh  Sainju,krispcall-client,Task/archive filter conversationbox/ks1438,2,merged,0,2021-06-25T04:04:25Z,0,1,2021-06-25,04:04:25
+480,Abin Khatiwada,krispcall-client,Feature/conversation search bugfix,6,merged,7,2021-06-25T04:26:35Z,1,1,2021-06-25,04:26:35
+481,Tashi Lama,krispcall-client,"Resolve KS-1682 ""Task/new ui settings notification/""",2,merged,0,2021-06-25T04:03:33Z,1,1,2021-06-25,04:03:33
+482,Ritesh  Sainju,krispcall-client,Hotfixes/june 25,2,merged,0,2021-06-25T02:30:09Z,0,1,2021-06-25,02:30:09
+483,Tashi Lama,krispcall-client,"Resolve KS-1671 ""Task/member chat avatar/""",4,merged,0,2021-06-25T01:42:56Z,1,1,2021-06-25,01:42:56
+484,Sundar Shahi,krispcall-client,Refactor/6 24 2021,3,merged,0,2021-06-24T09:24:15Z,1,1,2021-06-24,09:24:15
+485,Sundar Shahi,krispcall-client,Refactor/search number and workspaces delete,7,merged,0,2021-06-24T07:09:32Z,1,1,2021-06-24,07:09:32
+486,Ritesh  Sainju,krispcall-client,"Resolve KS-1438 ""Feature/conversation filter/""",8,merged,0,2021-06-24T06:47:14Z,1,1,2021-06-24,06:47:14
+487,Ritesh  Sainju,krispcall-client,Develop,33,merged,0,2021-06-24T05:08:48Z,0,1,2021-06-24,05:08:48
+488,Tashi Lama,krispcall-client,"Resolve KS-1667 ""Task/add member team auth/""",3,merged,0,2021-06-24T05:01:24Z,1,1,2021-06-24,05:01:24
+489,Tashi Lama,krispcall-client,"avatar sizing, avatar placeholder refactor",1,merged,0,2021-06-24T01:38:40Z,1,1,2021-06-24,01:38:40
+490,Sundar Shahi,krispcall-client,Refactor/change plan,7,merged,0,2021-06-23T09:49:04Z,1,1,2021-06-23,09:49:04
+491,Abin Khatiwada,krispcall-client,Feature/conversation search bugfix,3,merged,0,2021-06-23T07:07:09Z,1,1,2021-06-23,07:07:09
+492,Ritesh  Sainju,krispcall-client,Bug/show active workspace on login,2,merged,0,2021-06-23T06:47:02Z,1,1,2021-06-23,06:47:02
+493,Tashi Lama,krispcall-client,update filer buttons ui,1,merged,0,2021-06-23T06:44:58Z,1,1,2021-06-23,06:44:58
+494,Abin Khatiwada,krispcall-client,Feature/conversation search bugfix,4,merged,0,2021-06-23T06:42:53Z,0,1,2021-06-23,06:42:53
+495,Tashi Lama,krispcall-client,"Resolve KS-1640 ""Task/ui pinned message/""",1,merged,0,2021-06-23T06:09:46Z,1,1,2021-06-23,06:09:46
+496,Ritesh  Sainju,krispcall-client,Develop,69,merged,0,2021-06-23T02:57:32Z,0,1,2021-06-23,02:57:32
+497,Tashi Lama,krispcall-client,"Resolve KS-1646 ""Task/add close in drawer/""",2,merged,0,2021-06-23T06:08:54Z,1,1,2021-06-23,06:08:54
+498,Sundar Shahi,krispcall-client,Refactor/workspace delete,5,merged,0,2021-06-23T01:13:14Z,1,1,2021-06-23,01:13:14
+499,Tashi Lama,krispcall-client,Hotfix/import customavatar in topbar,3,merged,0,2021-06-22T09:50:48Z,1,1,2021-06-22,09:50:48
+500,Tashi Lama,krispcall-client,"Resolve KS-1643 ""Feature/audio player multi transfer call/""",2,merged,0,2021-06-22T09:37:29Z,1,1,2021-06-22,09:37:29
+501,Tashi Lama,krispcall-client,"Resolve KS-1627 ""Task/audio player speed/""",2,merged,0,2021-06-22T03:56:29Z,1,1,2021-06-22,03:56:29
+502,Abin Khatiwada,krispcall-client,Feature/conversation search bugfix,21,merged,14,2021-06-22T09:18:31Z,1,1,2021-06-22,09:18:31
+503,Ritesh  Sainju,krispcall-client,Task/generate new token for fcm on new login,2,merged,0,2021-06-21T08:50:58Z,1,1,2021-06-21,08:50:58
+504,Tashi Lama,krispcall-client,"Resolve KS-1615 ""Task/ui change plan/""",3,merged,0,2021-06-21T07:48:20Z,1,1,2021-06-21,07:48:20
+505,Sundar Shahi,krispcall-client,Refactor/settings member/new changes,5,merged,0,2021-06-21T06:30:26Z,1,1,2021-06-21,06:30:26
+506,Ritesh  Sainju,krispcall-client,Qa,372,closed,0,,0,1,,
+507,Ritesh  Sainju,krispcall-client,import csv feature if contacts  empty,3,merged,0,2021-06-21T03:52:35Z,1,1,2021-06-21,03:52:35
+508,Tashi Lama,krispcall-client,"Resolve KS-1562 ""Task/ui conversation search/""",3,merged,0,2021-06-18T09:28:08Z,1,1,2021-06-18,09:28:08
+509,Sundar Shahi,krispcall-client,"Resolve KS-1470 ""Feature/restore workspace/""",9,merged,1,2021-06-21T03:54:19Z,1,1,2021-06-21,03:54:19
+510,Ritesh  Sainju,krispcall-client,api integration for call cancel,1,merged,0,2021-06-18T06:15:10Z,1,1,2021-06-18,06:15:10
+511,Tashi Lama,krispcall-client,"Resolve KS-1562 ""Task/ui conversation search/""",5,merged,0,2021-06-18T05:17:56Z,1,1,2021-06-18,05:17:56
+512,Ritesh  Sainju,krispcall-client,Task/show desktop notification on tab active,2,merged,0,2021-06-17T07:44:21Z,0,1,2021-06-17,07:44:21
+513,Ritesh  Sainju,krispcall-client,Develop,3,merged,0,2021-06-17T06:45:54Z,0,1,2021-06-17,06:45:54
+514,Ritesh  Sainju,krispcall-client,implemented send digit feature from dialpad,2,merged,0,2021-06-17T06:43:09Z,1,1,2021-06-17,06:43:09
+515,Sundar Shahi,krispcall-client,Draft: Develop,0,closed,0,,0,1,,
+516,Pravesh Chapagain,krispcall-client,Latest dev changes,9,merged,0,2021-06-17T06:07:39Z,0,1,2021-06-17,06:07:39
+517,Ritesh  Sainju,krispcall-client,changed firebase config,1,merged,0,2021-06-17T04:13:48Z,1,1,2021-06-17,04:13:48
+518,Ritesh  Sainju,krispcall-client,Bug/add contact profile pic issues,2,merged,0,2021-06-17T03:30:00Z,1,1,2021-06-17,03:30:00
+519,Ritesh  Sainju,krispcall-client,Develop,58,closed,0,,1,1,,
+520,Tashi Lama,krispcall-client,"Resolve KS-1543 ""Feature/play single audio in chat/""",3,merged,0,2021-06-17T01:49:35Z,1,1,2021-06-17,01:49:35
+521,Sundar Shahi,krispcall-client,"Resolve KS-1275 ""Feature/cancel subscription/""",5,merged,0,2021-06-16T07:11:34Z,1,1,2021-06-16,07:11:34
+522,Ritesh  Sainju,krispcall-client,"Resolve KS-1552 ""Task/member chat fixes/""",3,merged,0,2021-06-16T06:40:52Z,1,1,2021-06-16,06:40:52
+523,Pravesh Chapagain,krispcall-client,qa pipeline trigger removed,1,merged,0,2021-06-16T04:45:36Z,0,1,2021-06-16,04:45:36
+524,Sundar Shahi,krispcall-client,Refactor/fixes and refinement,5,merged,0,2021-06-16T04:18:00Z,1,1,2021-06-16,04:18:00
+525,Sundar Shahi,krispcall-client,"Resolve KS-1473 ""Feature/purchase credit/""",7,merged,0,2021-06-15T09:21:28Z,1,1,2021-06-15,09:21:28
+526,Tashi Lama,krispcall-client,refine refactor dnd for client,1,merged,0,2021-06-15T07:25:09Z,1,1,2021-06-15,07:25:09
+527,Sundar Shahi,krispcall-client,Develop,287,merged,0,2021-06-15T04:47:05Z,0,1,2021-06-15,04:47:05
+528,Ritesh  Sainju,krispcall-client,"Resolve KS-1241 ""Feature/desktop notification/""",9,merged,0,2021-06-14T07:54:57Z,0,1,2021-06-14,07:54:57
+529,Sundar Shahi,krispcall-client,Hotfix/bugs,4,merged,0,2021-06-14T07:00:48Z,1,1,2021-06-14,07:00:48
+530,Tashi Lama,krispcall-client,"Resolve KS-1420 ""Task/update number sharing/""",4,merged,2,2021-06-14T07:48:07Z,1,1,2021-06-14,07:48:07
+531,Tashi Lama,krispcall-client,"Resolve KS-1457 ""Task/ui chat filter/""",3,merged,0,2021-06-14T03:18:26Z,1,1,2021-06-14,03:18:26
+532,Pravesh Chapagain,krispcall-client,Qa merge request,1,merged,0,2021-06-11T07:14:34Z,0,1,2021-06-11,07:14:34
+533,Sundar Shahi,krispcall-client,Feature/change plan and fetch billing info,5,merged,0,2021-06-11T07:10:21Z,1,1,2021-06-11,07:10:21
+534,Pravesh Chapagain,krispcall-client,Testing qa pipeline,15,merged,0,2021-06-11T05:50:04Z,0,1,2021-06-11,05:50:04
+535,Ritesh  Sainju,krispcall-client,Staging,10,merged,0,2021-06-11T04:38:04Z,0,1,2021-06-11,04:38:04
+536,Ritesh  Sainju,krispcall-client,Develop,9,merged,0,2021-06-11T04:37:00Z,0,1,2021-06-11,04:37:00
+537,Sundar Shahi,krispcall-client,Feature/notification auto recharge in billing,4,merged,0,2021-06-11T04:44:07Z,1,1,2021-06-11,04:44:07
+538,Ritesh  Sainju,krispcall-client,Feature/member to member chat,11,merged,0,2021-06-11T04:04:16Z,1,1,2021-06-11,04:04:16
+539,Pravesh Chapagain,krispcall-client,Merge request test,1,merged,0,2021-06-10T12:44:17Z,0,1,2021-06-10,12:44:17
+540,Sundar Shahi,krispcall-client,Bug/fixes,4,merged,0,2021-06-10T09:15:46Z,1,1,2021-06-10,09:15:46
+541,Sundar Shahi,krispcall-client,"Resolve KS-191 ""Feature/delete workspace/""",8,merged,0,2021-06-10T08:30:27Z,1,1,2021-06-10,08:30:27
+542,Ritesh  Sainju,krispcall-client,Staging,3,merged,0,2021-06-10T05:14:31Z,0,1,2021-06-10,05:14:31
+543,Ritesh  Sainju,krispcall-client,Develop,2,merged,0,2021-06-10T05:12:59Z,0,1,2021-06-10,05:12:59
+544,Sundar Shahi,krispcall-client,Feature/billing overview,4,merged,0,2021-06-10T05:10:32Z,1,1,2021-06-10,05:10:32
+545,Ritesh  Sainju,krispcall-client,Develop,22,merged,0,2021-06-09T08:00:30Z,0,1,2021-06-09,08:00:30
+546,Tashi Lama,krispcall-client,"disable calling others if widget is still on, refine disabled styles",1,merged,0,2021-06-09T07:58:19Z,1,1,2021-06-09,07:58:19
+547,Tashi Lama,krispcall-client,fix multiple contacts selection overflow on pagination,1,merged,0,2021-06-09T05:01:53Z,1,1,2021-06-09,05:01:53
+548,Ritesh  Sainju,krispcall-client,Task/handle unknown contact agents,11,merged,0,2021-06-09T05:08:01Z,1,1,2021-06-09,05:08:01
+549,Tashi Lama,krispcall-client,"Resolve KS-1389 ""Task/ui refining contactlist/""",1,merged,0,2021-06-09T03:01:38Z,1,1,2021-06-09,03:01:38
+550,Sundar Shahi,krispcall-client,"Resolve KRISP-1390 ""Feature/search agents from api in share access/""",2,merged,0,2021-06-09T03:46:44Z,1,1,2021-06-09,03:46:44
+551,Tashi Lama,krispcall-client,"fix name display logic, design issues",1,merged,0,2021-06-08T08:44:30Z,1,1,2021-06-08,08:44:30
+552,Tashi Lama,krispcall-client,refine reply with text,1,merged,0,2021-06-08T08:44:43Z,1,1,2021-06-08,08:44:43
+553,Tashi Lama,krispcall-client,"Resolve KS-1381 ""Refactor/chat number sharing/""",3,merged,0,2021-06-08T01:02:10Z,1,1,2021-06-08,01:02:10
+554,Sundar Shahi,krispcall-client,refactor shared access and number settings,2,merged,0,2021-06-08T02:48:49Z,1,1,2021-06-08,02:48:49
+555,Ritesh  Sainju,krispcall-client,Develop,22,merged,0,2021-06-07T09:08:22Z,0,1,2021-06-07,09:08:22
+556,Tashi Lama,krispcall-client,"Resolve KS-1310 ""Task/ui number sharing agents/""",3,merged,0,2021-06-08T02:50:07Z,1,1,2021-06-08,02:50:07
+557,Sundar Shahi,krispcall-client,fix codegen generate,1,merged,0,2021-06-07T07:31:22Z,1,1,2021-06-07,07:31:22
+558,Abin Khatiwada,krispcall-client,Feature/access management,9,merged,6,2021-06-07T08:03:43Z,0,1,2021-06-07,08:03:43
+559,Ritesh  Sainju,krispcall-client,"Resolve KS-1308 ""Feature/reply text call widget/""",5,merged,0,2021-06-07T01:43:41Z,1,1,2021-06-07,01:43:41
+560,Tashi Lama,krispcall-client,"Resolve KS-1366 ""Refactor/csv import/""",2,merged,0,2021-06-04T05:53:43Z,1,1,2021-06-04,05:53:43
+561,Sundar Shahi,krispcall-client,fix: [BUG] restricted to create empty tag shown error toast,1,merged,0,2021-06-04T06:20:13Z,1,1,2021-06-04,06:20:13
+562,Tashi Lama,krispcall-client,hide Incoming call strategy for Member's view,1,merged,0,2021-06-04T05:52:34Z,1,1,2021-06-04,05:52:34
+563,Tashi Lama,krispcall-client,fix flickering issue in widget,1,merged,0,2021-06-04T05:52:00Z,1,1,2021-06-04,05:52:00
+564,Ritesh  Sainju,krispcall-client,Develop,4,merged,0,2021-06-04T03:20:08Z,0,1,2021-06-04,03:20:08
+565,Sundar Shahi,krispcall-client,fetched card bran from api,1,merged,0,2021-06-04T03:19:17Z,1,1,2021-06-04,03:19:17
+566,Ritesh  Sainju,krispcall-client,Changes made for Number sharing,3,merged,0,2021-06-04T03:11:43Z,1,1,2021-06-04,03:11:43
+567,Ritesh  Sainju,krispcall-client,Merge Develop to Staging,20,merged,0,2021-06-04T01:45:57Z,0,1,2021-06-04,01:45:57
+568,Ritesh  Sainju,krispcall-client,"Resolve KS-1307 ""Task/import csv contact integration/""",2,merged,0,2021-06-03T08:09:52Z,1,1,2021-06-03,08:09:52
+569,Tashi Lama,krispcall-client,"Resolve KS-1350 ""Task/ui settings refine refactor/""",9,merged,0,2021-06-03T08:40:06Z,1,1,2021-06-03,08:40:06
+570,Sundar Shahi,krispcall-client,Feature/setup stripe sdk and Payment flow,15,merged,0,2021-06-03T07:25:24Z,1,1,2021-06-03,07:25:24
+571,Tashi Lama,krispcall-client,"Resolve KS-1343 ""Task/new ui billings/""",4,merged,0,2021-06-03T04:52:49Z,1,1,2021-06-03,04:52:49
+572,Sundar Shahi,krispcall-client,Feature/fetch plans from api,2,merged,0,2021-06-03T06:46:20Z,1,1,2021-06-03,06:46:20
+573,Tashi Lama,krispcall-client,"Resolve KS-1342 ""Task/ui auto reply settings/""",2,merged,0,2021-06-03T01:41:57Z,1,1,2021-06-03,01:41:57
+574,Ritesh  Sainju,krispcall-client,merge Develop in staging,26,merged,0,2021-06-02T06:16:06Z,0,1,2021-06-02,06:16:06
+575,Ritesh  Sainju,krispcall-client,Task/handle case for international calls,5,merged,0,2021-06-02T05:54:25Z,1,1,2021-06-02,05:54:25
+576,Sundar Shahi,krispcall-client,Bugs/hot fixes,2,merged,0,2021-06-02T05:51:30Z,1,1,2021-06-02,05:51:30
+577,Abin Khatiwada,krispcall-client,Feature/authorization,17,merged,0,2021-06-02T05:32:40Z,1,1,2021-06-02,05:32:40
+578,Tashi Lama,krispcall-client,new ui implementation csv,1,merged,0,2021-06-02T04:02:11Z,1,1,2021-06-02,04:02:11
+579,Abin Khatiwada,krispcall-client,Feature/access management,2,merged,0,2021-06-01T09:39:47Z,0,1,2021-06-01,09:39:47
+580,Tashi Lama,krispcall-client,"Resolve KS-1326 ""Task/refine contact detail pp/""",2,merged,0,2021-06-01T09:00:31Z,1,1,2021-06-01,09:00:31
+581,Ritesh  Sainju,krispcall-client,merge develop code in staging,42,merged,0,2021-06-01T07:41:16Z,0,1,2021-06-01,07:41:16
+582,Abin Khatiwada,krispcall-client,Feature/access management,6,merged,0,2021-06-01T07:38:43Z,1,1,2021-06-01,07:38:43
+583,Ritesh  Sainju,krispcall-client,Task/call recording fixes,3,merged,0,2021-06-01T07:37:30Z,1,1,2021-06-01,07:37:30
+584,Tashi Lama,krispcall-client,update sideworkspacebar with member view,1,merged,0,2021-06-01T09:17:57Z,1,1,2021-06-01,09:17:57
+585,Abin Khatiwada,krispcall-client,Feature/access management,3,merged,0,2021-06-01T07:32:21Z,1,1,2021-06-01,07:32:21
+586,Tashi Lama,krispcall-client,Hotfix/make default auth admin,1,merged,0,2021-06-01T06:37:24Z,1,1,2021-06-01,06:37:24
+587,Tashi Lama,krispcall-client,"Resolve KS-1311 ""Task/ui rbac/ 1306""",2,merged,0,2021-06-01T05:42:48Z,1,1,2021-06-01,05:42:48
+588,Ritesh  Sainju,krispcall-client,Task/disable transferbtn for transferred call,2,merged,0,2021-06-01T03:56:34Z,1,1,2021-06-01,03:56:34
+589,Tashi Lama,krispcall-client,"Resolve KS-1212 ""Task/ui rbac billings/""",6,merged,0,2021-06-01T05:31:02Z,1,1,2021-06-01,05:31:02
+590,Sundar Shahi,krispcall-client,Bugs/fixes and refactor,6,merged,0,2021-05-31T10:08:54Z,1,1,2021-05-31,10:08:54
+591,Abin Khatiwada,krispcall-client,Access manamgnet issue on workplace create privilege fixed,1,merged,0,2021-05-31T08:33:01Z,1,1,2021-05-31,08:33:01
+592,Tashi Lama,krispcall-client,"Resolve KS-1283 ""Task/ui rbac workplace pp update/""",7,merged,0,2021-05-31T07:56:43Z,1,1,2021-05-31,07:56:43
+593,Abin Khatiwada,krispcall-client,Feature/access management,7,merged,0,2021-05-31T07:44:36Z,1,1,2021-05-31,07:44:36
+594,Tashi Lama,krispcall-client,Member's view settings/team ui,4,merged,0,2021-05-31T07:56:43Z,1,1,2021-05-31,07:56:43
+595,Sundar Shahi,krispcall-client,"Resolve KS-1234 ""Feature/member search/""",5,merged,0,2021-05-31T08:36:42Z,1,1,2021-05-31,08:36:42
+596,Ritesh  Sainju,krispcall-client,default private option  selection for add contact,1,merged,0,2021-05-31T06:01:24Z,1,1,2021-05-31,06:01:24
+597,Sundar Shahi,krispcall-client,feat: contact profile upload fron detail page,1,merged,0,2021-05-31T05:10:05Z,1,1,2021-05-31,05:10:05
+598,Tashi Lama,krispcall-client,"Resolve KS-1210 ""Task/ui rbac numbers/""",2,merged,0,2021-05-31T03:13:40Z,1,1,2021-05-31,03:13:40
+599,Ritesh  Sainju,krispcall-client,show transferedAudio in callbox,2,merged,0,2021-05-28T16:44:56Z,1,1,2021-05-28,16:44:56
+600,Ritesh  Sainju,krispcall-client,"Resolve KS-1215 ""Bug/respective workspacedata not showing/""",4,merged,0,2021-05-28T06:40:19Z,1,1,2021-05-28,06:40:19
+601,Sundar Shahi,krispcall-client,fixed updating cache even in error,1,merged,0,2021-05-28T06:35:24Z,1,1,2021-05-28,06:35:24
+602,Tashi Lama,krispcall-client,update workplace ui for member's view,1,merged,0,2021-05-28T06:30:45Z,1,1,2021-05-28,06:30:45
+603,Tashi Lama,krispcall-client,"Resolve KS-1207 ""Task/ui rbac/"" screen: settings/member",2,merged,0,2021-05-28T02:57:59Z,1,1,2021-05-28,02:57:59
+604,Tashi Lama,krispcall-client,"Resolve KS-1196 ""Task/ui refining call states/""",2,merged,0,2021-05-27T09:13:11Z,0,1,2021-05-27,09:13:11
+605,Sundar Shahi,krispcall-client,fixed showing wrong flag,1,merged,0,2021-05-27T08:49:51Z,1,1,2021-05-27,08:49:51
+606,Tashi Lama,krispcall-client,"Resolve KS-1184 ""Task/ui animated wave/""",3,merged,0,2021-05-27T07:19:31Z,0,1,2021-05-27,07:19:31
+607,Ritesh  Sainju,krispcall-client,show call duration in feedback screen for incoming and outgoing calls,1,merged,0,2021-05-27T07:21:08Z,1,1,2021-05-27,07:21:08
+608,Ritesh  Sainju,krispcall-client,Phone widget new design,91,merged,0,2021-05-27T04:07:52Z,0,1,2021-05-27,04:07:52
+609,Ritesh  Sainju,krispcall-client,Develop,4,merged,0,2021-05-27T03:55:19Z,0,1,2021-05-27,03:55:19
+610,Ritesh  Sainju,krispcall-client,Call Transfer feature for incoming calls,13,merged,0,2021-05-27T03:17:27Z,1,1,2021-05-27,03:17:27
+611,Tashi Lama,krispcall-client,refactor: separate styles according to screens,2,merged,0,2021-05-27T01:57:58Z,1,1,2021-05-27,01:57:58
+612,Sundar Shahi,krispcall-client,"Resolve KS-1089 ""Feature/contacts forward backward pagination/""",4,merged,0,2021-05-27T03:14:16Z,1,1,2021-05-27,03:14:16
+613,Tashi Lama,krispcall-client,"KS-1174 ""Task/refine refactor feedback screen/""",2,merged,0,2021-05-26T09:23:44Z,1,1,2021-05-26,09:23:44
+614,Tashi Lama,krispcall-client,update call transfer list height for incoming/outgoing,1,merged,0,2021-05-26T09:22:53Z,1,1,2021-05-26,09:22:53
+615,Tashi Lama,krispcall-client,"display widget settings, fix line-height in settings dropdown",1,merged,0,2021-05-26T09:22:09Z,1,1,2021-05-26,09:22:09
+616,Tashi Lama,krispcall-client,add spacings in scrollbar,1,merged,0,2021-05-26T03:36:15Z,1,1,2021-05-26,03:36:15
+617,Tashi Lama,krispcall-client,inspect & refine spacings in widget body ( Call in progress  screen),1,merged,0,2021-05-25T09:54:21Z,1,1,2021-05-25,09:54:21
+618,Ritesh  Sainju,krispcall-client,Show channel info in phone widget topbar(incoming and outgoing calls),3,merged,0,2021-05-25T14:08:22Z,1,1,2021-05-25,14:08:22
+619,Tashi Lama,krispcall-client,"KS-1154 ""Task/refine refactor widget incoming outgoing except call in progress/""",3,merged,0,2021-05-25T08:02:59Z,1,1,2021-05-25,08:02:59
+620,Tashi Lama,krispcall-client,fix call end btn flickering issue,1,merged,0,2021-05-25T06:00:37Z,1,1,2021-05-25,06:00:37
+621,Tashi Lama,krispcall-client,"fix svg issue, show call transfer ui in incoming call",2,merged,0,2021-05-25T02:56:11Z,1,1,2021-05-25,02:56:11
+622,Tashi Lama,krispcall-client,refine end call screen,6,merged,0,2021-05-25T02:21:49Z,1,1,2021-05-25,02:21:49
+623,Sundar Shahi,krispcall-client,Task/contatc logs from contact,2,merged,0,2021-05-26T01:14:28Z,1,1,2021-05-26,01:14:28
+624,Ritesh  Sainju,krispcall-client,Call ended screen after the call disconnected,1,merged,0,2021-05-24T06:39:56Z,1,1,2021-05-24,06:39:56
+625,Tashi Lama,krispcall-client,"Update KS-1035 ""Task/call transfer ui/""",4,merged,0,2021-05-24T07:25:42Z,1,1,2021-05-24,07:25:42
+626,Ritesh  Sainju,krispcall-client,"Resolve KS-1059 ""Task/timer for call recording widget/""",4,merged,0,2021-05-21T08:19:03Z,1,1,2021-05-21,08:19:03
+627,Sundar Shahi,krispcall-client,single action handler for call and message action in contact,1,merged,0,2021-05-21T08:03:13Z,1,1,2021-05-21,08:03:13
+628,Sundar Shahi,krispcall-client,remove add button from call end screen,1,merged,0,2021-05-21T04:03:45Z,1,1,2021-05-21,04:03:45
+629,Tashi Lama,krispcall-client,Refactor/widget call,7,merged,0,2021-05-21T03:22:15Z,1,1,2021-05-21,03:22:15
+630,Ritesh  Sainju,krispcall-client,edit note in  incoming outgoing widget,2,merged,0,2021-05-21T01:46:36Z,1,1,2021-05-21,01:46:36
+631,Sundar Shahi,krispcall-client,add tag and update contact from incomming and outgoing,2,merged,1,2021-05-20T09:49:01Z,1,1,2021-05-20,09:49:01
+632,Ritesh  Sainju,krispcall-client,Add notes in incoming call widget with editable field in end call screen,3,merged,0,2021-05-20T08:22:48Z,1,1,2021-05-20,08:22:48
+633,Sundar Shahi,krispcall-client,Refactor/widget tag,2,merged,0,2021-05-20T06:39:39Z,1,1,2021-05-20,06:39:39
+634,Tashi Lama,krispcall-client,"refactor Call in Progress, ui fixes",4,merged,0,2021-05-20T05:53:53Z,1,1,2021-05-20,05:53:53
+635,Ritesh  Sainju,krispcall-client,Show added notes outgoing call widget,2,merged,0,2021-05-20T05:50:38Z,1,1,2021-05-20,05:50:38
+636,Ritesh  Sainju,krispcall-client,Add notes outgoing call,7,merged,0,2021-05-20T03:56:24Z,1,1,2021-05-20,03:56:24
+637,Ritesh  Sainju,krispcall-client,Update branch,6,merged,0,2021-05-20T02:36:35Z,0,1,2021-05-20,02:36:35
+638,Tashi Lama,krispcall-client,make separate screens from callinprogress,3,merged,3,2021-05-20T02:13:58Z,1,1,2021-05-20,02:13:58
+639,Sundar Shahi,krispcall-client,Refactor/add contact and fixes,4,merged,0,2021-05-20T02:00:11Z,1,1,2021-05-20,02:00:11
+640,Tashi Lama,krispcall-client,Task/refactor widget outgoing,2,merged,0,2021-05-19T07:26:55Z,1,1,2021-05-19,07:26:55
+641,Tashi Lama,krispcall-client,"KS-994 ""Task/redesign incoming widget/""",3,merged,0,2021-05-19T06:18:36Z,1,1,2021-05-19,06:18:36
+642,Sundar Shahi,krispcall-client,Refactor/chatbox  anad logs (Seprated query and UI ),3,merged,0,2021-05-18T08:33:02Z,1,1,2021-05-18,08:33:02
+643,Ritesh  Sainju,krispcall-client,Task/refactor outgoing widget redesign,3,merged,0,2021-05-18T08:38:27Z,1,1,2021-05-18,08:38:27
+644,Ritesh  Sainju,krispcall-client,Incoming call Recording,4,merged,0,2021-05-18T06:07:52Z,1,1,2021-05-18,06:07:52
+645,Sundar Shahi,krispcall-client,"Resolve KS-906 ""Task/image upload team/""",5,merged,0,2021-05-18T01:15:17Z,1,1,2021-05-18,01:15:17
+646,Sundar Shahi,krispcall-client,feat: current user mark in sidebar member,1,merged,0,2021-05-18T01:13:23Z,1,1,2021-05-18,01:13:23
+647,Sundar Shahi,krispcall-client,separate my number columns,1,merged,0,2021-05-14T08:24:58Z,1,1,2021-05-14,08:24:58
+648,Tushant Khatiwada,krispcall-client,Refactor/contact detail,2,merged,0,2021-05-14T07:21:32Z,1,1,2021-05-14,07:21:32
+649,Sundar Shahi,krispcall-client,Refactor/add number to cart,2,merged,0,2021-05-14T07:05:35Z,1,1,2021-05-14,07:05:35
+650,Sundar Shahi,krispcall-client,change route of number/add to buy,1,merged,0,2021-05-14T05:16:59Z,1,1,2021-05-14,05:16:59
+651,Tushant Khatiwada,krispcall-client,used hooks for graphql operation and local states,1,merged,0,2021-05-14T04:09:42Z,1,1,2021-05-14,04:09:42
+652,Sundar Shahi,krispcall-client,refactor: fetched pinned message of channel without depending on contact,2,merged,0,2021-05-14T04:03:21Z,1,1,2021-05-14,04:03:21
+653,Sundar Shahi,krispcall-client,hot fix new conatct removed use of history state,1,merged,0,2021-05-14T00:33:01Z,1,1,2021-05-14,00:33:01
+654,Tushant Khatiwada,krispcall-client,removed use of history state for new contact logs,5,merged,0,2021-05-13T08:50:04Z,1,1,2021-05-13,08:50:04
+655,Sundar Shahi,krispcall-client,Feature/pin unpin contact log,9,merged,0,2021-05-13T09:15:13Z,1,1,2021-05-13,09:15:13
+656,Ritesh  Sainju,krispcall-client,record outgoing calls,4,merged,0,2021-05-13T05:54:02Z,1,1,2021-05-13,05:54:02
+657,Sundar Shahi,krispcall-client,pin contact ui,0,closed,1,,1,1,,
+658,Tushant Khatiwada,krispcall-client,changed with expected no contact ui,3,merged,0,2021-05-12T07:22:41Z,1,1,2021-05-12,07:22:41
+659,Tushant Khatiwada,krispcall-client,Task/show new contact message logs,3,merged,1,2021-05-12T06:10:28Z,1,1,2021-05-12,06:10:28
+660,Sundar Shahi,krispcall-client,sepration ofmutation and form in password reset-forgot,1,merged,0,2021-05-13T00:43:48Z,1,1,2021-05-13,00:43:48
+661,Ritesh  Sainju,krispcall-client,voicemail integration in chatbox,1,merged,0,2021-05-12T05:10:04Z,0,1,2021-05-12,05:10:04
+662,Sundar Shahi,krispcall-client,Bug/team member delete,6,merged,0,2021-05-12T04:59:39Z,1,1,2021-05-12,04:59:39
+663,Sundar Shahi,krispcall-client,Bug/quick fixes,2,merged,0,2021-05-12T05:09:03Z,1,1,2021-05-12,05:09:03
+664,Sundar Shahi,krispcall-client,Bug/team member delete,4,merged,0,2021-05-12T03:05:37Z,1,1,2021-05-12,03:05:37
+665,Sundar Shahi,krispcall-client,Bug/sidebar,6,merged,0,2021-05-11T06:11:18Z,1,1,2021-05-11,06:11:18
+666,Tushant Khatiwada,krispcall-client,contact detail is shown on refresh,5,merged,0,2021-05-12T02:04:38Z,1,1,2021-05-12,02:04:38
+667,Sundar Shahi,krispcall-client,refactor:seprate mutation and UI logic in member,1,merged,0,2021-05-11T05:26:32Z,1,1,2021-05-11,05:26:32
+668,Sundar Shahi,krispcall-client,Bug/ks 1002,4,merged,1,2021-05-12T02:01:05Z,1,1,2021-05-12,02:01:05
+669,Tashi Lama,krispcall-client,Task/redesign dialer/ks 996,2,merged,0,2021-05-10T08:40:40Z,0,1,2021-05-10,08:40:40
+670,Sundar Shahi,krispcall-client,Bug/ks 982 and refactor schema,9,merged,0,2021-05-10T07:22:33Z,1,1,2021-05-10,07:22:33
+671,Ritesh  Sainju,krispcall-client,fixed call type icon in contact logs based on cal direction and status,1,merged,0,2021-05-10T05:45:50Z,1,1,2021-05-10,05:45:50
+672,Sundar Shahi,krispcall-client,Bug/input field text color/ks 967,4,merged,0,2021-05-07T09:08:35Z,0,1,2021-05-07,09:08:35
+673,Tashi Lama,krispcall-client,Task/ui fixes/ks,5,merged,0,2021-05-10T00:56:42Z,1,1,2021-05-10,00:56:42
+674,Ritesh  Sainju,krispcall-client,Remove agent name in call status,1,merged,0,2021-05-07T03:55:59Z,0,1,2021-05-07,03:55:59
+675,Sundar Shahi Thakuri,krispcall-client,fix not able to add member in team,1,merged,0,2021-05-07T03:10:35Z,0,1,2021-05-07,03:10:35
+676,Ritesh  Sainju,krispcall-client,Refactor/separate UI api pinmessage,4,merged,0,2021-05-07T03:56:43Z,0,1,2021-05-07,03:56:43
+677,Sundar Shahi Thakuri,krispcall-client,Refactor/team,4,merged,0,2021-05-07T00:59:02Z,0,1,2021-05-07,00:59:02
+678,Narendra Giri,krispcall-client,Task/test refine refactor UI,7,merged,0,2021-05-07T03:31:58Z,0,1,2021-05-07,03:31:58
+679,Tushant Khatiwada,krispcall-client,migrated to hook-form v7 ,10,merged,0,2021-05-06T09:59:51Z,0,1,2021-05-06,09:59:51
+680,Ritesh  Sainju,krispcall-client,separate mutation api logic for send sms,1,merged,0,2021-05-06T08:39:50Z,0,1,2021-05-06,08:39:50
+681,Ritesh  Sainju,krispcall-client,Refactor/separate UI api chatbox messages,3,merged,0,2021-05-06T07:51:48Z,0,1,2021-05-06,07:51:48
+682,Sundar Shahi Thakuri,krispcall-client,seprate api logic and UI,3,merged,0,2021-05-06T06:15:42Z,0,1,2021-05-06,06:15:42
+683,Sundar Shahi Thakuri,krispcall-client,Bug/disallow space as first char,2,merged,0,2021-05-06T04:42:05Z,0,1,2021-05-06,04:42:05
+684,Ritesh  Sainju,krispcall-client,Refactor/chatbox message component,2,merged,0,2021-05-06T04:13:30Z,0,1,2021-05-06,04:13:30
+685,Tushant Khatiwada,krispcall-client,Task/contact logs refactor,5,merged,0,2021-05-06T03:00:18Z,0,1,2021-05-06,03:00:18
+686,Tushant Khatiwada,krispcall-client,Task/websocket authentication,3,merged,0,2021-05-05T09:47:22Z,0,1,2021-05-05,09:47:22
+687,Sundar Shahi Thakuri,krispcall-client,refactor workspace member delete,1,merged,0,2021-05-05T09:07:27Z,0,1,2021-05-05,09:07:27
+688,Sundar Shahi Thakuri,krispcall-client,Refactor/seprate api and UI logic,2,merged,0,2021-05-05T06:14:22Z,0,1,2021-05-05,06:14:22
+689,Sundar Shahi Thakuri,krispcall-client,debounce workspace switch and break ui and logic,1,merged,0,2021-05-05T02:30:48Z,0,1,2021-05-05,02:30:48
+690,Narendra Giri,krispcall-client,Task/UI fixing,8,merged,0,2021-05-05T09:32:53Z,0,1,2021-05-05,09:32:53
+691,Sundar Shahi Thakuri,krispcall-client,bug[FIX]:remove contact row selection after action,1,merged,0,2021-05-04T09:49:17Z,0,1,2021-05-04,09:49:17
+692,Ritesh  Sainju,krispcall-client,Chatbox show msg delivered,2,merged,0,2021-05-04T06:54:55Z,0,1,2021-05-04,06:54:55
+693,Sundar Shahi Thakuri,krispcall-client,Bug/fix not showing member profilePicture in sidebar,2,merged,0,2021-05-04T05:47:48Z,0,1,2021-05-04,05:47:48
+694,Sundar Shahi Thakuri,krispcall-client,Refactor/channel dnd,4,merged,0,2021-05-04T05:43:10Z,0,1,2021-05-04,05:43:10
+695,Narendra Giri,krispcall-client,Task/UI fix table filter dropdown,3,merged,0,2021-05-03T14:33:22Z,0,1,2021-05-03,14:33:22
+696,Ritesh  Sainju,krispcall-client,hide loggedin user from members list of sidebar,1,merged,0,2021-05-03T08:26:45Z,0,1,2021-05-03,08:26:45
+697,Sundar Shahi Thakuri,krispcall-client,Task/checkout numbers,3,merged,0,2021-05-03T06:38:37Z,0,1,2021-05-03,06:38:37
+698,Ritesh  Sainju,krispcall-client,Bugfixes/workspace detail sidebar,3,merged,0,2021-05-03T06:31:27Z,0,1,2021-05-03,06:31:27
+699,Narendra Giri,krispcall-client,Bug/share access edit fix/ks 905,4,merged,0,2021-04-30T09:50:56Z,0,1,2021-04-30,09:50:56
+700,Sundar Shahi Thakuri,krispcall-client,Refactor/cache modify evict gc,7,merged,0,2021-04-30T08:09:27Z,0,1,2021-04-30,08:09:27
+701,Tushant Khatiwada,krispcall-client,Bug/ks 903/profile image,6,merged,0,2021-04-29T09:16:17Z,0,1,2021-04-29,09:16:17
+702,Narendra Giri,krispcall-client,"update query for members, ui functionality, check icon",1,merged,0,2021-04-29T09:18:11Z,0,1,2021-04-29,09:18:11
+703,Ritesh  Sainju,krispcall-client,Task/update call duration callstatus chatbox,7,merged,0,2021-04-29T06:54:42Z,0,1,2021-04-29,06:54:42
+704,Sundar Shahi Thakuri,krispcall-client,Task/list  item in cart and remove item from cart,10,merged,0,2021-04-29T09:19:11Z,0,1,2021-04-29,09:19:11
+705,Narendra Giri,krispcall-client,Task/UI fixes/ks 935,3,merged,0,2021-04-29T03:23:14Z,0,1,2021-04-29,03:23:14
+706,Sundar Shahi Thakuri,krispcall-client,refactor: twilliow provider only in private route,1,merged,0,2021-04-29T01:04:16Z,0,1,2021-04-29,01:04:16
+707,Sundar Shahi Thakuri,krispcall-client,refactor: remove useLoading and fix undefined error,1,merged,0,2021-04-28T06:27:38Z,0,1,2021-04-28,06:27:38
+708,Tushant Khatiwada,krispcall-client,Task/update contact logs tab,12,merged,0,2021-04-28T07:55:55Z,0,1,2021-04-28,07:55:55
+709,Sundar Shahi Thakuri,krispcall-client,Bug/wrong delete pop,2,merged,0,2021-04-28T02:09:14Z,0,1,2021-04-28,02:09:14
+710,Narendra Giri,krispcall-client,Task/UI fixes and refactor,8,merged,0,2021-04-28T01:13:13Z,0,1,2021-04-28,01:13:13
+711,Ritesh  Sainju,krispcall-client,Hotfix/show call icon sms in contactlogs,2,merged,0,2021-04-27T09:55:20Z,0,1,2021-04-27,09:55:20
+712,Ritesh  Sainju,krispcall-client,show icons for incoming outgoing and show partial sms text in recent conversation,1,merged,0,2021-04-27T09:25:50Z,0,1,2021-04-27,09:25:50
+713,Sundar Shahi Thakuri,krispcall-client,Task/add to cart,5,merged,0,2021-04-27T09:12:31Z,0,1,2021-04-27,09:12:31
+714,Ritesh  Sainju,krispcall-client,fixed issue for message flicker in chatbox,1,merged,0,2021-04-27T07:15:27Z,0,1,2021-04-27,07:15:27
+715,Ritesh  Sainju,krispcall-client,show call duration for completed calls,2,merged,0,2021-04-27T02:55:24Z,0,1,2021-04-27,02:55:24
+716,Tushant Khatiwada,krispcall-client,Code refactors,20,merged,0,2021-04-27T02:06:53Z,0,1,2021-04-27,02:06:53
+717,Ritesh  Sainju,krispcall-client,Feature/mute mic phone widget/ks 876,4,merged,0,2021-04-26T08:10:10Z,0,1,2021-04-26,08:10:10
+718,Sundar Shahi Thakuri,krispcall-client,fix console errors,1,merged,0,2021-04-26T07:41:06Z,0,1,2021-04-26,07:41:06
+719,Narendra Giri,krispcall-client,Task/UI fixes/ks 867,4,merged,0,2021-04-26T01:56:17Z,0,1,2021-04-26,01:56:17
+720,Sundar Shahi Thakuri,krispcall-client,console error fixes for duplicate key,3,merged,0,2021-04-23T10:10:46Z,0,1,2021-04-23,10:10:46
+721,Ritesh  Sainju,krispcall-client,Bugfixes/chatbox sendsms,4,merged,0,2021-04-23T08:28:23Z,0,1,2021-04-23,08:28:23
+722,Sundar Shahi Thakuri,krispcall-client,fix: undefined  user during verification,1,merged,0,2021-04-23T05:38:28Z,0,1,2021-04-23,05:38:28
+723,Sundar Shahi Thakuri,krispcall-client,removed unnecessary props passing and memoized styled atom,1,merged,0,2021-04-23T09:15:32Z,0,1,2021-04-23,09:15:32
+724,Narendra Giri,krispcall-client,Task/refine number settings 2/ks 856,5,merged,0,2021-04-23T01:10:20Z,0,1,2021-04-23,01:10:20
+725,Narendra Giri,krispcall-client,fix inbox ui,1,merged,0,2021-04-22T07:53:16Z,0,1,2021-04-22,07:53:16
+726,Sundar Shahi Thakuri,krispcall-client,Refactor/requested change and fixes,4,merged,0,2021-04-22T06:07:40Z,0,1,2021-04-22,06:07:40
+727,Ritesh  Sainju,krispcall-client,Bug/archive add confirmation and update cache/ks 267,4,merged,0,2021-04-22T03:47:53Z,0,1,2021-04-22,03:47:53
+728,Ritesh  Sainju,krispcall-client,Task/call status plan,2,merged,0,2021-04-21T09:02:44Z,0,1,2021-04-21,09:02:44
+729,Tushant Khatiwada,krispcall-client,removed email population on change email form,1,merged,0,2021-04-21T06:22:59Z,0,1,2021-04-21,06:22:59
+730,Sundar Shahi Thakuri,krispcall-client,Task/senty integration,12,merged,0,2021-04-21T04:54:09Z,0,1,2021-04-21,04:54:09
+731,Tushant Khatiwada,krispcall-client,slight issue on reply with message,1,merged,0,2021-04-21T02:55:31Z,0,1,2021-04-21,02:55:31
+732,Narendra Giri,krispcall-client,Task/refine numbers/ks 828,5,merged,0,2021-04-21T02:54:57Z,0,1,2021-04-21,02:54:57
+733,Sundar Shahi Thakuri,krispcall-client,fix not showing team update toast,1,merged,0,2021-04-20T09:17:31Z,0,1,2021-04-20,09:17:31
+734,Sundar Shahi Thakuri,krispcall-client,fix: KS-305 automatic remove team member while adding new,1,merged,0,2021-04-20T07:56:04Z,0,1,2021-04-20,07:56:04
+735,Sundar Shahi Thakuri,krispcall-client,fix unbable to share number,1,merged,0,2021-04-20T07:03:38Z,0,1,2021-04-20,07:03:38
+736,Tushant Khatiwada,krispcall-client,Task/workspace changes default workspace,2,merged,0,2021-04-20T09:30:02Z,0,1,2021-04-20,09:30:02
+737,Sundar Shahi Thakuri,krispcall-client,null value in team member,1,merged,0,2021-04-20T07:57:05Z,0,1,2021-04-20,07:57:05
+738,Tushant Khatiwada,krispcall-client,constants used as CAPITAL,1,merged,0,2021-04-20T02:16:28Z,0,1,2021-04-20,02:16:28
+739,Sundar Shahi Thakuri,krispcall-client,optimize number search,1,merged,0,2021-04-20T00:23:26Z,0,1,2021-04-20,00:23:26
+740,Tushant Khatiwada,krispcall-client,Hotfix and graphql generate,2,merged,0,2021-04-19T09:46:38Z,0,1,2021-04-19,09:46:38
+741,Ritesh  Sainju,krispcall-client,Task/show only completed callstatus/ks 827,3,merged,0,2021-04-19T09:27:38Z,0,1,2021-04-19,09:27:38
+742,Tushant Khatiwada,krispcall-client,show message after sending right away,1,merged,0,2021-04-19T06:39:56Z,0,1,2021-04-19,06:39:56
+743,Tushant Khatiwada,krispcall-client,twilio device refine,9,merged,0,2021-04-19T03:29:38Z,0,1,2021-04-19,03:29:38
+744,Sundar Shahi Thakuri,krispcall-client,[FIX] status not changed after email verification from toast,1,merged,0,2021-04-19T02:18:18Z,0,1,2021-04-19,02:18:18
+745,Narendra Giri,krispcall-client,Task/numbers pending purchase UI/krisp 1385,4,merged,0,2021-04-19T01:20:38Z,0,1,2021-04-19,01:20:38
+746,Sundar Shahi Thakuri,krispcall-client,search number by match,3,merged,0,2021-04-19T01:29:13Z,0,1,2021-04-19,01:29:13
+747,Sundar Shahi Thakuri,krispcall-client,[Number Search ] use functional version of useState to prevent re-render,2,merged,0,2021-04-16T07:22:35Z,0,1,2021-04-16,07:22:35
+748,Sundar Shahi Thakuri,krispcall-client,Task/search number api integration,5,merged,0,2021-04-16T00:48:16Z,0,1,2021-04-16,00:48:16
+749,Narendra Giri,krispcall-client,Task/UI fixes/krisp 1383,3,merged,0,2021-04-16T00:41:05Z,0,1,2021-04-16,00:41:05
+750,Sundar Shahi Thakuri,krispcall-client,schema fixes,1,merged,0,2021-04-15T07:17:09Z,0,1,2021-04-15,07:17:09
+751,Narendra Giri,krispcall-client,Task/UI fixes/krisp 1364,7,merged,0,2021-04-15T07:28:25Z,0,1,2021-04-15,07:28:25
+752,Sundar Shahi Thakuri,krispcall-client,refresh results with refetch,1,merged,0,2021-04-15T05:37:27Z,0,1,2021-04-15,05:37:27
+753,Sundar Shahi Thakuri,krispcall-client,infinite scroll in member list and invited member list,1,merged,0,2021-04-15T05:15:03Z,0,1,2021-04-15,05:15:03
+754,Sundar Shahi Thakuri,krispcall-client,Task/search number,4,merged,0,2021-04-15T04:12:49Z,0,1,2021-04-15,04:12:49
+755,Tushant Khatiwada,krispcall-client,Schema fixes,4,merged,0,2021-04-15T03:42:32Z,0,1,2021-04-15,03:42:32
+756,Sundar Shahi Thakuri,krispcall-client,number cart new UI,1,merged,0,2021-04-15T01:11:14Z,0,1,2021-04-15,01:11:14
+757,Narendra Giri,krispcall-client,Task/refine contacts blocked/krisp 1332,5,merged,0,2021-04-13T06:31:04Z,0,1,2021-04-13,06:31:04
+758,Sundar Shahi Thakuri,krispcall-client,Task/search number new UI,7,merged,0,2021-04-13T05:56:55Z,0,1,2021-04-13,05:56:55
+759,Tushant Khatiwada,krispcall-client,Fixes on conversation,12,merged,0,2021-04-12T08:01:42Z,0,1,2021-04-12,08:01:42
+760,Narendra Giri,krispcall-client,refactor all dropdowns,1,merged,0,2021-04-12T00:50:10Z,0,1,2021-04-12,00:50:10
+761,Sundar Shahi Thakuri,krispcall-client,remove workspaceid,1,merged,0,2021-04-09T09:04:44Z,0,1,2021-04-09,09:04:44
+762,Sundar Shahi Thakuri,krispcall-client,refactor: show correct flag in numbercard dropdown,1,merged,0,2021-04-09T05:01:54Z,0,1,2021-04-09,05:01:54
+763,Sundar Shahi Thakuri,krispcall-client,Refactor/fixes certain edge cases,8,merged,0,2021-04-09T03:30:15Z,0,1,2021-04-09,03:30:15
+764,Narendra Giri,krispcall-client,Task/fixes UI/krisp 1293,3,merged,0,2021-04-09T00:47:46Z,0,1,2021-04-09,00:47:46
+765,Sundar Shahi Thakuri,krispcall-client,api integration,2,merged,0,2021-04-08T08:29:43Z,0,1,2021-04-08,08:29:43
+766,Sundar Shahi Thakuri,krispcall-client,"fix member add, remove and update in team setting",1,merged,0,2021-04-08T08:31:32Z,0,1,2021-04-08,08:31:32
+767,Tushant Khatiwada,krispcall-client,one space removed in classname,1,merged,0,2021-04-08T06:01:20Z,0,1,2021-04-08,06:01:20
+768,Tushant Khatiwada,krispcall-client,removing workspace id once user logs out,2,merged,0,2021-04-08T05:38:45Z,0,1,2021-04-08,05:38:45
+769,Sundar Shahi Thakuri,krispcall-client,cleanup selected row in unmount,1,merged,0,2021-04-08T04:24:16Z,0,1,2021-04-08,04:24:16
+770,Ritesh  Sainju,krispcall-client,exception handling for device offline and no audio device  access,1,merged,0,2021-04-08T04:13:09Z,0,1,2021-04-08,04:13:09
+771,Sundar Shahi Thakuri,krispcall-client,validate number according to country from dialer,1,merged,0,2021-04-07T09:33:05Z,0,1,2021-04-07,09:33:05
+772,Narendra Giri,krispcall-client,Task/refine UI/krisp 1279,8,merged,0,2021-04-07T09:46:48Z,0,1,2021-04-07,09:46:48
+773,Tushant Khatiwada,krispcall-client,avoid number duplication on cart,4,merged,0,2021-04-08T00:57:29Z,0,1,2021-04-08,00:57:29
+774,Ritesh  Sainju,krispcall-client,Feature/badge count numbers/krisp 1280,2,merged,0,2021-04-07T07:43:01Z,0,1,2021-04-07,07:43:01
+775,Sundar Shahi Thakuri,krispcall-client,bugs:[FIX] validate numbers according to country,3,merged,0,2021-04-07T09:02:39Z,0,1,2021-04-07,09:02:39
+776,Sundar Shahi Thakuri,krispcall-client,Task/update billing information,4,merged,0,2021-04-07T04:54:52Z,0,1,2021-04-07,04:54:52
+777,Ritesh  Sainju,krispcall-client,delete contact implementation,1,merged,0,2021-04-07T02:10:01Z,0,1,2021-04-07,02:10:01
+778,Narendra Giri,krispcall-client,Task/UI fixes/krisp 1240,7,merged,0,2021-04-06T09:54:02Z,0,1,2021-04-06,09:54:02
+779,Tushant Khatiwada,krispcall-client,removed empty file,2,merged,0,2021-04-06T09:36:50Z,0,1,2021-04-06,09:36:50
+780,Tushant Khatiwada,krispcall-client,Add remove number from cart,2,merged,0,2021-04-06T09:33:37Z,0,1,2021-04-06,09:33:37
+781,Sundar Shahi Thakuri,krispcall-client,Task/filter blocked contact,3,merged,0,2021-04-07T04:58:06Z,0,1,2021-04-07,04:58:06
+782,Sundar Shahi Thakuri,krispcall-client,Contact block multiple,8,merged,0,2021-04-06T04:30:43Z,0,1,2021-04-06,04:30:43
+783,Tushant Khatiwada,krispcall-client,Task/auto turn off dnd/krisp 1241,7,merged,0,2021-04-06T02:24:37Z,0,1,2021-04-06,02:24:37
+784,Narendra Giri,krispcall-client,Task/refine dnd UI/krisp 1239,2,merged,0,2021-04-05T09:37:44Z,0,1,2021-04-05,09:37:44
+785,Sundar Shahi Thakuri,krispcall-client,block unblock contact new ui,1,merged,0,2021-04-05T09:43:46Z,0,1,2021-04-05,09:43:46
+786,Ritesh  Sainju,krispcall-client,donot allow caller to dail own number,2,merged,0,2021-04-06T03:05:32Z,0,1,2021-04-06,03:05:32
+787,Narendra Giri,krispcall-client,Task/dnd dropdown UI final,3,merged,0,2021-04-05T03:46:11Z,0,1,2021-04-05,03:46:11
+788,Sundar Shahi Thakuri,krispcall-client,fix <=9,1,merged,0,2021-04-02T08:34:25Z,0,1,2021-04-02,08:34:25
+789,Ritesh  Sainju,krispcall-client,Refactor/code cleanup,3,merged,0,2021-04-02T08:35:20Z,0,1,2021-04-02,08:35:20
+790,Sundar Shahi Thakuri,krispcall-client,Task/prepend zero utils,2,merged,0,2021-04-02T08:27:40Z,0,1,2021-04-02,08:27:40
+791,Tushant Khatiwada,krispcall-client,pause notification end time,4,merged,0,2021-04-02T07:41:07Z,0,1,2021-04-02,07:41:07
+792,Ritesh  Sainju,krispcall-client,Hotfixes/april 2,2,merged,0,2021-04-02T07:15:11Z,0,1,2021-04-02,07:15:11
+793,Sundar Shahi Thakuri,krispcall-client,Refactor/sticky contat details page,2,merged,0,2021-04-02T07:02:07Z,0,1,2021-04-02,07:02:07
+794,Sundar Shahi Thakuri,krispcall-client,Refactor/fixes,2,merged,0,2021-04-02T04:31:12Z,0,1,2021-04-02,04:31:12
+795,Sundar Shahi Thakuri,krispcall-client,removed emoji container from number setting,1,merged,0,2021-04-02T03:56:23Z,0,1,2021-04-02,03:56:23
+796,Tushant Khatiwada,krispcall-client,Feature/channel dnd turn off/krisp 539,2,merged,0,2021-04-02T03:22:06Z,0,1,2021-04-02,03:22:06
+797,Narendra Giri,krispcall-client,Fix/inbox UI/krisp 1209,6,merged,0,2021-04-02T03:47:48Z,0,1,2021-04-02,03:47:48
+798,Sundar Shahi Thakuri,krispcall-client,Task/disable message input,2,merged,0,2021-04-02T02:58:05Z,0,1,2021-04-02,02:58:05
+799,Tushant Khatiwada,krispcall-client,Task/contacts filter from tags/krisp 1223,2,merged,0,2021-04-02T01:12:45Z,0,1,2021-04-02,01:12:45
+800,Ritesh  Sainju,krispcall-client,Hotfix/dialer input form fixes,2,merged,0,2021-04-01T09:59:28Z,0,1,2021-04-01,09:59:28
+801,Narendra Giri,krispcall-client,add do not disturb dropdown rough ui,1,merged,0,2021-04-02T00:20:41Z,0,1,2021-04-02,00:20:41
+802,Tushant Khatiwada,krispcall-client,contacts filter from tags,4,merged,0,2021-04-01T09:14:59Z,0,1,2021-04-01,09:14:59
+803,Sundar Shahi Thakuri,krispcall-client,fix translation key,2,merged,0,2021-04-01T08:24:16Z,0,1,2021-04-01,08:24:16
+804,Sundar Shahi Thakuri,krispcall-client,Feature/block contact/krisp 544,2,merged,0,2021-04-01T07:18:51Z,0,1,2021-04-01,07:18:51
+805,Ritesh  Sainju,krispcall-client,Refactor/phone call widget,3,merged,0,2021-04-01T08:39:44Z,0,1,2021-04-01,08:39:44
+806,Tushant Khatiwada,krispcall-client,Channel dnd - more work is left yet,4,merged,0,2021-04-01T03:45:40Z,0,1,2021-04-01,03:45:40
+807,Narendra Giri,krispcall-client,Add pop up on contact csv import,4,merged,1,2021-04-01T06:02:11Z,0,1,2021-04-01,06:02:11
+808,Sundar Shahi Thakuri,krispcall-client,fix tag color and profilePicture not showing in contact list,1,merged,0,2021-03-31T09:29:58Z,0,1,2021-03-31,09:29:58
+809,Sundar Shahi Thakuri,krispcall-client,refactor: forced render pannel to stop internal lazyLoading,1,merged,0,2021-03-31T07:10:40Z,0,1,2021-03-31,07:10:40
+810,Narendra Giri,krispcall-client,Task/refactor refine UI krisp 1199,5,merged,0,2021-03-31T09:40:55Z,0,1,2021-03-31,09:40:55
+811,Tushant Khatiwada,krispcall-client,using constants for action type,1,merged,0,2021-03-30T09:51:45Z,0,1,2021-03-30,09:51:45
+812,Tushant Khatiwada,krispcall-client,use constants on actions,2,closed,0,,0,1,,
+813,Tushant Khatiwada,krispcall-client,Task/tag navigation dnd status,3,merged,0,2021-03-30T08:55:51Z,0,1,2021-03-30,08:55:51
+814,Sundar Shahi Thakuri,krispcall-client,Feature/reset password/krisp 560,8,merged,0,2021-03-31T06:18:34Z,0,1,2021-03-31,06:18:34
+815,Ritesh  Sainju,krispcall-client,Task/handle outgoing call,12,merged,0,2021-03-30T08:55:13Z,0,1,2021-03-30,08:55:13
+816,Sundar Shahi Thakuri,krispcall-client,Task/spinner component,4,merged,0,2021-03-30T08:19:17Z,0,1,2021-03-30,08:19:17
+817,Tushant Khatiwada,krispcall-client,set channel DND status,4,merged,0,2021-03-30T03:39:54Z,0,1,2021-03-30,03:39:54
+818,Narendra Giri,krispcall-client,Refactor/tags krisp 1195,3,merged,0,2021-03-30T01:42:29Z,0,1,2021-03-30,01:42:29
+819,Sundar Shahi Thakuri,krispcall-client,Task/edit share access krisp 1193,9,merged,0,2021-03-29T08:45:31Z,0,1,2021-03-29,08:45:31
+820,Narendra Giri,krispcall-client,Task/refactor mic,3,merged,0,2021-03-27T11:40:54Z,0,1,2021-03-27,11:40:54
+821,Sundar Shahi Thakuri,krispcall-client,fix contact search,1,merged,0,2021-03-26T09:35:22Z,0,1,2021-03-26,09:35:22
+822,Sundar Shahi Thakuri,krispcall-client,Refactor/share access,3,merged,0,2021-03-26T09:23:45Z,0,1,2021-03-26,09:23:45
+823,Narendra Giri,krispcall-client,Task/add translation settings/krisp 1184,5,merged,0,2021-03-26T09:38:07Z,0,1,2021-03-26,09:38:07
+824,Tushant Khatiwada,krispcall-client,Feature/add tags from contact/krisp 540,23,merged,0,2021-03-26T07:47:00Z,0,1,2021-03-26,07:47:00
+825,Narendra Giri,krispcall-client,Fix/contact detail flicker,2,merged,0,2021-03-26T06:44:10Z,0,1,2021-03-26,06:44:10
+826,Sundar Shahi Thakuri,krispcall-client,editing state for share access,3,merged,0,2021-03-26T05:32:28Z,0,1,2021-03-26,05:32:28
+827,Ritesh  Sainju,krispcall-client,fixed issue in number name edit,1,merged,0,2021-03-26T02:54:25Z,0,1,2021-03-26,02:54:25
+828,Sundar Shahi Thakuri,krispcall-client,Feature/share number with team/krisp 988,2,merged,0,2021-03-26T01:27:12Z,0,1,2021-03-26,01:27:12
+829,Ritesh  Sainju,krispcall-client,Task/general settings edit update cache/krisp 1170,2,merged,0,2021-03-25T07:57:15Z,0,1,2021-03-25,07:57:15
+830,Ritesh  Sainju,krispcall-client,Task/general settings edit update cache/krisp 1170,2,merged,0,2021-03-25T06:56:00Z,0,1,2021-03-25,06:56:00
+831,Ritesh  Sainju,krispcall-client,Fixed issue in client notes and changes made for Userprofile fragments,1,merged,0,2021-03-25T04:02:52Z,0,1,2021-03-25,04:02:52
+832,Ritesh  Sainju,krispcall-client,Feature/view number settings/krisp 864,2,merged,0,2021-03-25T02:37:50Z,0,1,2021-03-25,02:37:50
+833,Ritesh  Sainju,krispcall-client,Feature/view number settings/krisp 864,3,merged,0,2021-03-24T08:59:01Z,0,1,2021-03-24,08:59:01
+834,Sundar Shahi Thakuri,krispcall-client,Feature/search available number,3,merged,0,2021-03-24T07:50:11Z,0,1,2021-03-24,07:50:11
+835,Narendra Giri,krispcall-client,Task/UI microphone check/krisp 1181,5,merged,0,2021-03-24T06:07:33Z,0,1,2021-03-24,06:07:33
+836,Tushant Khatiwada,krispcall-client,Feature/add tags from contact/krisp 540,3,merged,0,2021-03-23T09:29:58Z,0,1,2021-03-23,09:29:58
+837,Tushant Khatiwada,krispcall-client,Feature/add tags from contact/krisp 540,1697,closed,0,,0,1,,
+838,Sundar Shahi Thakuri,krispcall-client,Feature/search available numbers/krisp 840,7,merged,0,2021-03-24T03:12:38Z,0,1,2021-03-24,03:12:38
+839,Ritesh  Sainju,krispcall-client,Refactor/code splitting,2,merged,0,2021-03-23T08:39:48Z,0,1,2021-03-23,08:39:48
+840,Ritesh  Sainju,krispcall-client,Refactor/code splitting,2,merged,0,2021-03-23T07:58:09Z,0,1,2021-03-23,07:58:09
+841,Ritesh  Sainju,krispcall-client,Hotfix/contacts caching,2,merged,0,2021-03-23T03:44:58Z,0,1,2021-03-23,03:44:58
+842,Tushant Khatiwada,krispcall-client,Feature/list tags navigation/krisp 1158,5,merged,0,2021-03-23T03:39:58Z,0,1,2021-03-23,03:39:58
+843,Narendra Giri,krispcall-client,Task/settings members dropdown refine/krisp 1178,3,merged,0,2021-03-23T01:00:37Z,0,1,2021-03-23,01:00:37
+844,Narendra Giri,krispcall-client,update,1,merged,0,2021-03-22T10:01:17Z,0,1,2021-03-22,10:01:17
+845,Sundar Shahi Thakuri,krispcall-client,refactor: edit number folder structure and remove unnecessary code.,1,merged,0,2021-03-22T09:35:36Z,0,1,2021-03-22,09:35:36
+846,Ritesh  Sainju,krispcall-client,task/update-call-logs-from-subscription,1,merged,0,2021-03-22T09:34:34Z,0,1,2021-03-22,09:34:34
+847,Sundar Shahi Thakuri,krispcall-client,Feature/list all my numbers/krisp 841,7,merged,0,2021-03-22T09:12:23Z,0,1,2021-03-22,09:12:23
+848,Tushant Khatiwada,krispcall-client,Task/contact api changes fix,4,merged,0,2021-03-22T05:43:37Z,0,1,2021-03-22,05:43:37
+849,Ritesh  Sainju,krispcall-client,handle conditions for call option in contact list/detail,1,merged,0,2021-03-22T05:37:14Z,0,1,2021-03-22,05:37:14
+850,Ritesh  Sainju,krispcall-client,Feature/update call status/krisp 914,13,merged,0,2021-03-22T03:43:43Z,0,1,2021-03-22,03:43:43
+851,Tushant Khatiwada,krispcall-client,useOnclickOutside,2,merged,0,2021-03-22T01:50:39Z,0,1,2021-03-22,01:50:39
+852,Ritesh  Sainju,krispcall-client,Refactor/atomic design structure,2,merged,0,2021-03-19T09:03:58Z,0,1,2021-03-19,09:03:58
+853,Ritesh  Sainju,krispcall-client,restructure folder atomic design,2,merged,0,2021-03-19T08:21:23Z,0,1,2021-03-19,08:21:23
+854,Sundar Shahi Thakuri,krispcall-client,refactor: seprated delete modal component from setting member dropdown,1,merged,0,2021-03-19T09:02:49Z,0,1,2021-03-19,09:02:49
+855,Sundar Shahi Thakuri,krispcall-client,Refactor/number card,4,merged,0,2021-03-19T04:26:28Z,0,1,2021-03-19,04:26:28
+856,Narendra Giri,krispcall-client,Task/UI custom tags/krisp 1164,11,merged,0,2021-03-22T09:38:41Z,0,1,2021-03-22,09:38:41
+857,Ritesh  Sainju,krispcall-client,Bugs/contact add detail,5,merged,0,2021-03-18T06:20:33Z,0,1,2021-03-18,06:20:33
+858,Sundar Shahi Thakuri,krispcall-client,Refactor/add utility and fix bug,4,merged,0,2021-03-18T05:23:15Z,0,1,2021-03-18,05:23:15
+859,Ritesh  Sainju,krispcall-client,Twilio client,36,merged,0,2021-03-18T02:48:46Z,0,1,2021-03-18,02:48:46
+860,Narendra Giri,krispcall-client,Task/UI tags/krisp 1152,4,merged,0,2021-03-18T01:53:29Z,0,1,2021-03-18,01:53:29
+861,Sundar Shahi Thakuri,krispcall-client,Task/list number from api in member,2,merged,0,2021-03-18T01:51:12Z,0,1,2021-03-18,01:51:12
+862,Sundar Shahi Thakuri,krispcall-client,Task/unpin message from top bar,11,merged,0,2021-03-17T07:04:25Z,0,1,2021-03-17,07:04:25
+863,Sundar Shahi Thakuri,krispcall-client,fix: undefined in new contact,1,merged,0,2021-03-16T05:27:46Z,0,1,2021-03-16,05:27:46
+864,Narendra Giri,krispcall-client,Task/refine UI member invite/krisp 1140,4,merged,0,2021-03-16T01:23:30Z,0,1,2021-03-16,01:23:30
+865,Sundar Shahi Thakuri,krispcall-client,Feature/search  and filters,9,merged,0,2021-03-16T08:58:39Z,0,1,2021-03-16,08:58:39
+866,Narendra Giri,krispcall-client,Task/refactoring/krisp 1131,5,merged,0,2021-03-15T01:04:16Z,0,1,2021-03-15,01:04:16
+867,Ritesh  Sainju,krispcall-client,Bug/existing member invite/krisp 1017,3,merged,0,2021-03-12T08:45:11Z,0,1,2021-03-12,08:45:11
+868,Sundar Shahi Thakuri,krispcall-client,Bug/back to team list after delete,1,merged,0,2021-03-12T08:30:07Z,0,1,2021-03-12,08:30:07
+869,Sundar Shahi Thakuri,krispcall-client,Persist and Rehydrate Cache,2,merged,0,2021-03-12T07:36:18Z,0,1,2021-03-12,07:36:18
+870,Narendra Giri,krispcall-client,add badge,4,merged,0,2021-03-12T03:54:49Z,0,1,2021-03-12,03:54:49
+871,Sundar Shahi Thakuri,krispcall-client,Task/disable message now button on detail page,1,merged,0,2021-03-12T05:33:14Z,0,1,2021-03-12,05:33:14
+872,Tushant Khatiwada,krispcall-client,using typePolicies to show unseen count on Channel Type,1,merged,0,2021-03-12T02:33:28Z,0,1,2021-03-12,02:33:28
+873,Narendra Giri,krispcall-client,Task/refine UI/k risp 1123,3,merged,0,2021-03-12T02:41:52Z,0,1,2021-03-12,02:41:52
+874,Ritesh  Sainju,krispcall-client,Bug/default language/krisp 1116,3,merged,0,2021-03-11T05:01:50Z,0,1,2021-03-11,05:01:50
+875,Sundar Shahi Thakuri,krispcall-client,refactor: redirect to number buy page on no number,1,merged,0,2021-03-10T10:12:16Z,0,1,2021-03-10,10:12:16
+876,Sundar Shahi Thakuri,krispcall-client, [FIX #272 ] allContact query didn't cleared after navigate to others route,2,merged,0,2021-03-10T09:23:33Z,0,1,2021-03-10,09:23:33
+877,Tushant Khatiwada,krispcall-client,showing new conversation count on a badge,2,merged,0,2021-03-10T09:16:04Z,0,1,2021-03-10,09:16:04
+878,Ritesh  Sainju,krispcall-client,Bug/refetch new invited members/krisp 1117,2,merged,0,2021-03-10T09:22:07Z,0,1,2021-03-10,09:22:07
+879,Narendra Giri,krispcall-client,Task/custom table pagination/krisp 1120,5,merged,0,2021-03-10T09:42:10Z,0,1,2021-03-10,09:42:10
+880,Sundar Shahi Thakuri,krispcall-client,chore: api integrate search in contact list,1,merged,0,2021-03-10T07:43:23Z,0,1,2021-03-10,07:43:23
+881,Ritesh  Sainju,krispcall-client,Bug/add team update cache/krisp 1115,2,merged,0,2021-03-10T06:58:20Z,0,1,2021-03-10,06:58:20
+882,Tushant Khatiwada,krispcall-client,Feature/archive message/krisp 1077,7,merged,0,2021-03-10T07:45:23Z,0,1,2021-03-10,07:45:23
+883,Narendra Giri,krispcall-client,Refine Sign up,1,merged,0,2021-03-10T05:48:39Z,0,1,2021-03-10,05:48:39
+884,Sundar Shahi Thakuri,krispcall-client,[REVIEW ONLY] Feature/search contact/krisp 533,3,merged,0,2021-03-10T06:13:19Z,0,1,2021-03-10,06:13:19
+885,Ritesh  Sainju,krispcall-client,Bug/update cache workspace add/1105,2,merged,0,2021-03-10T02:08:05Z,0,1,2021-03-10,02:08:05
+886,Narendra Giri,krispcall-client,Task/refine user auth UI/krisp 1104,3,merged,0,2021-03-10T01:51:33Z,0,1,2021-03-10,01:51:33
+887,Tushant Khatiwada,krispcall-client,Task/remove workspace id/krisp 1112,3,merged,0,2021-03-09T08:24:59Z,0,1,2021-03-09,08:24:59
+888,Ritesh  Sainju,krispcall-client,Refactor/member invitee login,5,merged,0,2021-03-09T04:32:22Z,0,1,2021-03-09,04:32:22
+889,Tushant Khatiwada,krispcall-client,"Pin Unpin and Stare, Unstare",5,merged,0,2021-03-09T03:55:54Z,0,1,2021-03-09,03:55:54
+890,Narendra Giri,krispcall-client,Task/design fix contact detail/krisp 1083,3,merged,0,2021-03-09T01:58:53Z,0,1,2021-03-09,01:58:53
+891,Sundar Shahi Thakuri,krispcall-client,search conversation,12,merged,0,2021-03-09T09:20:06Z,0,1,2021-03-09,09:20:06
+892,Ritesh  Sainju,krispcall-client,Hotfix/invite login change schema,2,merged,0,2021-03-08T09:24:58Z,0,1,2021-03-08,09:24:58
+893,Narendra Giri,krispcall-client,Task/refine sidebar UI/krisp 1080,2,merged,0,2021-03-08T09:27:41Z,0,1,2021-03-08,09:27:41
+894,Tushant Khatiwada,krispcall-client,Hotfix/fix contact issue/krisp 1011,4,merged,0,2021-03-08T09:25:37Z,0,1,2021-03-08,09:25:37
+895,Ritesh  Sainju,krispcall-client,Feature/editable contact name/krisp 1079,3,merged,0,2021-03-08T04:20:07Z,0,1,2021-03-08,04:20:07
+896,Sundar Shahi Thakuri,krispcall-client,refactor: reorganise client-to-agent chat-box  folder structure,1,merged,0,2021-03-08T04:02:59Z,0,1,2021-03-08,04:02:59
+897,Ritesh  Sainju,krispcall-client,added editable field for name in contact detail ,2,merged,0,2021-03-08T03:40:11Z,0,1,2021-03-08,03:40:11
+898,Ritesh  Sainju,krispcall-client,Bug/contact detail update allcontacts,3,merged,0,2021-03-05T09:14:46Z,0,1,2021-03-05,09:14:46
+899,Narendra Giri,krispcall-client,Task/refine UI contact message dropdown/krisp 1062,3,merged,0,2021-03-05T08:55:12Z,0,1,2021-03-05,08:55:12
+900,Sundar Shahi Thakuri,krispcall-client,refactor: removed antd icons,1,merged,0,2021-03-05T08:38:37Z,0,1,2021-03-05,08:38:37
+901,Tushant Khatiwada,krispcall-client,Hotfix/fix contact bug,3,merged,0,2021-03-05T07:50:59Z,0,1,2021-03-05,07:50:59
+902,Ritesh  Sainju,krispcall-client,fixed issue for sorting chat messages,1,merged,0,2021-03-05T07:32:00Z,0,1,2021-03-05,07:32:00
+903,Sundar Shahi Thakuri,krispcall-client,Refactor/contact logs,5,merged,0,2021-03-05T07:28:24Z,0,1,2021-03-05,07:28:24
+904,Sundar Shahi Thakuri,krispcall-client,Show contact in contact logs when redirect from contact list,12,merged,0,2021-03-05T06:08:21Z,0,1,2021-03-05,06:08:21
+905,Narendra Giri,krispcall-client,Task/add playbackrate audioplayer UI/krisp 1056,5,merged,0,2021-03-05T06:13:16Z,0,1,2021-03-05,06:13:16
+906,Tushant Khatiwada,krispcall-client,Hotfix/fix contact bug,4,merged,0,2021-03-05T00:51:19Z,0,1,2021-03-05,00:51:19
+907,Narendra Giri,krispcall-client,Add universal search ui,3,merged,0,2021-03-04T09:47:22Z,0,1,2021-03-04,09:47:22
+908,Ritesh  Sainju,krispcall-client,Task/auto refresh contact logs on new msg,5,merged,1,2021-03-04T04:35:32Z,0,1,2021-03-04,04:35:32
+909,Sundar Shahi Thakuri,krispcall-client,Refactor/conversation sorting and update,2,closed,0,,0,1,,
+910,Sundar Shahi Thakuri,krispcall-client,refactor: use route from constant,1,merged,0,2021-03-03T07:26:32Z,0,1,2021-03-03,07:26:32
+911,Ritesh  Sainju,krispcall-client,auto refresh chat message on receive and send,1,merged,0,2021-03-03T04:37:48Z,0,1,2021-03-03,04:37:48
+912,Tushant Khatiwada,krispcall-client,Refactor/intersection observer and token refresh,9,merged,0,2021-03-03T03:09:55Z,0,1,2021-03-03,03:09:55
+913,Ritesh  Sainju,krispcall-client,Task/scroll bar chatbox/krisp 1048,3,merged,0,2021-03-03T02:52:44Z,0,1,2021-03-03,02:52:44
+914,Narendra Giri,krispcall-client,Task/inbox search contacts UI/krisp 1038,4,merged,0,2021-03-02T14:06:40Z,0,1,2021-03-02,14:06:40
+915,Sundar Shahi Thakuri,krispcall-client,send sms from contact list/krisp 547,15,merged,0,2021-03-03T06:59:01Z,0,1,2021-03-03,06:59:01
+916,Ritesh  Sainju,krispcall-client,change email mutation,1,merged,0,2021-03-02T07:37:13Z,0,1,2021-03-02,07:37:13
+917,Narendra Giri,krispcall-client,Task/inbox refine UI/krisp 995,3,merged,0,2021-03-02T07:11:12Z,0,1,2021-03-02,07:11:12
+918,Sundar Shahi Thakuri,krispcall-client,Feature/contact pagination/krisp 986,4,merged,0,2021-03-02T05:45:53Z,0,1,2021-03-02,05:45:53
+919,Ritesh  Sainju,krispcall-client,Feature/change email/krisp 814,2,merged,0,2021-03-01T05:17:18Z,0,1,2021-03-01,05:17:18
+920,Sundar Shahi Thakuri,krispcall-client,moved files to respective folder,1,merged,0,2021-03-01T04:21:52Z,0,1,2021-03-01,04:21:52
+921,Narendra Giri,krispcall-client,Refactor: Modals,4,merged,0,2021-02-28T15:25:53Z,0,1,2021-02-28,15:25:53
+922,Sundar Shahi Thakuri,krispcall-client,Fixes/callbox status fixes,3,merged,0,2021-02-26T05:00:45Z,0,1,2021-02-26,05:00:45
+923,Ritesh  Sainju,krispcall-client,Feature/delete note,10,merged,0,2021-02-26T05:06:53Z,0,1,2021-02-26,05:06:53
+924,Tushant Khatiwada,krispcall-client,Feature/inbox list/krisp 877,25,merged,1,2021-02-26T02:50:05Z,0,1,2021-02-26,02:50:05
+925,Sundar Shahi Thakuri,krispcall-client,[REFINEMENT] CallBox,4,merged,0,2021-02-26T02:31:49Z,0,1,2021-02-26,02:31:49
+926,Narendra Giri,krispcall-client,Task/refine billing plans pop ups 2/krisp 959,6,merged,0,2021-02-26T02:40:37Z,0,1,2021-02-26,02:40:37
+927,Ritesh  Sainju,krispcall-client,Task/utils time duration from now/krisp 981,3,merged,0,2021-02-25T08:46:58Z,0,1,2021-02-25,08:46:58
+928,Ritesh  Sainju,krispcall-client,Task/utils time duration from now/krisp 981,3,merged,0,2021-02-25T08:12:07Z,0,1,2021-02-25,08:12:07
+929,Ritesh  Sainju,krispcall-client,Refactor enable notification workspace setting,2,merged,0,2021-02-25T04:32:13Z,0,1,2021-02-25,04:32:13
+930,Narendra Giri,krispcall-client,Task/refine billing plans pop ups/krisp 943,5,merged,0,2021-02-24T09:34:28Z,0,1,2021-02-24,09:34:28
+931,Ritesh  Sainju,krispcall-client,Feature/chatbox notes api integration/krisp 543,5,merged,0,2021-02-24T08:50:22Z,0,1,2021-02-24,08:50:22
+932,Sundar Shahi Thakuri,krispcall-client,chore: api call on tab change,4,merged,0,2021-02-25T00:02:45Z,0,1,2021-02-25,00:02:45
+933,Ritesh  Sainju,krispcall-client,Feature/call box contact detail,2,merged,0,2021-02-23T09:18:36Z,0,1,2021-02-23,09:18:36
+934,Narendra Giri,krispcall-client,"Refine overview, billing, receipts",2,merged,0,2021-02-23T10:45:18Z,0,1,2021-02-23,10:45:18
+935,Sundar Shahi Thakuri,krispcall-client,Theme variable suggestions using declaration merging,2,merged,0,2021-02-23T08:49:12Z,0,1,2021-02-23,08:49:12
+936,Sundar Shahi Thakuri,krispcall-client,refactor: removed unused assets,1,merged,0,2021-02-23T07:07:17Z,0,1,2021-02-23,07:07:17
+937,Ritesh  Sainju,krispcall-client,Task/api integration workspace notification/krisp 929,3,merged,0,2021-02-23T06:37:10Z,0,1,2021-02-23,06:37:10
+938,Sundar Shahi Thakuri,krispcall-client,Refactor/import module,2,merged,0,2021-02-23T06:07:59Z,0,1,2021-02-23,06:07:59
+939,Sundar Shahi Thakuri,krispcall-client,Task/email chip component/krisp 930,4,merged,0,2021-02-23T05:07:03Z,0,1,2021-02-23,05:07:03
+940,Tushant Khatiwada,krispcall-client,Inbox list,3,merged,0,2021-02-23T01:33:32Z,0,1,2021-02-23,01:33:32
+941,Narendra Giri,krispcall-client,refactor number settings,4,merged,0,2021-02-23T10:45:02Z,0,1,2021-02-23,10:45:02
+942,Tushant Khatiwada,krispcall-client,folder structuring,1,merged,0,2021-02-22T03:14:35Z,0,1,2021-02-22,03:14:35
+943,Ritesh  Sainju,krispcall-client,Refactor/contact module,4,merged,0,2021-02-22T02:07:09Z,0,1,2021-02-22,02:07:09
+944,Sundar Shahi Thakuri,krispcall-client,chore: workspace add modal and form localize,1,merged,0,2021-02-22T09:49:35Z,0,1,2021-02-22,09:49:35
+945,Sundar Shahi Thakuri,krispcall-client,Refactor/navigation,3,merged,0,2021-02-19T08:19:17Z,0,1,2021-02-19,08:19:17
+946,Narendra Giri,krispcall-client,"Add Upload functionality, make selected audio playable",2,merged,0,2021-02-19T08:09:24Z,0,1,2021-02-19,08:09:24
+947,Sundar Shahi Thakuri,krispcall-client,restructure folder for navigations,1,merged,0,2021-02-19T07:11:20Z,0,1,2021-02-19,07:11:20
+948,Ritesh  Sainju,krispcall-client,Refactor/email verification alert reminder,3,merged,0,2021-02-19T06:56:25Z,0,1,2021-02-19,06:56:25
+949,Sundar Shahi Thakuri,krispcall-client,Code cleanup and refactor,5,merged,0,2021-02-19T03:07:23Z,0,1,2021-02-19,03:07:23
+950,Tushant Khatiwada,krispcall-client,Feature/send message mutation/krisp 817,3,merged,0,2021-02-19T04:00:33Z,0,1,2021-02-19,04:00:33
+951,Narendra Giri,krispcall-client,Task/number settings voicemail UI/krisp 913,8,merged,0,2021-02-19T01:00:59Z,0,1,2021-02-19,01:00:59
+952,Sundar Shahi Thakuri,krispcall-client,Static/languages json,5,merged,0,2021-02-18T10:04:23Z,0,1,2021-02-18,10:04:23
+953,Sundar Shahi Thakuri,krispcall-client,Task/localaization  settings,9,merged,0,2021-02-18T10:02:49Z,0,1,2021-02-18,10:02:49
+954,Narendra Giri,krispcall-client,Contact Table checkbox - check on clicking image,1,merged,0,2021-02-17T07:42:36Z,0,1,2021-02-17,07:42:36
+955,Sundar Shahi Thakuri,krispcall-client,Feature/localaization implementation/krisp 883,17,merged,0,2021-02-18T10:02:04Z,0,1,2021-02-18,10:02:04
+956,Tushant Khatiwada,krispcall-client,Feature/list workspace,5,merged,0,2021-02-17T02:56:40Z,0,1,2021-02-17,02:56:40
+957,Ritesh  Sainju,krispcall-client,Hotfix/comment ws link codes,2,merged,0,2021-02-16T08:34:06Z,0,1,2021-02-16,08:34:06
+958,Narendra Giri,krispcall-client,Task/number settings select function/krisp 907,9,merged,0,2021-02-17T07:41:38Z,0,1,2021-02-17,07:41:38
+959,Ritesh  Sainju,krispcall-client,added company in client gql query schema,1,merged,0,2021-02-16T08:26:42Z,0,1,2021-02-16,08:26:42
+960,Sundar Shahi Thakuri,krispcall-client,Feature/localaization krisp 885,6,merged,0,2021-02-17T02:12:49Z,0,1,2021-02-17,02:12:49
+961,Narendra Giri,krispcall-client,Add NumberSettings-Team Shared screen,1,merged,0,2021-02-16T01:07:12Z,0,1,2021-02-16,01:07:12
+962,Narendra Giri,krispcall-client,Display logout pop over to the front,1,merged,1,2021-02-15T02:24:14Z,0,1,2021-02-15,02:24:14
+963,Narendra Giri,krispcall-client,Task/add number settings individual UI/krisp 902,5,merged,0,2021-02-15T01:42:56Z,0,1,2021-02-15,01:42:56
+964,Sundar Shahi Thakuri,krispcall-client,refactor: reorganaize organism folder structure,1,merged,0,2021-02-12T05:53:46Z,0,1,2021-02-12,05:53:46
+965,Ritesh  Sainju,krispcall-client,Feature/update contact information/krisp 545,28,merged,0,2021-02-12T05:53:16Z,0,1,2021-02-12,05:53:16
+966,Narendra Giri,krispcall-client,"Align Circular progress bar, Fix Date style",1,merged,0,2021-02-12T00:46:03Z,0,1,2021-02-12,00:46:03
+967,Tushant Khatiwada,krispcall-client,Feature/update workplace/krisp 473,2,merged,0,2021-02-11T09:46:24Z,0,1,2021-02-11,09:46:24
+968,Narendra Giri,krispcall-client,Task/settings numbers refine UI/krisp 832,10,merged,0,2021-02-12T01:48:13Z,0,1,2021-02-12,01:48:13
+969,Sundar Shahi Thakuri,krispcall-client,Cleanup,3,merged,0,2021-02-11T09:21:33Z,0,1,2021-02-11,09:21:33
+970,Tushant Khatiwada,krispcall-client,Update Workspace Photo,3,merged,0,2021-02-11T05:18:01Z,0,1,2021-02-11,05:18:01
+971,Sundar Shahi Thakuri,krispcall-client,Bug/firing app url on upload/krisp 866,3,merged,0,2021-02-11T04:21:20Z,0,1,2021-02-11,04:21:20
+972,Tushant Khatiwada,krispcall-client,Feature/sms message/krisp 815,6,merged,0,2021-02-11T01:51:08Z,0,1,2021-02-11,01:51:08
+973,Sundar Shahi Thakuri,krispcall-client,Feature/resend invitation and copy link/krisp 465,15,merged,0,2021-02-11T04:18:51Z,0,1,2021-02-11,04:18:51
+974,Sundar Shahi Thakuri,krispcall-client,Fix/workspace members as per api,2,closed,0,,0,1,,
+975,Sundar Shahi Thakuri,krispcall-client,Feature/change role and remove workspace member/krisp 785 464,4,merged,0,2021-02-09T07:49:45Z,0,1,2021-02-09,07:49:45
+976,Sundar Shahi Thakuri,krispcall-client,refactor: implement proper type for query and use of immer,1,merged,0,2021-02-08T09:14:03Z,0,1,2021-02-08,09:14:03
+977,Tushant Khatiwada,krispcall-client,Refactoring,4,merged,0,2021-02-08T03:49:02Z,0,1,2021-02-08,03:49:02
+978,Narendra Giri,krispcall-client,Task/refine UI settings page/krisp 813,11,merged,0,2021-02-08T10:27:59Z,0,1,2021-02-08,10:27:59
+979,Sundar Shahi Thakuri,krispcall-client,[FIX] Error message showing after delete success,2,merged,0,2021-02-08T04:13:28Z,0,1,2021-02-08,04:13:28
+980,Ritesh  Sainju,krispcall-client,Refactor/my profile module,4,merged,0,2021-02-05T04:10:32Z,0,1,2021-02-05,04:10:32
+981,Sundar Shahi Thakuri,krispcall-client,refactor: showing error key instead of whole message.,1,merged,0,2021-02-05T02:31:37Z,0,1,2021-02-05,02:31:37
+982,Sundar Shahi Thakuri,krispcall-client,refactor: removed updating cache and used localstate to update,1,merged,0,2021-02-05T02:17:41Z,0,1,2021-02-05,02:17:41
+983,Sundar Shahi Thakuri,krispcall-client,"[POC] update objects, arrays without mutating the original. ",2,merged,0,2021-02-05T02:05:40Z,0,1,2021-02-05,02:05:40
+984,Sundar Shahi Thakuri,krispcall-client,Feature/change default language/krisp 481,6,merged,0,2021-02-04T09:57:25Z,0,1,2021-02-04,09:57:25
+985,Sundar Shahi Thakuri,krispcall-client,Feature/delete workspace/krisp 474,5,merged,0,2021-02-04T08:12:58Z,0,1,2021-02-04,08:12:58
+986,Narendra Giri,krispcall-client,Task/refine UI settings page/krisp 783,6,merged,0,2021-02-04T09:47:18Z,0,1,2021-02-04,09:47:18
+987,Ritesh  Sainju,krispcall-client,Feature/api integration my profile/krisp 460,8,merged,0,2021-02-04T07:41:00Z,0,1,2021-02-04,07:41:00
+988,Sundar Shahi Thakuri,krispcall-client,chore: filter team list after delete,1,merged,0,2021-02-04T06:26:34Z,0,1,2021-02-04,06:26:34
+989,Tushant Khatiwada,krispcall-client,useCountryFromIp,3,merged,0,2021-02-04T05:42:28Z,0,1,2021-02-04,05:42:28
+990,Tushant Khatiwada,krispcall-client,fixes like workspace name and title,1,merged,0,2021-02-04T05:04:41Z,0,1,2021-02-04,05:04:41
+991,Tushant Khatiwada,krispcall-client,Intersection Observer implementation for Infinite Scrolling,4,merged,0,2021-02-04T01:08:43Z,0,1,2021-02-04,01:08:43
+992,Sundar Shahi Thakuri,krispcall-client,Feature/delete team/krisp 603,5,merged,0,2021-02-03T09:49:56Z,0,1,2021-02-03,09:49:56
+993,Narendra Giri,krispcall-client,Task/refine UI settings page/krisp 779,2,merged,0,2021-02-03T09:08:38Z,0,1,2021-02-03,09:08:38
+994,Ritesh  Sainju,krispcall-client,Feature/api integration my profile/krisp 460,5,merged,0,2021-02-03T07:12:59Z,0,1,2021-02-03,07:12:59
+995,Sundar Shahi Thakuri,krispcall-client,Feature/invite member from navigation/krisp 455,2,merged,0,2021-02-03T07:14:09Z,0,1,2021-02-03,07:14:09
+996,Narendra Giri,krispcall-client,Task/refine UI settings page/krisp 769,8,merged,0,2021-02-03T04:49:29Z,0,1,2021-02-03,04:49:29
+997,Tushant Khatiwada,krispcall-client,few code prettified,1,merged,0,2021-02-03T02:07:57Z,0,1,2021-02-03,02:07:57
+998,Tushant Khatiwada,krispcall-client,Feature/workspace member list/krisp 456,2,merged,0,2021-02-02T09:29:30Z,0,1,2021-02-02,09:29:30
+999,Sundar Shahi Thakuri,krispcall-client,refactor: fix certain lint warning ,2,merged,0,2021-02-02T09:28:33Z,0,1,2021-02-02,09:28:33
+1000,Tushant Khatiwada,krispcall-client,Task/update nav with team,10,merged,0,2021-02-02T08:43:19Z,0,1,2021-02-02,08:43:19
+1001,Narendra Giri,krispcall-client,Task/refine UI contact page/krisp 748,4,merged,0,2021-02-02T04:22:55Z,0,1,2021-02-02,04:22:55
+1002,Sundar Shahi Thakuri,krispcall-client,Config/eslint,6,merged,0,2021-02-02T00:57:32Z,0,1,2021-02-02,00:57:32
+1003,Sundar Shahi Thakuri,krispcall-client,refactor: redirect to login screen after invitation accept,1,merged,0,2021-02-01T06:46:42Z,0,1,2021-02-01,06:46:42
+1004,Sundar Shahi Thakuri,krispcall-client,Bug/undefined in invitation details/krisp 756,2,merged,0,2021-02-01T05:46:13Z,0,1,2021-02-01,05:46:13
+1005,Ritesh  Sainju,krispcall-client,Bug/change email sticky note/krisp 738 kirsp 750,3,merged,0,2021-02-01T03:50:07Z,0,1,2021-02-01,03:50:07
+1006,Sundar Shahi Thakuri,krispcall-client,chore: save user_profile_status to local storage after verified,1,merged,0,2021-02-01T05:10:05Z,0,1,2021-02-01,05:10:05
+1007,Narendra Giri,krispcall-client,Hotfix/fix css errors/krisp 736,5,merged,0,2021-02-01T03:14:34Z,0,1,2021-02-01,03:14:34
+1008,Sundar Shahi Thakuri,krispcall-client,refactor: removed refetch queries and used update function,1,merged,0,2021-02-01T01:42:28Z,0,1,2021-02-01,01:42:28
+1009,Tushant Khatiwada,krispcall-client,remove member api integration,2,merged,0,2021-01-29T06:41:57Z,0,1,2021-01-29,06:41:57
+1010,Sundar Shahi Thakuri,krispcall-client,refactor: fix bug not showing toast and modal not closed after succes…,1,merged,0,2021-01-29T06:31:18Z,0,1,2021-01-29,06:31:18
+1011,Narendra Giri,krispcall-client,Refine UI - Logout Popover,1,merged,0,2021-01-29T04:24:21Z,0,1,2021-01-29,04:24:21
+1012,Sundar Shahi Thakuri,krispcall-client,Hotfix/font issues fix due to css error,2,merged,1,2021-01-29T04:26:57Z,0,1,2021-01-29,04:26:57
+1013,Sundar Shahi Thakuri,krispcall-client,refactor: fix loading bug,1,merged,0,2021-01-29T03:56:02Z,0,1,2021-01-29,03:56:02
+1014,Sundar Shahi Thakuri,krispcall-client,refactor: new user screen layout fix,1,merged,0,2021-01-29T03:59:30Z,0,1,2021-01-29,03:59:30
+1015,Sundar Shahi Thakuri,krispcall-client,chore: work place edit reflecting instantly,3,merged,0,2021-01-29T03:14:38Z,0,1,2021-01-29,03:14:38
+1016,Ritesh  Sainju,krispcall-client,Feature/view profile information/krisp 571,3,merged,0,2021-01-29T02:11:16Z,0,1,2021-01-29,02:11:16
+1017,Narendra Giri,krispcall-client,Task/refine UI settings emoji picker/krisp 734,3,merged,0,2021-01-29T01:25:00Z,0,1,2021-01-29,01:25:00
+1018,Narendra Giri,krispcall-client,Task/refine UI toasters/krisp 731,4,merged,0,2021-01-29T01:22:28Z,0,1,2021-01-29,01:22:28
+1019,Tushant Khatiwada,krispcall-client,contact upload and team member listing,8,merged,0,2021-01-29T03:11:52Z,0,1,2021-01-29,03:11:52
+1020,Ritesh  Sainju,krispcall-client,Task/form validation add members/krisp 462,5,merged,0,2021-01-28T07:24:19Z,0,1,2021-01-28,07:24:19
+1021,Tushant Khatiwada,krispcall-client,notifications on team setting on success operation,1,merged,0,2021-01-28T02:16:06Z,0,1,2021-01-28,02:16:06
+1022,Sundar Shahi Thakuri,krispcall-client,Feature/verify email /krisp 730 ,9,merged,0,2021-01-29T03:18:01Z,0,1,2021-01-29,03:18:01
+1023,Narendra Giri,krispcall-client,Task/contact page refine UI/krisp 692,8,merged,0,2021-01-28T05:59:45Z,0,1,2021-01-28,05:59:45
+1024,Tushant Khatiwada,krispcall-client,Feature/edit team,2,merged,0,2021-01-27T07:23:06Z,0,1,2021-01-27,07:23:06
+1025,Sundar Shahi Thakuri,krispcall-client,Feature/edit workspace api integration/krisp 428,4,merged,0,2021-01-26T09:43:04Z,0,1,2021-01-26,09:43:04
+1026,Sundar Shahi Thakuri,krispcall-client,Task/receipts,7,merged,0,2021-01-27T07:24:03Z,0,1,2021-01-27,07:24:03
+1027,Sundar Shahi Thakuri,krispcall-client,refactor: revert back to first and last name,2,merged,0,2021-01-26T09:43:29Z,0,1,2021-01-26,09:43:29
+1028,Ritesh  Sainju,krispcall-client,changed regex for password with atleast 1 special character,1,merged,0,2021-01-26T03:44:19Z,0,1,2021-01-26,03:44:19
+1029,Sundar Shahi Thakuri,krispcall-client,Feature/join with invitation link/krisp 490 ,24,merged,0,2021-01-29T04:12:23Z,0,1,2021-01-29,04:12:23
+1030,Sundar Shahi Thakuri,krispcall-client,refactor: fix undefined user and toast message not showing in success,1,merged,0,2021-01-25T06:30:07Z,0,1,2021-01-25,06:30:07
+1031,Tushant Khatiwada,krispcall-client,Hotfix/client side sorting,4,merged,0,2021-01-22T07:41:51Z,0,1,2021-01-22,07:41:51
+1032,Sundar Shahi Thakuri,krispcall-client,feat: api integration resend verification link,2,merged,0,2021-01-22T06:54:06Z,0,1,2021-01-22,06:54:06
+1033,Narendra Giri,krispcall-client,Confirm  Email,1,merged,1,2021-01-22T05:00:45Z,0,1,2021-01-22,05:00:45
+1034,Ritesh  Sainju,krispcall-client,Task/alert change email,5,merged,0,2021-01-22T05:24:00Z,0,1,2021-01-22,05:24:00
+1035,Sundar Shahi Thakuri,krispcall-client,Task/billing/krisp 682,5,merged,0,2021-01-22T07:10:34Z,0,1,2021-01-22,07:10:34
+1036,Narendra Giri,krispcall-client,Task/inbox page refine UI/krisp 651,3,merged,0,2021-01-21T09:41:20Z,0,1,2021-01-21,09:41:20
+1037,Tushant Khatiwada,krispcall-client,team create,2,merged,0,2021-01-21T09:38:47Z,0,1,2021-01-21,09:38:47
+1038,Sundar Shahi Thakuri,krispcall-client,"Feature/billing cards/krisp 663 ,664",11,merged,0,2021-01-22T07:00:31Z,0,1,2021-01-22,07:00:31
+1039,Tushant Khatiwada,krispcall-client,Feature/contact detail integration/krisp 647,11,merged,0,2021-01-20T08:13:19Z,0,1,2021-01-20,08:13:19
+1040,Sundar Shahi Thakuri,krispcall-client,Task/numbers listing/krisp 519,3,merged,0,2021-01-20T02:51:00Z,0,1,2021-01-20,02:51:00
+1041,Sundar Shahi Thakuri,krispcall-client,"Feature/billing plans overview/krisp 648, 649",10,merged,0,2021-01-20T08:32:44Z,0,1,2021-01-20,08:32:44
+1042,Narendra Giri,krispcall-client,Task/refine UI work on fixes/krisp 639,4,merged,0,2021-01-20T02:54:39Z,0,1,2021-01-20,02:54:39
+1043,Narendra Giri,krispcall-client,Feature/contact page refine UI/krisp 605,5,merged,0,2021-01-19T07:02:26Z,0,1,2021-01-19,07:02:26
+1044,Tushant Khatiwada,krispcall-client,Task/route changes,5,merged,0,2021-01-19T05:13:49Z,0,1,2021-01-19,05:13:49
+1045,Tushant Khatiwada,krispcall-client,Feature/invite member/krisp 462,7,merged,0,2021-01-19T04:11:00Z,0,1,2021-01-19,04:11:00
+1046,Sundar Shahi Thakuri,krispcall-client,refactor: Errorpage Refinement,2,merged,0,2021-01-19T05:08:12Z,0,1,2021-01-19,05:08:12
+1047,Sundar Shahi Thakuri,krispcall-client,Task/registered member invitation screen/krisp 633,4,merged,0,2021-01-22T07:11:20Z,0,1,2021-01-22,07:11:20
+1048,Sundar Shahi Thakuri,krispcall-client,"refactor:remove copy link,cancel, and add back button",1,merged,0,2021-01-19T01:13:12Z,0,1,2021-01-19,01:13:12
+1049,Sundar Shahi Thakuri,krispcall-client,Feature/team page UI/krisp 601,10,merged,0,2021-01-20T00:02:12Z,0,1,2021-01-20,00:02:12
+1050,Narendra Giri,krispcall-client,Feature/contact page refine UI/krisp 600,4,merged,0,2021-01-15T09:03:45Z,0,1,2021-01-15,09:03:45
+1051,Ritesh  Sainju,krispcall-client,"design fixes for login,forgotpasswprd,memberinvite page",1,merged,0,2021-01-15T05:24:10Z,0,1,2021-01-15,05:24:10
+1052,Sundar Shahi Thakuri,krispcall-client,Task/phone input customaization/krisp 572,2,merged,0,2021-01-15T00:32:55Z,0,1,2021-01-15,00:32:55
+1053,Sundar Shahi Thakuri,krispcall-client,Task/auth screen new design/krip 566,8,merged,0,2021-01-15T00:31:32Z,0,1,2021-01-15,00:31:32
+1054,Tushant Khatiwada,krispcall-client,Task/contact refinement/krisp 524,22,merged,0,2021-01-15T02:15:41Z,0,1,2021-01-15,02:15:41
+1055,Sundar Shahi Thakuri,krispcall-client,Task/invitee login screen/krisp 555,7,merged,0,2021-01-15T00:28:16Z,0,1,2021-01-15,00:28:16
+1056,Narendra Giri,krispcall-client,Refine UI - settings/members,1,merged,0,2021-01-14T04:22:31Z,0,1,2021-01-14,04:22:31
+1057,Ritesh  Sainju,krispcall-client,Task/registration updated api integration,3,merged,0,2021-01-14T04:17:11Z,0,1,2021-01-14,04:17:11
+1058,Sundar Shahi Thakuri,krispcall-client,Feature/team/krisp 447,8,merged,0,2021-01-15T00:14:25Z,0,1,2021-01-15,00:14:25
+1059,Tushant Khatiwada,krispcall-client,popup issue with team mutation cleanup,1,merged,0,2021-01-13T03:22:22Z,0,1,2021-01-13,03:22:22
+1060,Sundar Shahi Thakuri,krispcall-client,refactor: team add with add button,1,merged,0,2021-01-13T02:41:20Z,0,1,2021-01-13,02:41:20
+1061,Tushant Khatiwada,krispcall-client,Feature/cleanup contact add,4,merged,0,2021-01-13T01:25:22Z,0,1,2021-01-13,01:25:22
+1062,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 496,3,merged,0,2021-01-12T09:19:30Z,0,1,2021-01-12,09:19:30
+1063,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 496,478,closed,0,,0,1,,
+1064,Tushant Khatiwada,krispcall-client,Task/radio box,5,merged,0,2021-01-12T09:39:11Z,0,1,2021-01-12,09:39:11
+1065,Sundar Shahi Thakuri,krispcall-client,Task/add button in sideworkspacebar/krisp 505,3,merged,0,2021-01-12T06:44:17Z,0,1,2021-01-12,06:44:17
+1066,Sundar Shahi Thakuri,krispcall-client,bugs: fix design broken in production,1,merged,0,2021-01-12T06:05:48Z,0,1,2021-01-12,06:05:48
+1067,Narendra Giri,krispcall-client,Refine UI Settings/Members,3,merged,0,2021-01-12T06:49:38Z,0,1,2021-01-12,06:49:38
+1068,Tushant Khatiwada,krispcall-client,Tassk/form fields refactor/krisp 466,4,merged,0,2021-01-12T06:37:12Z,0,1,2021-01-12,06:37:12
+1069,Sundar Shahi Thakuri,krispcall-client,refactor: replace checkbox with radio,1,merged,0,2021-01-12T09:19:58Z,0,1,2021-01-12,09:19:58
+1070,Sundar Shahi Thakuri,krispcall-client,Task/globalstyle modularization/krisp 448,8,merged,0,2021-01-12T05:00:28Z,0,1,2021-01-12,05:00:28
+1071,Sundar Shahi Thakuri,krispcall-client,Feature/add channel form/krisp 446,10,merged,0,2021-01-12T09:20:33Z,0,1,2021-01-12,09:20:33
+1072,Ritesh  Sainju,krispcall-client,Feature/user verification status alert,3,merged,0,2021-01-12T01:30:06Z,0,1,2021-01-12,01:30:06
+1073,Tushant Khatiwada,krispcall-client,phone input field hooking react form,6,merged,0,2021-01-11T07:53:14Z,0,1,2021-01-11,07:53:14
+1074,Narendra Giri,krispcall-client,Fix spacing in pop up forms,1,merged,0,2021-01-10T12:53:08Z,0,1,2021-01-10,12:53:08
+1075,Ritesh  Sainju,krispcall-client,Task/add perfect scrollbar,2,merged,0,2021-01-08T09:05:48Z,0,1,2021-01-08,09:05:48
+1076,Tushant Khatiwada,krispcall-client,Features/call box related/krisp 344,4,merged,0,2021-01-08T09:10:48Z,0,1,2021-01-08,09:10:48
+1077,Sundar Shahi Thakuri,krispcall-client,refactor: types of onchange,1,merged,0,2021-01-08T07:24:31Z,0,1,2021-01-08,07:24:31
+1078,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 418,5,merged,0,2021-01-08T07:49:13Z,0,1,2021-01-08,07:49:13
+1079,Sundar Shahi Thakuri,krispcall-client,refactor: fix margin-bottom problem between two fields,1,merged,0,2021-01-08T05:41:56Z,0,1,2021-01-08,05:41:56
+1080,Ritesh  Sainju,krispcall-client,created separate HOC for public routes,2,merged,0,2021-01-08T05:20:47Z,0,1,2021-01-08,05:20:47
+1081,Sundar Shahi Thakuri,krispcall-client,Refactor/share access,2,merged,0,2021-01-08T04:57:25Z,0,1,2021-01-08,04:57:25
+1082,Sundar Shahi Thakuri,krispcall-client,Refactor/csv parser,4,merged,0,2021-01-08T03:57:55Z,0,1,2021-01-08,03:57:55
+1083,Ritesh  Sainju,krispcall-client,Task/design implementation logout popover/krisp 420,2,merged,0,2021-01-08T03:38:49Z,0,1,2021-01-08,03:38:49
+1084,Sundar Shahi Thakuri,krispcall-client,refactor: choose one language at a time and discard multipleselection,2,merged,0,2021-01-08T03:56:07Z,0,1,2021-01-08,03:56:07
+1085,Narendra Giri,krispcall-client,Refine Settings UI - Billing & Plans,1,merged,0,2021-01-08T03:35:17Z,0,1,2021-01-08,03:35:17
+1086,Ritesh  Sainju,krispcall-client,api integration for user registration,1,merged,0,2021-01-08T03:25:37Z,0,1,2021-01-08,03:25:37
+1087,Sundar Shahi Thakuri,krispcall-client,Feature/first launch screens/krisp 404,5,merged,0,2021-01-08T03:33:11Z,0,1,2021-01-08,03:33:11
+1088,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 396,3,merged,0,2021-01-07T07:31:42Z,0,1,2021-01-07,07:31:42
+1089,Sundar Shahi Thakuri,krispcall-client,Feature/share access/krisp 397,3,merged,0,2021-01-07T07:12:04Z,0,1,2021-01-07,07:12:04
+1090,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 391,3,merged,0,2021-01-07T05:36:01Z,0,1,2021-01-07,05:36:01
+1091,Ritesh  Sainju,krispcall-client,design implementation for adding new workspace,3,merged,0,2021-01-07T07:08:12Z,0,1,2021-01-07,07:08:12
+1092,Ritesh  Sainju,krispcall-client,Feature/validation signup form/krisp 393,4,merged,0,2021-01-07T03:33:52Z,0,1,2021-01-07,03:33:52
+1093,Sundar Shahi Thakuri,krispcall-client,Task/add member steps form/krisp 392,6,merged,0,2021-01-07T07:09:39Z,0,1,2021-01-07,07:09:39
+1094,Narendra Giri,krispcall-client,Refine Settings UI - Contacts,2,merged,0,2021-01-07T02:53:34Z,0,1,2021-01-07,02:53:34
+1095,Ritesh  Sainju,krispcall-client,Feature/design implementaion/krisp 390,3,merged,0,2021-01-06T09:23:57Z,0,1,2021-01-06,09:23:57
+1096,Sundar Shahi Thakuri,krispcall-client,refactor: emoji picker set flag as default first,1,merged,0,2021-01-07T01:29:30Z,0,1,2021-01-07,01:29:30
+1097,Narendra Giri,krispcall-client,"Refine Settings UI - Edit, Change Popups",1,merged,0,2021-01-06T03:35:44Z,0,1,2021-01-06,03:35:44
+1098,Sundar Shahi Thakuri,krispcall-client,Feature/map imported contact fields/krisp 370,4,merged,0,2021-01-07T01:28:58Z,0,1,2021-01-07,01:28:58
+1099,Sundar Shahi Thakuri,krispcall-client,[WIP] Feature/contact import/krisp 368,5,merged,0,2021-01-06T01:01:10Z,0,1,2021-01-06,01:01:10
+1100,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 361,3,merged,0,2021-01-06T01:05:34Z,0,1,2021-01-06,01:05:34
+1101,Sundar Shahi Thakuri,krispcall-client,Task/tooltip in settings contact/krisp 362,2,merged,0,2021-01-05T02:39:26Z,0,1,2021-01-05,02:39:26
+1102,Tushant Khatiwada,krispcall-client,folder naming conflict resolved,1,merged,0,2021-01-05T02:16:01Z,0,1,2021-01-05,02:16:01
+1103,Narendra Giri,krispcall-client,Feature/settings page refine UI/krisp 352,3,merged,0,2021-01-04T09:45:48Z,0,1,2021-01-04,09:45:48
+1104,Sundar Shahi Thakuri,krispcall-client,Task/profile image upload component/krisp 327,4,merged,0,2021-01-04T09:21:01Z,0,1,2021-01-04,09:21:01
+1105,Sundar Shahi Thakuri,krispcall-client,Task/form submit from modal/krisp 353,11,merged,0,2021-01-05T01:38:06Z,0,1,2021-01-05,01:38:06
+1106,Ritesh  Sainju,krispcall-client,Task/tooltip for sidenavbar,7,merged,0,2021-01-04T04:58:38Z,0,1,2021-01-04,04:58:38
+1107,Sundar Shahi Thakuri,krispcall-client,UI,10,merged,0,2021-01-04T02:31:34Z,0,1,2021-01-04,02:31:34
+1108,Sundar Shahi Thakuri,krispcall-client,UI,292,closed,0,,0,1,,
+1109,Ritesh  Sainju,krispcall-client,Hotfix/addworkspace api integration,2,merged,0,2021-01-04T02:30:42Z,0,1,2021-01-04,02:30:42
+1110,Tushant Khatiwada,krispcall-client,Feature: contact api integration (WIP),13,merged,0,2021-01-06T03:44:50Z,0,1,2021-01-06,03:44:50
+1111,Sundar Shahi Thakuri,krispcall-client,Task/call flow strategy setup component,10,merged,1,2021-01-04T01:30:40Z,0,1,2021-01-04,01:30:40
+1112,Sundar Shahi Thakuri,krispcall-client,Hotfix/side nav design issues,6,merged,1,2021-01-04T01:28:47Z,0,1,2021-01-04,01:28:47
+1113,Narendra Giri,krispcall-client,Feature/inbox page refine UI/krisp 343,4,merged,0,2021-01-03T09:15:36Z,0,1,2021-01-03,09:15:36
+1114,Ritesh  Sainju,krispcall-client,fixed design issue of sidenav bar,1,merged,0,2020-12-31T07:15:38Z,0,1,2020-12-31,07:15:38
+1115,Sundar Shahi Thakuri,krispcall-client,UI,40,merged,0,2020-12-31T07:14:03Z,0,1,2020-12-31,07:14:03
+1116,Ritesh  Sainju,krispcall-client,Task/sidebar design fixes,3,merged,0,2020-12-31T05:05:22Z,0,1,2020-12-31,05:05:22
+1117,Ritesh  Sainju,krispcall-client,Task/fix layout design,3,merged,0,2020-12-31T04:29:45Z,0,1,2020-12-31,04:29:45
+1118,Sundar Shahi Thakuri,krispcall-client,Feature/call states/krisp 318,8,merged,0,2020-12-31T00:16:09Z,0,1,2020-12-31,00:16:09
+1119,Ritesh  Sainju,krispcall-client,Task/refactor sidebar component,4,merged,0,2020-12-31T00:10:58Z,0,1,2020-12-31,00:10:58
+1120,Ritesh  Sainju,krispcall-client,Task/add workspace page fixes,2,merged,0,2020-12-30T05:41:20Z,0,1,2020-12-30,05:41:20
+1121,Sundar Shahi Thakuri,krispcall-client,feat: conversation dropdown option component,1,merged,0,2020-12-30T02:46:26Z,0,1,2020-12-30,02:46:26
+1122,Narendra Giri,krispcall-client,Feature/inbox page refine UI/krisp 285,11,merged,0,2020-12-31T06:57:46Z,0,1,2020-12-31,06:57:46
+1123,Sundar Shahi Thakuri,krispcall-client,Feature/settings language and emoji component/krisp 304,8,merged,0,2020-12-29T07:14:25Z,0,1,2020-12-29,07:14:25
+1124,Ritesh  Sainju,krispcall-client,Add New workspace for new user.,7,merged,0,2020-12-30T05:29:37Z,0,1,2020-12-30,05:29:37
+1125,Tushant Khatiwada,krispcall-client,Feature/workspace channel teams/krisp 271,4,merged,0,2020-12-29T01:36:42Z,0,1,2020-12-29,01:36:42
+1126,Sundar Shahi Thakuri,krispcall-client,Feature/settings pages/krisp 270,27,merged,0,2020-12-28T03:12:42Z,0,1,2020-12-28,03:12:42
+1127,Tushant Khatiwada,krispcall-client,Feature/multiple states/krisp 223,3,merged,0,2020-12-24T04:09:57Z,0,1,2020-12-24,04:09:57
+1128,Sundar Shahi Thakuri,krispcall-client,Feature/workplace and integrations settings/krisp 265,9,merged,0,2020-12-23T08:45:40Z,0,1,2020-12-23,08:45:40
+1129,Sundar Shahi Thakuri,krispcall-client,Feature/edit fields modal/krisp 254,11,merged,0,2020-12-23T04:24:58Z,0,1,2020-12-23,04:24:58
+1130,Sundar Shahi Thakuri,krispcall-client,Feature/contacts setting/krisp 251,35,merged,1,2020-12-23T08:58:49Z,0,1,2020-12-23,08:58:49
+1131,Ritesh  Sainju,krispcall-client,Feature/login page languages dropdown,3,merged,1,2020-12-23T02:38:57Z,0,1,2020-12-23,02:38:57
+1132,Sundar Shahi Thakuri,krispcall-client,Feature/refine design/krisp 242,9,merged,1,2020-12-22T01:22:39Z,0,1,2020-12-22,01:22:39
+1133,Sundar Shahi Thakuri,krispcall-client,Feature/interactive chatbox/krisp 212,14,merged,0,2020-12-21T01:45:29Z,0,1,2020-12-21,01:45:29
+1134,Sundar Shahi Thakuri,krispcall-client,Feature/chatbox lyout refine/krisp 210,8,merged,1,2020-12-18T00:52:28Z,0,1,2020-12-18,00:52:28
+1135,Tushant Khatiwada,krispcall-client,Feature/user restriction/krisp 209,4,merged,0,2020-12-17T09:14:11Z,0,1,2020-12-17,09:14:11
+1136,Tushant Khatiwada,krispcall-client,Feature/localization/krisp 206,5,merged,0,2020-12-17T02:18:33Z,0,1,2020-12-17,02:18:33
+1137,Sundar Shahi Thakuri,krispcall-client,Feature/sidebar refinement/krisp 202,17,merged,0,2020-12-17T00:45:07Z,0,1,2020-12-17,00:45:07
+1138,Tushant Khatiwada,krispcall-client,Feature/auth api integration/krisp 170,4,merged,0,2020-12-16T05:11:15Z,0,1,2020-12-16,05:11:15
+1139,Sundar Shahi Thakuri,krispcall-client,Feature/contact table UI/krisp 199,5,merged,1,2020-12-16T02:30:16Z,0,1,2020-12-16,02:30:16
+1140,Tushant Khatiwada,krispcall-client,media query breakpoint made reusable,1,merged,0,2020-12-15T08:01:59Z,0,1,2020-12-15,08:01:59
+1141,Tushant Khatiwada,krispcall-client,Feature/login UI redesign/krisp 177,10,merged,0,2020-12-14T08:43:14Z,0,1,2020-12-14,08:43:14
+1142,Sundar Shahi Thakuri,krispcall-client,Features/number settings/krisp 185,9,merged,0,2020-12-14T08:33:05Z,0,1,2020-12-14,08:33:05
+1143,Sundar Shahi Thakuri,krispcall-client,Feature/settings/krisp 175,15,merged,0,2020-12-14T03:57:19Z,0,1,2020-12-14,03:57:19
+1144,Sundar Shahi Thakuri,krispcall-client,Feature/contact page components/krisp 164,18,merged,0,2020-12-14T02:05:14Z,0,1,2020-12-14,02:05:14
+1145,Narendra Giri,krispcall-client,Develop,62,merged,1,2020-12-10T04:43:15Z,0,1,2020-12-10,04:43:15
+1146,Sundar Shahi Thakuri,krispcall-client,fixes: fields component confilct in textbox,2,merged,1,2020-12-10T04:32:17Z,0,1,2020-12-10,04:32:17
+1147,Sundar Shahi Thakuri,krispcall-client,feat: errors page and empty contact page,2,merged,1,2020-12-10T03:37:29Z,0,1,2020-12-10,03:37:29
+1148,Tushant Khatiwada,krispcall-client,Feature/auth system/krisp 89,4,merged,0,2020-12-10T03:03:21Z,0,1,2020-12-10,03:03:21
+1149,Sundar Shahi Thakuri,krispcall-client,Feature/chatbox/krisp 93,36,merged,1,2020-12-10T02:27:58Z,0,1,2020-12-10,02:27:58
