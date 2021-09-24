@@ -54,7 +54,7 @@ async def fecth_repositories(oauth_token):
                 )
 
         json_encoded = dict(zip(id, name))
-        with open("repositories.txt", "w") as outfile:
+        with open("repositories.json", "w") as outfile:
             json.dump(json_encoded, outfile)
 
 
