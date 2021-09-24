@@ -31,6 +31,8 @@ def make_query(after_cursor=None):
           title
           commitCount
           description
+          mergedAt
+          createdAt
           webUrl
           state
           userDiscussionsCount
@@ -92,6 +94,8 @@ async def fecth_mergerequest(oauth_token):
         "Commit Count",
         "State",
         "User Comments",
+        "Merged Time",
+        "Requested Time",
         "Reviews",
     ]
     row = []
@@ -103,7 +107,7 @@ async def fecth_mergerequest(oauth_token):
             data = await client.post(
                 endpoint,
                 json=make_query(after_cursor),
-                headers={"Authorization": "Bearer {}".format(oauth_token)},
+                headers={"Authorization": f"Bearer {oauth_token}"},
             )
 
             json_data = data.json()
@@ -120,6 +124,8 @@ async def fecth_mergerequest(oauth_token):
                         merge_request["node"]["commitCount"],
                         merge_request["node"]["state"],
                         merge_request["node"]["userDiscussionsCount"],
+                        merge_request["node"]["mergedAt"],
+                        merge_request["node"]["createdAt"],
                         len(reviews),
                     ]
                 )
@@ -131,7 +137,7 @@ async def fecth_mergerequest(oauth_token):
                 "endCursor"
             ]
 
-    with open("MergeRequest.csv", "w", encoding="UTF8", newline="") as csv_file:
+    with open("merge_request.csv", "w", encoding="UTF8", newline="") as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(header)
         writer.writerows(row)
