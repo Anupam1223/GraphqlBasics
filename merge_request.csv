@@ -1,4 +1,10 @@
 Author,Target Project,Title,Commit Count,State,User Comments,Merged Time,Requested Time,Reviews,Merge Request,Date,Time
+Ritesh  Sainju,krispcall-client,Task/update language translation json,2,merged,0,2021-09-22T09:59:01Z,2021-09-22T09:57:29Z,0,1,2021-09-22,09:57:29
+Pravesh Chapagain,krispcall-client,Deploy UAT frontend,98,merged,0,2021-09-22T07:58:23Z,2021-09-22T07:58:00Z,0,1,2021-09-22,07:58:00
+Tashi Lama,krispcall-client,Task/ui fixes for translation/ks code,2,merged,0,2021-09-22T07:46:38Z,2021-09-22T07:31:57Z,0,1,2021-09-22,07:31:57
+Ritesh  Sainju,krispcall-client,Task/update language translation json,2,merged,0,2021-09-22T07:25:17Z,2021-09-22T07:22:48Z,0,1,2021-09-22,07:22:48
+Sundar Shahi,krispcall-client,feat: updated new leads count on realtime,1,merged,0,2021-09-22T07:20:02Z,2021-09-22T06:44:31Z,0,1,2021-09-22,06:44:31
+Sundar Shahi,krispcall-client,fix: prevented direct submit on enter pressed without next step,2,merged,0,2021-09-22T06:47:34Z,2021-09-22T05:28:37Z,0,1,2021-09-22,05:28:37
 Ritesh  Sainju,krispcall-client,updated translation for search location,1,merged,0,2021-09-22T03:43:43Z,2021-09-22T03:38:48Z,1,1,2021-09-22,03:38:48
 Ritesh  Sainju,krispcall-client,Task/update language translation json,6,merged,1,2021-09-22T03:29:49Z,2021-09-22T03:14:08Z,0,1,2021-09-22,03:14:08
 Sundar Shahi,krispcall-client,fix: fixed broken ulr of country flag,1,merged,0,2021-09-22T03:06:13Z,2021-09-22T02:14:50Z,0,1,2021-09-22,02:14:50
