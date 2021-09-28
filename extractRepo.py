@@ -4,11 +4,11 @@ import json
 
 oauth_token = "h8RDfEWYbA9DRywds6Jj"
 endpoint = "https://gitlab.com/api/graphql"
+
+# ----- extracting groups first -------------------------------------------
 token_for_extracting_groups = (
     "bdc4d07b6faf65e8f1491cf2fea8944b40ab7b82d426b527456100b518136374"
 )
-
-# ----- extracting groups first -------------------------------------------
 groups = []
 with httpx.Client() as client:
     headers = {"Authorization": f"Bearer {token_for_extracting_groups}"}
