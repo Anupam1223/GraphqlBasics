@@ -1,0 +1,82 @@
+[
+    {
+        "id": "gid://gitlab/Project/28003744",
+        "fullpath": "codolytics/api-codolytics",
+        "name": "api-codolytics",
+        "nameWithNamespace": "Codolytics / api-codolytics",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-07-09T01:40:42Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27932481",
+        "fullpath": "codolytics/poc-codolytics-client",
+        "name": "poc-codolytics-client",
+        "nameWithNamespace": "Codolytics / poc-codolytics-client",
+        "openIssuesCount": 1,
+        "forksCount": 0,
+        "starCount": 1,
+        "createdAt": "2021-07-06T08:14:51Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27902733",
+        "fullpath": "codolytics/four-metrics",
+        "name": "Four Metrics",
+        "nameWithNamespace": "Codolytics / Four Metrics",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-07-05T04:25:46Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27768380",
+        "fullpath": "codolytics/git-data-science",
+        "name": "git-data-science",
+        "nameWithNamespace": "Codolytics / git-data-science",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-06-29T03:38:45Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27500681",
+        "fullpath": "codolytics/codolytics_data_visio",
+        "name": "codolytics_data_visio",
+        "nameWithNamespace": "Codolytics / codolytics_data_visio",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-06-17T02:41:51Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27318699",
+        "fullpath": "codolytics/api-poc-codolytics",
+        "name": "api-poc-codolytics",
+        "nameWithNamespace": "Codolytics / api-poc-codolytics",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-06-10T03:50:41Z"
+    },
+    {
+        "id": "gid://gitlab/Project/27318259",
+        "fullpath": "codolytics/codolytics-scripts",
+        "name": "codolytics-scripts",
+        "nameWithNamespace": "Codolytics / codolytics-scripts",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-06-10T03:11:20Z"
+    },
+    {
+        "id": "gid://gitlab/Project/26472718",
+        "fullpath": "krispcall/krispcall-client",
+        "name": "krispcall-client",
+        "nameWithNamespace": "krispcall / krispcall-client",
+        "openIssuesCount": 0,
+        "forksCount": 0,
+        "starCount": 0,
+        "createdAt": "2021-05-07T06:55:38Z"
+    }
+]

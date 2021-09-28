@@ -13,6 +13,7 @@ requests = "^2.26.0"
 flake8 = "^3.9.2"
 black = "^21.9b0"
 python-graphql-client = "^0.4.3"
+python-gitlab = "^2.10.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

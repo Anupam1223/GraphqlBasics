@@ -4,7 +4,21 @@ import json
 
 oauth_token = "h8RDfEWYbA9DRywds6Jj"
 endpoint = "https://gitlab.com/api/graphql"
-groups = ["Codolytics", "Krispcall"]
+
+# ----- extracting groups first -------------------------------------------
+token_for_extracting_groups = (
+    "bdc4d07b6faf65e8f1491cf2fea8944b40ab7b82d426b527456100b518136374"
+)
+groups = []
+with httpx.Client() as client:
+    headers = {"Authorization": f"Bearer {token_for_extracting_groups}"}
+    response_from_gitlab = client.get(
+        "https://gitlab.com/api/v4/groups", headers=headers
+    )
+    response_in_json_format = response_from_gitlab.json()
+for response_in_itr in response_in_json_format:
+    groups.append(response_in_itr["name"])
+# -------------------------------------------------------------------------
 
 
 def make_query(group):
@@ -18,8 +32,15 @@ def make_query(group):
                             }
                             edges{
                                 node {
-                                name
-                                id
+                                    id
+                                    fullPath
+                                    name
+                                    nameWithNamespace
+                                    path
+                                    openIssuesCount
+                                    forksCount
+                                    starCount
+                                    createdAt
                                 }
                             }
                             }
@@ -32,8 +53,7 @@ def make_query(group):
 
 
 async def fecth_repositories(oauth_token):
-    id = []
-    name = []
+    all_data_fetched_for_repo = []
     async with httpx.AsyncClient() as client:
 
         for group in groups:
@@ -46,16 +66,21 @@ async def fecth_repositories(oauth_token):
             json_data = data.json()
 
             for repositories in json_data["data"]["group"]["projects"]["edges"]:
-                id.append(
-                    repositories["node"]["id"],
-                )
-                name.append(
-                    repositories["node"]["name"],
+                all_data_fetched_for_repo.append(
+                    {
+                        "id": repositories["node"]["id"],
+                        "fullpath": repositories["node"]["fullPath"],
+                        "name": repositories["node"]["name"],
+                        "nameWithNamespace": repositories["node"]["nameWithNamespace"],
+                        "openIssuesCount": repositories["node"]["openIssuesCount"],
+                        "forksCount": repositories["node"]["forksCount"],
+                        "starCount": repositories["node"]["starCount"],
+                        "createdAt": repositories["node"]["createdAt"],
+                    }
                 )
 
-        json_encoded = dict(zip(id, name))
-        with open("repositories.txt", "w") as outfile:
-            json.dump(json_encoded, outfile)
+        with open("repositories.json", "w") as outfile:
+            json.dump(all_data_fetched_for_repo, outfile)
 
 
 asyncio.run(fecth_repositories(oauth_token))

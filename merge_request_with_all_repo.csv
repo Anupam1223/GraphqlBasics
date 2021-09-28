@@ -1,0 +1,10 @@
+Author,Target Project,Title,Commit Count,State,User Comments,Merged Time,Requested Time,Reviews,Merge Request,Date,Time,Hours Ago
+Anupam Siwakoti,api-codolytics,almost all covered,1,merged,0,2021-09-27 07:24:45+00:00,2021-09-27 07:24:45+00:00,1,1,2021-09-27,07:24:45,22.0 hour
+Anupam Siwakoti,api-codolytics,working on small changes,2,merged,0,2021-09-27 06:17:33+00:00,2021-09-27 06:17:33+00:00,1,1,2021-09-27,06:17:33,23.0 hour
+Anupam Siwakoti,api-codolytics,for integrating pull request,3,merged,0,2021-09-27 05:40:56+00:00,2021-09-27 05:40:56+00:00,1,1,2021-09-27,05:40:56,24.0 hour
+Anupam Siwakoti,api-codolytics,for integration,57,closed,0,2021-09-27 05:36:12+00:00,2021-09-27 05:36:12+00:00,1,1,2021-09-27,05:36:12,24.0 hour
+Anupam Siwakoti,api-codolytics,created api for extracting repositories,2,merged,0,2021-09-24 04:06:09+00:00,2021-09-24 04:06:09+00:00,1,1,2021-09-24,04:06:09,4.0 day
+Anupam Siwakoti,api-codolytics,"extracted, calculated metrics for merge-request and generated api",3,merged,0,2021-09-22 06:07:34+00:00,2021-09-22 06:07:34+00:00,1,1,2021-09-22,06:07:34,5.0 day
+Anupam Siwakoti,api-codolytics,Calculated metrics and created api for pull request,44,closed,0,2021-09-22 05:43:16+00:00,2021-09-22 05:43:16+00:00,0,1,2021-09-22,05:43:16,6.0 day
+Tushant Khatiwada,api-codolytics,used services folder for metrics related works,4,merged,0,2021-07-20 03:43:45+00:00,2021-07-20 03:43:45+00:00,0,1,2021-07-20,03:43:45,70.0 day
+Tushant Khatiwada,api-codolytics,gitdataminer submodule added (will use pip package in near future though),2,merged,0,2021-07-15 00:43:23+00:00,2021-07-15 00:43:23+00:00,0,1,2021-07-15,00:43:23,75.0 day
